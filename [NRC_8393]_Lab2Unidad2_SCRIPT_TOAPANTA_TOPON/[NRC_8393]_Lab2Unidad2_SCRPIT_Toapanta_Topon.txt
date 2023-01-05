@@ -1,0 +1,145 @@
+CREATE TABLE coordenada
+  ( coordenada_id INTEGER PRIMARY KEY AUTOINCREMENT,
+      longitud VARCHAR(20),
+      latitud VARCHAR(20)
+      );
+
+
+CREATE TABLE provincia
+    ( provincia_id INTEGER PRIMARY KEY AUTOINCREMENT,
+      provincia_nombre VARCHAR(20),
+      provincia_status VARCHAR(20),
+	coordenada_id INTEGER NOT NULL,
+      CONSTRAINT fk_coordenada,
+      FOREIGN KEY (coordenada_id) REFERENCES coordenada(coordenada_id)
+      );
+CREATE INDEX IFK_provincia_coordenada_id ON provincia ( coordenada_id );
+
+
+CREATE TABLE canton
+    ( canton_id INTEGER PRIMARY KEY AUTOINCREMENT,
+      canton_nombre VARCHAR(20),
+      canton_status VARCHAR(20),
+      provincia_id INTEGER NOT NULL,
+      CONSTRAINT fk_pronvincia,
+      FOREIGN KEY (provincia_id) REFERENCES provincia(provincia_id)
+      );
+
+CREATE INDEX IFK_canton_provincia_id ON canton ( provincia_id );
+
+CREATE TABLE parroquia
+    ( parroquia_id INTEGER PRIMARY KEY AUTOINCREMENT,
+      parroquia_nombre VARCHAR(20),
+      parroquia_status VARCHAR(20),
+      canton_id INTEGER NOT NULL,
+      CONSTRAINT fk_canton,
+      FOREIGN KEY (canton_id) REFERENCES canton(canton_id)
+      );
+
+CREATE INDEX IFK_parroquia_canton_id ON parroquia ( canton_id );
+
+CREATE TABLE ciudad
+    ( ciudad_id INTEGER PRIMARY KEY AUTOINCREMENT,
+      ciudad_nombre VARCHAR(20),
+      ciudad_status VARCHAR(20),
+      parroquia_id INTEGER NOT NULL,
+      CONSTRAINT fk_parroquia,
+      FOREIGN KEY (parroquia_id) REFERENCES parroquia(parroquia_id)
+      );
+
+CREATE INDEX IFK_ciudad_parroquia_id ON ciudad ( parroquia_id );
+
+CREATE TABLE upc
+    ( upc_id INTEGER PRIMARY KEY AUTOINCREMENT,
+      upc_nombre VARCHAR(20),
+      upc_status VARCHAR(20),
+      ciudad_id INTEGER NOT NULL,
+      CONSTRAINT fk_ciudad,
+      FOREIGN KEY (ciudad_id) REFERENCES ciudad(ciudad_id)
+      );
+
+CREATE INDEX IFK_upc_ciudad_id ON upc ( ciudad_id );
+
+ CREATE TABLE policia (
+      policia_id     INTEGER NOT NULL PRIMARY KEY,
+  	policia_nombre           VARCHAR(50),
+	policia_cargo           VARCHAR(50) NOT NULL,
+      policia_salario   VARCHAR(20) NOT NULL,
+	policia_status VARCHAR(20)
+    );
+
+
+
+CREATE TABLE barrio
+    ( barrio_id INTEGER PRIMARY KEY AUTOINCREMENT,
+      barrio_nombre VARCHAR(20),
+      barrio_status VARCHAR(20),
+      policia_id INTEGER NOT NULL,
+      CONSTRAINT fk_policia,
+      FOREIGN KEY (policia_id) REFERENCES policia(policia_id)
+      );
+
+CREATE INDEX IFK_barrio_policia_id ON barrio ( policia_id );
+
+CREATE  TABLE civil
+    ( civil_id INTEGER PRIMARY KEY AUTOINCREMENT,
+      civil_nombre VARCHAR(20),
+      civil_status VARCHAR(20),
+      barrio_id INTEGER NOT NULL,
+      CONSTRAINT fk_barrio,
+      FOREIGN KEY (barrio_id) REFERENCES barrio(barrio_id)
+      );
+
+CREATE INDEX IFK_civil_barrio_id ON civil ( barrio_id );
+
+CREATE TABLE incidente
+    ( incidente_id INTEGER PRIMARY KEY AUTOINCREMENT,
+      incidente_nombre VARCHAR(20),
+      incidente_status VARCHAR(20),
+      civil_id INTEGER NOT NULL,
+      CONSTRAINT fk_civil,
+      FOREIGN KEY (civil_id) REFERENCES civil(civil_id)
+      );
+
+CREATE INDEX IFK_incidente_civil_id ON incidente ( civil_id );
+ 
+ CREATE TABLE delicuente (
+      delicunete_id     INTEGER NOT NULL PRIMARY KEY,
+  	delicuente_nombre           VARCHAR(50),
+	delicuente_pandilla           VARCHAR(50) NOT NULL,
+       delicuente_apodo   VARCHAR(20) NOT NULL,
+	delicuente_status VARCHAR(20)
+    );
+
+ 
+
+CREATE TABLE asaltar
+( asaltar_id INTEGER PRIMARY KEY ,
+   
+      delicuente_id INTEGER NOT NULL,
+      barrio_id INTEGER NOT NULL,
+	forma_asaltar VARCHAR(20),
+      CONSTRAINT fk_asaltar,
+      FOREIGN KEY (delicuente_id) REFERENCES delicuente(delicuente_id),
+ 	FOREIGN KEY (barrio_id) REFERENCES barrio(barrio_id)
+	);	
+
+CREATE TABLE habitad
+( habitadad_id INTEGER PRIMARY KEY ,
+   
+      upc_id INTEGER NOT NULL,
+      policia_id INTEGER NOT NULL,
+	descripcion_upc VARCHAR(20),
+	CONSTRAINT fk_habitad,
+      FOREIGN KEY (upc_id) REFERENCES upc(upc_id),
+ 	FOREIGN KEY (policia_id) REFERENCES policia(policia_id)
+	);	
+
+
+
+
+
+
+
+
+
