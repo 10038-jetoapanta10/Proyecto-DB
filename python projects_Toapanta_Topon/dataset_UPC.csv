@@ -1,0 +1,5001 @@
+nbr_upc_id,var_upc_nombre,var_upc_status,nbr_ciu_id
+1,Mcdowellbury,Activo,1
+2,Nicoleshire,Activo,2
+3,North Sandra,Activo,3
+4,West Deborah,Activo,4
+5,Lauramouth,Activo,5
+6,Pachecobury,Activo,6
+7,West Clayton,Activo,7
+8,North Lindsay,Activo,8
+9,Georgestad,Activo,9
+10,Eatonshire,Activo,10
+11,Claybury,Activo,11
+12,New Jessica,Activo,12
+13,Port Kathrynton,Activo,13
+14,Smithbury,Activo,14
+15,Hartborough,Activo,15
+16,Brendastad,Activo,16
+17,Cooperhaven,Activo,17
+18,Port Rebeccachester,Activo,18
+19,Jacquelinestad,Activo,19
+20,South Jacobstad,Activo,20
+21,Stephenmouth,Activo,21
+22,West Reginald,Activo,22
+23,Port Ashley,Activo,23
+24,Lake Justinmouth,Activo,24
+25,South Robertview,Activo,25
+26,Paigestad,Activo,26
+27,East Taylor,Activo,27
+28,North Jacob,Activo,28
+29,New Kathryn,Activo,29
+30,East Destiny,Activo,30
+31,South Mark,Activo,31
+32,East Brandiborough,Activo,32
+33,Ryanbury,Activo,33
+34,North Ericmouth,Activo,34
+35,Leeborough,Activo,35
+36,Garnerside,Activo,36
+37,Tuckermouth,Activo,37
+38,South Kevin,Activo,38
+39,New Alyssatown,Activo,39
+40,South Joshuaburgh,Activo,40
+41,Ballardfort,Activo,41
+42,Ronaldfurt,Activo,42
+43,Vegachester,Activo,43
+44,Camachofort,Activo,44
+45,Herrerafurt,Activo,45
+46,Paulhaven,Activo,46
+47,West Sheila,Activo,47
+48,Lake Tiffany,Activo,48
+49,Edwardmouth,Activo,49
+50,South Susan,Activo,50
+51,Jacobshire,Activo,51
+52,Douglasburgh,Activo,52
+53,West Molly,Activo,53
+54,Lake Melinda,Activo,54
+55,Howardview,Activo,55
+56,Port Carolfort,Activo,56
+57,West Stevemouth,Activo,57
+58,Wrightberg,Activo,58
+59,Clintonberg,Activo,59
+60,Port Joycefort,Activo,60
+61,Victorshire,Activo,61
+62,South Jeffreyburgh,Activo,62
+63,Lake Anthonymouth,Activo,63
+64,Leslieview,Activo,64
+65,Hoffmanchester,Activo,65
+66,Port Christine,Activo,66
+67,West Stephaniefurt,Activo,67
+68,East Laurenbury,Activo,68
+69,South Shaun,Activo,69
+70,Matthewfort,Activo,70
+71,Andrewbury,Activo,71
+72,Maystown,Activo,72
+73,Ericastad,Activo,73
+74,Lake Brianborough,Activo,74
+75,North Deniseport,Activo,75
+76,New Christopher,Activo,76
+77,East Vanessaville,Inactivo,77
+78,Angelafurt,Activo,78
+79,Harrisburgh,Activo,79
+80,Brookstown,Activo,80
+81,North Lawrencefurt,Activo,81
+82,West Susanside,Activo,82
+83,Joelmouth,Activo,83
+84,Bakerhaven,Activo,84
+85,Biancastad,Activo,85
+86,Port Jason,Activo,86
+87,Laurenfort,Activo,87
+88,Port Patricia,Activo,88
+89,North Christopher,Activo,89
+90,Amyland,Activo,90
+91,Lake Craigside,Activo,91
+92,Jonestown,Activo,92
+93,North Matthew,Activo,93
+94,Jenniferberg,Activo,94
+95,West Jenniferville,Activo,95
+96,East Maria,Activo,96
+97,New Thomas,Activo,97
+98,Lorihaven,Activo,98
+99,Vickiside,Activo,99
+100,Kristaborough,Activo,100
+101,North Jamesshire,Activo,101
+102,Johnsonstad,Activo,102
+103,Smithburgh,Activo,103
+104,Rodriguezborough,Activo,104
+105,Hernandezland,Activo,105
+106,Jessicaborough,Activo,106
+107,Pamelaberg,Activo,107
+108,Port Nicholasshire,Activo,108
+109,West Brianland,Activo,109
+110,Martinezport,Activo,110
+111,Richardsonton,Activo,111
+112,Josephland,Activo,112
+113,Wilsonchester,Activo,113
+114,Jeffreyfurt,Activo,114
+115,New Charles,Activo,115
+116,Jonathantown,Activo,116
+117,Lake Jose,Activo,117
+118,Hortonport,Activo,118
+119,Dyerhaven,Activo,119
+120,Colemouth,Activo,120
+121,Edwardside,Activo,121
+122,New Rebeccaland,Activo,122
+123,West Christopher,Activo,123
+124,West Kayla,Activo,124
+125,West Jodi,Activo,125
+126,Mariahfurt,Activo,126
+127,Lake Kevin,Activo,127
+128,Castroview,Activo,128
+129,Rickville,Activo,129
+130,Youngberg,Activo,130
+131,South Jared,Activo,131
+132,West Bonnieburgh,Activo,132
+133,New Annamouth,Activo,133
+134,Mahoneybury,Activo,134
+135,Port Micheleview,Activo,135
+136,East Catherineview,Activo,136
+137,Kellyside,Activo,137
+138,Daveville,Activo,138
+139,Bellmouth,Activo,139
+140,Lake Gabriellefurt,Activo,140
+141,Mathisbury,Activo,141
+142,Laurenview,Activo,142
+143,Georgeshire,Activo,143
+144,Pittmanborough,Activo,144
+145,West Janet,Activo,145
+146,Monicaton,Activo,146
+147,East Neilhaven,Activo,147
+148,Adrianmouth,Inactivo,148
+149,Coxchester,Activo,149
+150,West Jose,Activo,150
+151,Johnborough,Activo,151
+152,Gravesfurt,Activo,152
+153,Port Cassandraview,Activo,153
+154,North Samanthaville,Activo,154
+155,East David,Activo,155
+156,South Chris,Activo,156
+157,Port Zacharyport,Activo,157
+158,South Deannaport,Activo,158
+159,South Jenniferberg,Activo,159
+160,Torresmouth,Activo,160
+161,South Jacobbury,Activo,161
+162,New Codymouth,Activo,162
+163,East Anthony,Activo,163
+164,Port Caroline,Activo,164
+165,Ellisland,Activo,165
+166,East Benjaminfurt,Inactivo,166
+167,Davidtown,Inactivo,167
+168,Lisastad,Activo,168
+169,Robertsland,Activo,169
+170,Port Stevenmouth,Activo,170
+171,Lefort,Activo,171
+172,Ericburgh,Activo,172
+173,New Susanville,Activo,173
+174,Port Jeffery,Activo,174
+175,North Joshua,Activo,175
+176,Lake Audrey,Activo,176
+177,Mollyton,Activo,177
+178,Markbury,Activo,178
+179,East Vanessa,Activo,179
+180,West Alexis,Activo,180
+181,Port Jennifertown,Activo,181
+182,Walkerland,Activo,182
+183,Sheahaven,Activo,183
+184,Samanthaburgh,Activo,184
+185,Jamesland,Activo,185
+186,Port Jessica,Activo,186
+187,Pricechester,Activo,187
+188,Port Rita,Inactivo,188
+189,East Benjamin,Activo,189
+190,North Josephshire,Activo,190
+191,Port Sheri,Activo,191
+192,New Fernandoshire,Activo,192
+193,North Danielside,Activo,193
+194,New Amy,Activo,194
+195,New Veronicaberg,Activo,195
+196,Estradaville,Activo,196
+197,Lake Nicole,Inactivo,197
+198,Melindaport,Activo,198
+199,New Brent,Activo,199
+200,South Aaron,Activo,200
+201,New David,Activo,201
+202,Stricklandside,Activo,202
+203,Joanburgh,Activo,203
+204,North Benjaminburgh,Activo,204
+205,Port Lisastad,Inactivo,205
+206,Elizabethstad,Activo,206
+207,Brownland,Activo,207
+208,East Tammy,Activo,208
+209,Lake Maxwellside,Activo,209
+210,Lake Maryton,Inactivo,210
+211,South Travis,Activo,211
+212,Port Amyside,Activo,212
+213,Danielhaven,Activo,213
+214,East Tinastad,Activo,214
+215,East Sarahstad,Activo,215
+216,Dunnview,Activo,216
+217,South Mary,Activo,217
+218,Richardsonshire,Activo,218
+219,East Laurie,Activo,219
+220,Davidstad,Activo,220
+221,Ballburgh,Activo,221
+222,Cruzport,Activo,222
+223,Jeffreytown,Activo,223
+224,Mitchellhaven,Activo,224
+225,East Angelaburgh,Activo,225
+226,Millermouth,Activo,226
+227,Kristenside,Activo,227
+228,East Paul,Activo,228
+229,Matthewview,Activo,229
+230,East Bryanland,Activo,230
+231,Patriciatown,Activo,231
+232,Martinborough,Activo,232
+233,Port Lisa,Activo,233
+234,West Amy,Activo,234
+235,Gailfort,Activo,235
+236,Evanstown,Activo,236
+237,North Alexandermouth,Activo,237
+238,Brianchester,Activo,238
+239,Lake Kara,Activo,239
+240,Wellschester,Activo,240
+241,Lake Michael,Activo,241
+242,North David,Activo,242
+243,Campbellberg,Activo,243
+244,Simpsonchester,Activo,244
+245,Jenkinschester,Activo,245
+246,Lake Ruthborough,Activo,246
+247,Sandraborough,Activo,247
+248,Cynthiatown,Activo,248
+249,West Calebview,Activo,249
+250,Walterberg,Activo,250
+251,Jordanview,Activo,251
+252,East Joseph,Activo,252
+253,Port Rickyborough,Activo,253
+254,New Edwardview,Activo,254
+255,Josephtown,Activo,255
+256,New James,Activo,256
+257,Joelmouth,Activo,257
+258,Sheilastad,Activo,258
+259,Deanberg,Activo,259
+260,Donnamouth,Activo,260
+261,New Christopherstad,Activo,261
+262,Stephensmouth,Activo,262
+263,Port Markchester,Activo,263
+264,Karaburgh,Activo,264
+265,East Meganstad,Activo,265
+266,Port Annette,Activo,266
+267,North Brian,Activo,267
+268,Webstermouth,Activo,268
+269,Port Jasonstad,Activo,269
+270,Lake Melanie,Activo,270
+271,North Mallory,Activo,271
+272,Port Colleen,Activo,272
+273,North Adamstad,Activo,273
+274,Morganstad,Activo,274
+275,North Samantha,Activo,275
+276,Douglasshire,Activo,276
+277,South Laura,Activo,277
+278,Mortonview,Activo,278
+279,Duarteshire,Activo,279
+280,New Michael,Activo,280
+281,New Markland,Activo,281
+282,Port Lisa,Activo,282
+283,Jackberg,Activo,283
+284,East Brandon,Activo,284
+285,East Joy,Activo,285
+286,Williamschester,Activo,286
+287,Robertton,Activo,287
+288,Carlsonburgh,Inactivo,288
+289,Mckayburgh,Activo,289
+290,Port Samanthaland,Activo,290
+291,Ronaldchester,Activo,291
+292,Santanabury,Activo,292
+293,Anafort,Activo,293
+294,East Shannon,Activo,294
+295,West Haleyberg,Activo,295
+296,Lake Vanessa,Activo,296
+297,East Dawnport,Activo,297
+298,Hardingborough,Activo,298
+299,Lake Richard,Activo,299
+300,West Gregory,Activo,300
+301,Masonside,Activo,301
+302,New Stacy,Activo,302
+303,West Danielhaven,Activo,303
+304,Lake Edward,Activo,304
+305,Sharonfort,Activo,305
+306,East Sarahbury,Activo,306
+307,Rodriguezland,Activo,307
+308,Osbornefurt,Activo,308
+309,East Megan,Activo,309
+310,Kimberlyborough,Activo,310
+311,Kristyfort,Activo,311
+312,Yvetteview,Activo,312
+313,Candacefort,Activo,313
+314,South Cassandraton,Activo,314
+315,South Lauraberg,Activo,315
+316,Huntberg,Activo,316
+317,North Patrickland,Activo,317
+318,Johnsonberg,Activo,318
+319,North David,Activo,319
+320,Michaelside,Activo,320
+321,Pearsonmouth,Activo,321
+322,New Tiffanystad,Activo,322
+323,West Fred,Activo,323
+324,Baxterview,Activo,324
+325,Annafort,Activo,325
+326,Melissahaven,Activo,326
+327,North Jasmin,Activo,327
+328,Davidborough,Activo,328
+329,Blanchardville,Activo,329
+330,Toddfurt,Activo,330
+331,Melissaton,Activo,331
+332,Johnsonton,Activo,332
+333,Bakertown,Activo,333
+334,Geraldfurt,Activo,334
+335,Gonzalesbury,Activo,335
+336,Juliefort,Activo,336
+337,Braunville,Activo,337
+338,Seanburgh,Activo,338
+339,East Daniel,Activo,339
+340,Smithton,Activo,340
+341,Lake Mary,Activo,341
+342,Rogersview,Activo,342
+343,Myerston,Activo,343
+344,Norrischester,Activo,344
+345,Lindaborough,Activo,345
+346,Vegabury,Activo,346
+347,Lake Justin,Activo,347
+348,South James,Activo,348
+349,Jensenfurt,Activo,349
+350,Pattersonburgh,Activo,350
+351,Johnfurt,Activo,351
+352,Chenhaven,Activo,352
+353,North Georgefort,Activo,353
+354,Port Maria,Activo,354
+355,New Samuel,Activo,355
+356,Gatestown,Activo,356
+357,Jamesmouth,Activo,357
+358,Randolphtown,Activo,358
+359,South Brittneyfurt,Activo,359
+360,Jacobshaven,Activo,360
+361,Lake Brandi,Activo,361
+362,Sharonburgh,Activo,362
+363,Jeffreytown,Activo,363
+364,Port Adamton,Activo,364
+365,Lindaburgh,Activo,365
+366,Josephhaven,Activo,366
+367,East John,Activo,367
+368,Port Victoria,Activo,368
+369,South Matthew,Activo,369
+370,Brittanymouth,Activo,370
+371,Tanyamouth,Activo,371
+372,Latoyashire,Activo,372
+373,Lake Gregorymouth,Activo,373
+374,North Abigailton,Activo,374
+375,Scottland,Activo,375
+376,Port Jennifer,Activo,376
+377,New Charlesmouth,Activo,377
+378,New Ginaburgh,Activo,378
+379,Port Barbarafurt,Activo,379
+380,Reevesberg,Activo,380
+381,New Benjaminbury,Activo,381
+382,Smithville,Activo,382
+383,Stevensonville,Activo,383
+384,Simmonsville,Activo,384
+385,Anthonytown,Activo,385
+386,Smithshire,Activo,386
+387,Loweshire,Activo,387
+388,North Michael,Activo,388
+389,Sanchezside,Activo,389
+390,Bauerview,Activo,390
+391,West Michaelborough,Activo,391
+392,West Christinemouth,Activo,392
+393,Atkinsmouth,Activo,393
+394,North Lawrencebury,Activo,394
+395,West William,Activo,395
+396,Davidside,Activo,396
+397,Brooksburgh,Activo,397
+398,Edwardsport,Activo,398
+399,Tuckerfort,Activo,399
+400,Port Anneville,Activo,400
+401,Lake Michelletown,Activo,401
+402,Oconnellville,Activo,402
+403,Penaton,Activo,403
+404,Carlsonmouth,Activo,404
+405,Leahberg,Activo,405
+406,Barbarahaven,Activo,406
+407,East James,Activo,407
+408,Bryanstad,Activo,408
+409,North Adamport,Activo,409
+410,New Ninafurt,Activo,410
+411,Davidfort,Activo,411
+412,Wrighthaven,Activo,412
+413,Michaelfort,Activo,413
+414,Zunigaburgh,Activo,414
+415,Carlsonfort,Activo,415
+416,Jonathantown,Activo,416
+417,Lake Vincent,Activo,417
+418,Butlermouth,Activo,418
+419,Wrightville,Activo,419
+420,Lake Ashley,Activo,420
+421,North Matthew,Activo,421
+422,Shafferland,Activo,422
+423,New Aaronburgh,Activo,423
+424,New Emilyfurt,Activo,424
+425,Stephensberg,Activo,425
+426,Jameshaven,Activo,426
+427,South Bonnie,Activo,427
+428,North Bradley,Activo,428
+429,Lake Erinshire,Activo,429
+430,Lake Heatherfurt,Activo,430
+431,West Jessechester,Activo,431
+432,Foxland,Activo,432
+433,Raymondshire,Activo,433
+434,Mayoville,Activo,434
+435,Colonton,Activo,435
+436,Lake Timothy,Activo,436
+437,West Shannonside,Activo,437
+438,Port Laurenchester,Activo,438
+439,New James,Activo,439
+440,Lake Brycemouth,Activo,440
+441,East Thomas,Activo,441
+442,Joshuachester,Activo,442
+443,Lake Matthew,Activo,443
+444,East Lindsay,Inactivo,444
+445,South Leon,Activo,445
+446,Elliottport,Activo,446
+447,West Taylorberg,Activo,447
+448,Scottstad,Activo,448
+449,Edwardside,Activo,449
+450,West Raymondberg,Activo,450
+451,West Christian,Activo,451
+452,Castroberg,Activo,452
+453,Kathleenstad,Activo,453
+454,Williamstown,Activo,454
+455,New Morganmouth,Activo,455
+456,West Eddiechester,Activo,456
+457,Ramirezside,Activo,457
+458,South Kathleen,Activo,458
+459,New Rachelburgh,Activo,459
+460,New Maryside,Activo,460
+461,New Ashleyhaven,Activo,461
+462,Warnermouth,Activo,462
+463,Nicoleshire,Activo,463
+464,Port Kristina,Activo,464
+465,Turnerville,Activo,465
+466,Port Daniel,Activo,466
+467,Port Jessebury,Activo,467
+468,Wilsonborough,Activo,468
+469,North Nicolefurt,Activo,469
+470,Michaelberg,Activo,470
+471,Laurenview,Activo,471
+472,East James,Activo,472
+473,Audreyhaven,Activo,473
+474,Justinchester,Activo,474
+475,Hickmanside,Activo,475
+476,North Lorraine,Activo,476
+477,Bartonberg,Activo,477
+478,Lake Shaneburgh,Activo,478
+479,Diazbury,Activo,479
+480,Lake Carolshire,Activo,480
+481,Millerview,Activo,481
+482,Jakeburgh,Activo,482
+483,New Jamesport,Activo,483
+484,Port Angela,Activo,484
+485,West Laura,Activo,485
+486,Millerstad,Activo,486
+487,South Christina,Activo,487
+488,North David,Activo,488
+489,Port Angela,Activo,489
+490,West Maryville,Activo,490
+491,Hernandezfurt,Activo,491
+492,Aprilmouth,Activo,492
+493,Maureenmouth,Activo,493
+494,West Maria,Activo,494
+495,Davidfort,Activo,495
+496,Hayesville,Activo,496
+497,Patrickview,Activo,497
+498,Port Stephenport,Activo,498
+499,East Jeremy,Activo,499
+500,Mckenziestad,Activo,500
+501,Port Amber,Activo,501
+502,Jenniferstad,Activo,502
+503,Port David,Activo,503
+504,West Timothy,Activo,504
+505,Elizabethborough,Activo,505
+506,Brooksmouth,Activo,506
+507,North Craighaven,Activo,507
+508,Mackport,Activo,508
+509,Anitaborough,Activo,509
+510,Jonesmouth,Inactivo,510
+511,Meredithtown,Activo,511
+512,Andrewsview,Activo,512
+513,Lake Haroldborough,Activo,513
+514,Andreamouth,Activo,514
+515,Wallsland,Activo,515
+516,North Cynthiaberg,Activo,516
+517,South Amandaport,Activo,517
+518,North Adamshire,Activo,518
+519,East Alejandroport,Activo,519
+520,Jenniferport,Activo,520
+521,West Lawrencehaven,Activo,521
+522,Garrisonview,Activo,522
+523,Ortizborough,Activo,523
+524,Grimesborough,Activo,524
+525,Lynchfurt,Activo,525
+526,South Toniton,Activo,526
+527,Patelberg,Activo,527
+528,West Tracy,Activo,528
+529,Lake Mary,Activo,529
+530,North Lisabury,Activo,530
+531,Wilkinstown,Activo,531
+532,South Coreyview,Activo,532
+533,Lake Robertoville,Inactivo,533
+534,Wardland,Activo,534
+535,Dayview,Activo,535
+536,Lake Brian,Activo,536
+537,Andreaview,Activo,537
+538,West Matthew,Activo,538
+539,Matthewside,Activo,539
+540,Wagnerbury,Activo,540
+541,Elizabethbury,Activo,541
+542,West Cody,Activo,542
+543,Richardsonton,Activo,543
+544,Port Kathychester,Activo,544
+545,Andersonmouth,Activo,545
+546,North William,Activo,546
+547,Port Mary,Activo,547
+548,Samanthamouth,Activo,548
+549,West Michael,Activo,549
+550,Alexandraport,Activo,550
+551,Davenportberg,Activo,551
+552,East Jennastad,Activo,552
+553,Cortezland,Activo,553
+554,South Anthony,Activo,554
+555,Lindseymouth,Activo,555
+556,Hudsonshire,Activo,556
+557,East Robert,Activo,557
+558,Daviesmouth,Activo,558
+559,Thompsonchester,Activo,559
+560,Lake Dawnbury,Activo,560
+561,Tonyborough,Activo,561
+562,Garzastad,Activo,562
+563,Millerport,Activo,563
+564,East Brenda,Activo,564
+565,North Lori,Activo,565
+566,Tuckerville,Activo,566
+567,West Erik,Activo,567
+568,Robersonmouth,Activo,568
+569,Josephland,Activo,569
+570,West Marie,Activo,570
+571,New Erin,Activo,571
+572,Lake Albertville,Activo,572
+573,Matthewside,Activo,573
+574,Jonathanview,Activo,574
+575,Sanchezmouth,Activo,575
+576,Margaretmouth,Activo,576
+577,North Lauren,Activo,577
+578,Aaronstad,Activo,578
+579,West Jasminemouth,Activo,579
+580,North Crystal,Activo,580
+581,Lake Lynnborough,Activo,581
+582,Turnerview,Activo,582
+583,Richardland,Activo,583
+584,North Patrick,Activo,584
+585,Lake Dylanton,Activo,585
+586,West Daniel,Activo,586
+587,Gouldton,Activo,587
+588,Christopherbury,Activo,588
+589,East Evan,Activo,589
+590,North Luke,Activo,590
+591,Garyport,Activo,591
+592,West John,Activo,592
+593,Bernardbury,Activo,593
+594,East Robert,Activo,594
+595,Port Travis,Activo,595
+596,East James,Activo,596
+597,Michaelhaven,Activo,597
+598,East Albertville,Activo,598
+599,North William,Activo,599
+600,New James,Activo,600
+601,East Davidtown,Activo,601
+602,Huntside,Activo,602
+603,Justinfort,Activo,603
+604,Nguyenfort,Activo,604
+605,Port Dylanmouth,Activo,605
+606,North Donna,Activo,606
+607,Port Oliviaton,Activo,607
+608,North James,Activo,608
+609,Lesliechester,Activo,609
+610,Jacobsonview,Activo,610
+611,Port Debra,Activo,611
+612,North Richard,Activo,612
+613,East Juliechester,Activo,613
+614,Lake Victoria,Activo,614
+615,West Martha,Activo,615
+616,Port Leroyport,Activo,616
+617,Mileston,Activo,617
+618,Chadchester,Activo,618
+619,New Sophia,Activo,619
+620,West Tonya,Activo,620
+621,Petersonfurt,Activo,621
+622,Lake Belindaview,Activo,622
+623,Grahamberg,Activo,623
+624,North Mauriceborough,Activo,624
+625,Port Johnport,Activo,625
+626,Port Josephberg,Activo,626
+627,Cookport,Activo,627
+628,Sullivanhaven,Activo,628
+629,Bethanyfurt,Activo,629
+630,Jeffburgh,Activo,630
+631,Zacharychester,Activo,631
+632,West Claytonport,Activo,632
+633,West Julieport,Activo,633
+634,South Tiffanyshire,Activo,634
+635,Kelseytown,Activo,635
+636,Port Courtney,Activo,636
+637,Davisport,Activo,637
+638,Tracifort,Activo,638
+639,North Michael,Activo,639
+640,Arianaton,Activo,640
+641,Dianestad,Activo,641
+642,Hallview,Activo,642
+643,South Renee,Activo,643
+644,South Jonathanview,Activo,644
+645,Ashleyton,Activo,645
+646,Sarahshire,Activo,646
+647,New Sarah,Activo,647
+648,South Justintown,Activo,648
+649,Kellyburgh,Activo,649
+650,West Colin,Activo,650
+651,West Larry,Activo,651
+652,Amberfurt,Activo,652
+653,Davidport,Activo,653
+654,Stokesborough,Activo,654
+655,South Danielville,Activo,655
+656,East Rebecca,Activo,656
+657,Jamesfort,Activo,657
+658,North Mikaylafort,Activo,658
+659,Feliciaport,Activo,659
+660,Candicefurt,Activo,660
+661,Amandaton,Activo,661
+662,New Hayden,Activo,662
+663,Raymondhaven,Activo,663
+664,New Gregory,Activo,664
+665,Port Christine,Activo,665
+666,Gibsonshire,Inactivo,666
+667,North Emily,Activo,667
+668,Matthewport,Activo,668
+669,North Amanda,Activo,669
+670,Curtisstad,Activo,670
+671,Haileyport,Activo,671
+672,New Patrickland,Activo,672
+673,Anthonyborough,Activo,673
+674,South Jennifer,Activo,674
+675,New Steven,Activo,675
+676,Dennisville,Activo,676
+677,Watsonhaven,Activo,677
+678,South Deborah,Activo,678
+679,Hansonfort,Activo,679
+680,Blanchardside,Activo,680
+681,Lake Frank,Activo,681
+682,Jonesfort,Activo,682
+683,Port Scottborough,Activo,683
+684,New Jacquelinefurt,Activo,684
+685,New Pamelaton,Activo,685
+686,East Eric,Activo,686
+687,Colemouth,Activo,687
+688,Cardenasberg,Activo,688
+689,North April,Activo,689
+690,Perezport,Activo,690
+691,New Austinborough,Activo,691
+692,Port Jennifertown,Inactivo,692
+693,Morenomouth,Activo,693
+694,Lake Brooke,Activo,694
+695,Lake Jessica,Activo,695
+696,Joshualand,Activo,696
+697,Gonzalezview,Activo,697
+698,Crystalton,Activo,698
+699,Port Michaelbury,Activo,699
+700,South Christine,Activo,700
+701,Lucastown,Activo,701
+702,Martinezfort,Activo,702
+703,Robertmouth,Activo,703
+704,Monicaport,Activo,704
+705,Port Anna,Activo,705
+706,Michaelberg,Activo,706
+707,Jonesland,Activo,707
+708,East Tonystad,Activo,708
+709,Gavinstad,Activo,709
+710,Rosarioport,Activo,710
+711,Lake Bobby,Activo,711
+712,South Nicholeview,Activo,712
+713,Rebeccaborough,Activo,713
+714,Dominguezborough,Activo,714
+715,West Bonnieshire,Activo,715
+716,Hansonview,Activo,716
+717,Port Donnaberg,Activo,717
+718,Turnerland,Activo,718
+719,Port Samuel,Activo,719
+720,Richport,Activo,720
+721,Leahchester,Activo,721
+722,New James,Activo,722
+723,West Miguelstad,Activo,723
+724,Michaelside,Activo,724
+725,Rosarioport,Activo,725
+726,Dylanbury,Activo,726
+727,Meltonland,Activo,727
+728,North Lisa,Activo,728
+729,East Lisatown,Activo,729
+730,Carterborough,Activo,730
+731,North Sarahburgh,Activo,731
+732,South Randy,Activo,732
+733,South Paul,Activo,733
+734,Lake Tyler,Activo,734
+735,Port Brendaborough,Activo,735
+736,New Mark,Activo,736
+737,Vincentton,Activo,737
+738,Hernandezbury,Activo,738
+739,Wayneborough,Activo,739
+740,South Amandaberg,Activo,740
+741,Lake Thomasbury,Activo,741
+742,Debbieberg,Activo,742
+743,Lake Elizabeth,Activo,743
+744,Vangburgh,Activo,744
+745,Alexandertown,Activo,745
+746,Maryburgh,Activo,746
+747,East Ashley,Activo,747
+748,East Emilyshire,Activo,748
+749,West Ernest,Activo,749
+750,Port Eric,Activo,750
+751,West Linda,Activo,751
+752,Michaelshire,Activo,752
+753,Elizabethmouth,Activo,753
+754,East Joshua,Activo,754
+755,Amandaborough,Activo,755
+756,East Abigail,Activo,756
+757,Port Glenntown,Activo,757
+758,Port Eric,Activo,758
+759,Brownborough,Activo,759
+760,Sellersbury,Activo,760
+761,Margaretton,Activo,761
+762,West Aprilview,Activo,762
+763,Port Rebecca,Activo,763
+764,Warrenville,Activo,764
+765,Rosschester,Activo,765
+766,South Stephen,Activo,766
+767,Samuelmouth,Activo,767
+768,North Robert,Activo,768
+769,South Ashley,Activo,769
+770,Katherineland,Activo,770
+771,South Melissaberg,Activo,771
+772,Susanland,Activo,772
+773,Emilyview,Activo,773
+774,Donaldside,Activo,774
+775,Kristinaport,Activo,775
+776,Lake Rachel,Activo,776
+777,Shannonborough,Activo,777
+778,Domingueztown,Activo,778
+779,Kirkbury,Activo,779
+780,Garciashire,Activo,780
+781,East Sandra,Activo,781
+782,Port Jessica,Activo,782
+783,South Jonmouth,Activo,783
+784,East Michaelview,Activo,784
+785,South Anitastad,Activo,785
+786,New Dianefort,Activo,786
+787,East Sarachester,Activo,787
+788,East Seth,Activo,788
+789,South Maria,Activo,789
+790,Parsonsport,Activo,790
+791,Murrayport,Activo,791
+792,Linfort,Activo,792
+793,Lake Cameron,Activo,793
+794,Lauraside,Activo,794
+795,West Daniel,Activo,795
+796,North Amandaview,Activo,796
+797,Brianfurt,Activo,797
+798,Sanchezhaven,Activo,798
+799,Timothymouth,Activo,799
+800,Farleymouth,Activo,800
+801,West Richard,Activo,801
+802,East Ashley,Activo,802
+803,Christophermouth,Activo,803
+804,Lisamouth,Activo,804
+805,Westfurt,Activo,805
+806,North Courtneyport,Inactivo,806
+807,East Sarahborough,Activo,807
+808,Marcusfort,Activo,808
+809,Christopherberg,Inactivo,809
+810,Thomastown,Activo,810
+811,Gomezland,Activo,811
+812,Port Eric,Activo,812
+813,Ingramberg,Activo,813
+814,Jaredshire,Activo,814
+815,Sharonchester,Inactivo,815
+816,Kathrynborough,Activo,816
+817,Port Jason,Activo,817
+818,Pottermouth,Activo,818
+819,Troyshire,Activo,819
+820,North Mark,Activo,820
+821,North Stephenchester,Activo,821
+822,Danielhaven,Activo,822
+823,Susanbury,Activo,823
+824,Meganshire,Activo,824
+825,Danielside,Activo,825
+826,West Colinfurt,Activo,826
+827,South Samanthafurt,Activo,827
+828,North Phyllisland,Activo,828
+829,Victorialand,Activo,829
+830,Port Annland,Activo,830
+831,Staffordstad,Activo,831
+832,Gibsonville,Activo,832
+833,Carsonberg,Activo,833
+834,East Anthony,Activo,834
+835,New Rachelfurt,Activo,835
+836,West Kathyburgh,Activo,836
+837,New Kathryn,Activo,837
+838,Thompsonbury,Activo,838
+839,Elizabethville,Activo,839
+840,Port Ryan,Activo,840
+841,West Julie,Activo,841
+842,Petertown,Activo,842
+843,Lake Kennethmouth,Activo,843
+844,East Kevin,Activo,844
+845,Lake Joshuaview,Activo,845
+846,Howefort,Activo,846
+847,Lake Jessicachester,Activo,847
+848,East Andrewborough,Activo,848
+849,Sarahhaven,Activo,849
+850,Frazierville,Activo,850
+851,Stewartburgh,Activo,851
+852,New Katrinafurt,Activo,852
+853,South Jamesside,Activo,853
+854,West Margarettown,Activo,854
+855,Patrickland,Activo,855
+856,Davismouth,Activo,856
+857,Angelaberg,Activo,857
+858,North Amanda,Activo,858
+859,Kristinaberg,Activo,859
+860,North Crystal,Activo,860
+861,Christopherhaven,Activo,861
+862,South Andreachester,Activo,862
+863,East Christian,Activo,863
+864,Stevensbury,Activo,864
+865,Jacquelinemouth,Activo,865
+866,Wallacehaven,Activo,866
+867,Hamptonchester,Activo,867
+868,North Charles,Activo,868
+869,Angelaside,Activo,869
+870,Shirleybury,Activo,870
+871,West Jonathanshire,Activo,871
+872,South Petermouth,Activo,872
+873,West Paulaborough,Activo,873
+874,Port Peterside,Activo,874
+875,Bradbury,Activo,875
+876,Charlesberg,Activo,876
+877,New Sara,Activo,877
+878,East Luis,Activo,878
+879,Port Alanhaven,Activo,879
+880,Lake Daniel,Activo,880
+881,Port Katherineport,Activo,881
+882,Alanmouth,Activo,882
+883,West Jenniferville,Activo,883
+884,Port Fernandoton,Activo,884
+885,South William,Activo,885
+886,Patriciamouth,Activo,886
+887,Kennethstad,Activo,887
+888,Rogershaven,Activo,888
+889,North Angela,Activo,889
+890,South Daniel,Activo,890
+891,Kimchester,Activo,891
+892,Millertown,Activo,892
+893,East Carolyn,Activo,893
+894,East Alexismouth,Activo,894
+895,East Jeremyville,Activo,895
+896,New Karenmouth,Activo,896
+897,Lake Ronald,Activo,897
+898,North Carolynland,Activo,898
+899,Williamsstad,Activo,899
+900,Greggton,Activo,900
+901,North Christinetown,Activo,901
+902,West Antonio,Activo,902
+903,Heatherside,Activo,903
+904,West Jennifer,Activo,904
+905,Port Samuel,Activo,905
+906,West Karenshire,Activo,906
+907,New Jessicafurt,Activo,907
+908,West Jennifer,Activo,908
+909,Bryantown,Activo,909
+910,South Michelleton,Activo,910
+911,Port Jamesmouth,Activo,911
+912,Duranport,Activo,912
+913,New Kaitlynberg,Activo,913
+914,Port Jennifershire,Activo,914
+915,Mitchellmouth,Activo,915
+916,South Georgehaven,Activo,916
+917,Lisaview,Activo,917
+918,Dickersonbury,Activo,918
+919,South Benjaminmouth,Activo,919
+920,Port Stevenfurt,Activo,920
+921,Eduardoton,Activo,921
+922,Davidton,Activo,922
+923,East Ryan,Activo,923
+924,New Sandraburgh,Activo,924
+925,New Erinville,Activo,925
+926,Welchborough,Activo,926
+927,Smithfurt,Activo,927
+928,Barnesmouth,Activo,928
+929,East Amy,Activo,929
+930,Cisnerostown,Activo,930
+931,North Mark,Activo,931
+932,East Patricia,Activo,932
+933,West Mary,Activo,933
+934,South Steven,Activo,934
+935,Danielchester,Activo,935
+936,New Deborahmouth,Activo,936
+937,Lake Diane,Activo,937
+938,Colinfurt,Activo,938
+939,Port Linda,Activo,939
+940,Sherylborough,Activo,940
+941,Patriciafurt,Activo,941
+942,Gonzalesshire,Activo,942
+943,Rachelborough,Activo,943
+944,Carrollside,Activo,944
+945,Coxview,Activo,945
+946,Kimberlystad,Activo,946
+947,Angelfurt,Activo,947
+948,North Courtney,Activo,948
+949,West Benjaminside,Activo,949
+950,Jasonhaven,Activo,950
+951,Lake Danielleside,Activo,951
+952,Albertstad,Activo,952
+953,North Danielle,Activo,953
+954,Walshfurt,Activo,954
+955,North Johnhaven,Activo,955
+956,Lopezbury,Activo,956
+957,Lake Leslie,Activo,957
+958,Traceymouth,Activo,958
+959,Amberton,Activo,959
+960,Georgeton,Activo,960
+961,Vickiborough,Activo,961
+962,New Taylor,Activo,962
+963,Tinaton,Activo,963
+964,West Timothy,Activo,964
+965,Brownfurt,Activo,965
+966,Stephaniemouth,Activo,966
+967,Doyletown,Activo,967
+968,East Kellyview,Activo,968
+969,East Reginaburgh,Activo,969
+970,Brookeport,Activo,970
+971,Butlerfurt,Activo,971
+972,Michealburgh,Activo,972
+973,Zacharyshire,Activo,973
+974,Gomezside,Activo,974
+975,South Jefferybury,Activo,975
+976,Port Richardstad,Activo,976
+977,Bakerside,Activo,977
+978,West Thomas,Activo,978
+979,Hollyville,Activo,979
+980,Johnsonbury,Activo,980
+981,Harrishaven,Activo,981
+982,Gregoryville,Activo,982
+983,Gonzalezton,Activo,983
+984,Port Beverly,Activo,984
+985,South Amandaside,Activo,985
+986,Douglasshire,Activo,986
+987,Allenhaven,Activo,987
+988,Lake Nathan,Activo,988
+989,New Jacktown,Inactivo,989
+990,Port Susan,Activo,990
+991,Petersonbury,Activo,991
+992,North Susanborough,Activo,992
+993,North Reneeshire,Activo,993
+994,East Ericmouth,Activo,994
+995,Port Dylan,Activo,995
+996,Port Lisa,Activo,996
+997,New Sean,Activo,997
+998,New Chadchester,Activo,998
+999,Lisaland,Activo,999
+1000,East Valerieshire,Activo,1000
+1001,Shelbytown,Activo,1001
+1002,North Christopherfurt,Activo,1002
+1003,East Daniel,Activo,1003
+1004,North Gregoryton,Activo,1004
+1005,Lake Alexandria,Activo,1005
+1006,South Joel,Activo,1006
+1007,South Paulmouth,Activo,1007
+1008,Ericaborough,Activo,1008
+1009,Coleside,Activo,1009
+1010,Lake Kellymouth,Activo,1010
+1011,North Julieberg,Activo,1011
+1012,Chavezchester,Activo,1012
+1013,Lake Johnside,Activo,1013
+1014,South Megan,Activo,1014
+1015,Ericfort,Activo,1015
+1016,East Lacey,Activo,1016
+1017,West Jason,Activo,1017
+1018,North Benjaminhaven,Activo,1018
+1019,Katieville,Activo,1019
+1020,Lake Joshua,Activo,1020
+1021,Joshuabury,Activo,1021
+1022,Johnmouth,Activo,1022
+1023,Lake Erinville,Activo,1023
+1024,South Davidtown,Activo,1024
+1025,Owensbury,Activo,1025
+1026,Fraziermouth,Activo,1026
+1027,Port Christopher,Activo,1027
+1028,Lake Richardberg,Activo,1028
+1029,West Feliciaberg,Activo,1029
+1030,North Kirsten,Activo,1030
+1031,East Jennifer,Activo,1031
+1032,Hodgesbury,Activo,1032
+1033,Amymouth,Activo,1033
+1034,West Sarahhaven,Activo,1034
+1035,Lake Seantown,Activo,1035
+1036,West Jonathanstad,Activo,1036
+1037,Howardside,Activo,1037
+1038,Caitlinhaven,Activo,1038
+1039,Kurtville,Activo,1039
+1040,Randallborough,Activo,1040
+1041,Jacquelineport,Inactivo,1041
+1042,New Troyfort,Activo,1042
+1043,Jessicaside,Activo,1043
+1044,West Edwardshire,Activo,1044
+1045,North Michaeltown,Activo,1045
+1046,Mcguirechester,Activo,1046
+1047,West Matthew,Activo,1047
+1048,New Lance,Activo,1048
+1049,Heathertown,Activo,1049
+1050,Lake Kyle,Activo,1050
+1051,Wolfville,Inactivo,1051
+1052,Port Rhondaland,Activo,1052
+1053,Valdezmouth,Activo,1053
+1054,Novakton,Activo,1054
+1055,Hannahville,Activo,1055
+1056,South Rickstad,Activo,1056
+1057,New Laura,Activo,1057
+1058,New Joel,Activo,1058
+1059,Russellbury,Activo,1059
+1060,Lake Claudia,Activo,1060
+1061,West Andreville,Activo,1061
+1062,Pattersonbury,Activo,1062
+1063,Karenside,Activo,1063
+1064,Kennedyside,Inactivo,1064
+1065,Williamsland,Activo,1065
+1066,Tammieland,Activo,1066
+1067,North Joshua,Activo,1067
+1068,South Richard,Activo,1068
+1069,Lopezport,Activo,1069
+1070,Leechester,Inactivo,1070
+1071,Clarkland,Activo,1071
+1072,North Amanda,Activo,1072
+1073,Gilberthaven,Activo,1073
+1074,Charlesstad,Activo,1074
+1075,Dalefort,Activo,1075
+1076,Danielberg,Activo,1076
+1077,Underwoodburgh,Activo,1077
+1078,North Lisa,Activo,1078
+1079,West Tammy,Activo,1079
+1080,West Marie,Activo,1080
+1081,East Emily,Activo,1081
+1082,North Eric,Activo,1082
+1083,West Chad,Activo,1083
+1084,Martinezburgh,Activo,1084
+1085,Marytown,Inactivo,1085
+1086,West Philip,Activo,1086
+1087,South Hollyburgh,Activo,1087
+1088,Stephenchester,Activo,1088
+1089,Port Deannamouth,Activo,1089
+1090,Port Darrellberg,Activo,1090
+1091,East Steveton,Activo,1091
+1092,West William,Activo,1092
+1093,Valerieton,Activo,1093
+1094,South Debra,Activo,1094
+1095,Wilsonstad,Activo,1095
+1096,Bettybury,Activo,1096
+1097,South Zachary,Activo,1097
+1098,Katelynberg,Activo,1098
+1099,Sanchezport,Activo,1099
+1100,Greenstad,Activo,1100
+1101,Scottfort,Activo,1101
+1102,Wattsland,Activo,1102
+1103,East Courtneymouth,Activo,1103
+1104,East Tiffanybury,Activo,1104
+1105,Ericamouth,Activo,1105
+1106,Amymouth,Activo,1106
+1107,Patriciaview,Activo,1107
+1108,Williamsview,Activo,1108
+1109,Brianstad,Activo,1109
+1110,Lake Sierra,Activo,1110
+1111,North Michellemouth,Inactivo,1111
+1112,Port Kelli,Activo,1112
+1113,Bryanton,Activo,1113
+1114,North Julia,Activo,1114
+1115,Briannabury,Activo,1115
+1116,Port Sethborough,Activo,1116
+1117,Brownville,Activo,1117
+1118,Port Paulfurt,Activo,1118
+1119,Salasview,Inactivo,1119
+1120,West Jordan,Activo,1120
+1121,Nguyenchester,Activo,1121
+1122,Brentborough,Activo,1122
+1123,Lake Jennifershire,Activo,1123
+1124,East Ryan,Activo,1124
+1125,New Kevintown,Activo,1125
+1126,Jonathanfurt,Activo,1126
+1127,Port Davidhaven,Activo,1127
+1128,Amandaton,Activo,1128
+1129,Danfurt,Activo,1129
+1130,Lake Carrie,Activo,1130
+1131,Nancytown,Activo,1131
+1132,North Bridget,Activo,1132
+1133,Herberttown,Activo,1133
+1134,West Harryland,Activo,1134
+1135,West Wesleyside,Activo,1135
+1136,West Tammy,Activo,1136
+1137,West Donald,Activo,1137
+1138,New Christianland,Activo,1138
+1139,Port Heather,Activo,1139
+1140,Bradleytown,Activo,1140
+1141,Ayalafort,Activo,1141
+1142,North Jacquelineburgh,Activo,1142
+1143,Smithhaven,Activo,1143
+1144,New Laurafort,Activo,1144
+1145,East James,Activo,1145
+1146,New Ericmouth,Activo,1146
+1147,North Lauren,Activo,1147
+1148,Cameronmouth,Activo,1148
+1149,North Eric,Activo,1149
+1150,West Jessicamouth,Activo,1150
+1151,Cherylview,Activo,1151
+1152,Lake Christine,Activo,1152
+1153,Susanside,Activo,1153
+1154,Lake Tracishire,Activo,1154
+1155,Valentineborough,Activo,1155
+1156,Davidchester,Activo,1156
+1157,Port Robertstad,Activo,1157
+1158,Lake Raymondstad,Activo,1158
+1159,Dodsonshire,Activo,1159
+1160,Travismouth,Activo,1160
+1161,Robertside,Activo,1161
+1162,East Peter,Activo,1162
+1163,Smithstad,Activo,1163
+1164,Samuelview,Activo,1164
+1165,East Markmouth,Activo,1165
+1166,West Paul,Activo,1166
+1167,Brandonberg,Activo,1167
+1168,Contrerasshire,Activo,1168
+1169,New Loganfurt,Activo,1169
+1170,Lake Brandonstad,Activo,1170
+1171,Craigland,Activo,1171
+1172,Alexanderfort,Activo,1172
+1173,Ricestad,Activo,1173
+1174,North Kellyton,Activo,1174
+1175,Anthonyfort,Activo,1175
+1176,Lake Jenniferville,Activo,1176
+1177,Ellisborough,Activo,1177
+1178,South Jacobton,Activo,1178
+1179,Johnsonburgh,Activo,1179
+1180,Port Josephfurt,Activo,1180
+1181,Jillburgh,Activo,1181
+1182,New Gary,Activo,1182
+1183,Cowanchester,Activo,1183
+1184,Rubioborough,Inactivo,1184
+1185,Reynoldsburgh,Activo,1185
+1186,New Jill,Activo,1186
+1187,Richardtown,Activo,1187
+1188,Jennaport,Activo,1188
+1189,South Cathyfurt,Activo,1189
+1190,Hannahshire,Activo,1190
+1191,East Moniqueview,Activo,1191
+1192,Cummingsborough,Activo,1192
+1193,Sparksfurt,Activo,1193
+1194,Amandahaven,Activo,1194
+1195,Sotobury,Activo,1195
+1196,East Joan,Activo,1196
+1197,Jamesmouth,Activo,1197
+1198,Stephanieville,Activo,1198
+1199,Paultown,Activo,1199
+1200,Michaelview,Activo,1200
+1201,South Charleschester,Activo,1201
+1202,New Tonya,Activo,1202
+1203,Collinsshire,Inactivo,1203
+1204,New Michael,Activo,1204
+1205,East Courtneyville,Activo,1205
+1206,Rodriguezbury,Activo,1206
+1207,Gregorybury,Activo,1207
+1208,Christopherburgh,Activo,1208
+1209,Byrdview,Activo,1209
+1210,Lake Dominichaven,Activo,1210
+1211,West Barbarabury,Activo,1211
+1212,Edwardborough,Activo,1212
+1213,Deborahchester,Activo,1213
+1214,North Amanda,Activo,1214
+1215,North Joanne,Activo,1215
+1216,Nicholsberg,Activo,1216
+1217,Lake Emilytown,Activo,1217
+1218,Perezhaven,Activo,1218
+1219,Port Lori,Activo,1219
+1220,East Timothystad,Activo,1220
+1221,Lake Christophermouth,Activo,1221
+1222,Langhaven,Activo,1222
+1223,Philipborough,Activo,1223
+1224,Torresshire,Activo,1224
+1225,North Christine,Activo,1225
+1226,New Victoriachester,Activo,1226
+1227,South Donna,Activo,1227
+1228,Kingville,Activo,1228
+1229,Jamieside,Activo,1229
+1230,Johnstonmouth,Activo,1230
+1231,Port Kiara,Activo,1231
+1232,Christopherhaven,Activo,1232
+1233,Lake Juliaville,Activo,1233
+1234,North Joshua,Activo,1234
+1235,Wangburgh,Activo,1235
+1236,Michaelfort,Activo,1236
+1237,Harriston,Activo,1237
+1238,West Danielleside,Activo,1238
+1239,Ashleyport,Inactivo,1239
+1240,East Soniaborough,Activo,1240
+1241,Francistown,Activo,1241
+1242,Cabreramouth,Activo,1242
+1243,Port Adam,Activo,1243
+1244,Smithberg,Activo,1244
+1245,West Benjamin,Activo,1245
+1246,Phillipsmouth,Activo,1246
+1247,West Williammouth,Activo,1247
+1248,North Ashley,Activo,1248
+1249,New Lee,Activo,1249
+1250,North Tyler,Activo,1250
+1251,North Andrea,Activo,1251
+1252,West Ronaldbury,Activo,1252
+1253,Port Garyport,Activo,1253
+1254,Stevenshire,Activo,1254
+1255,South Sandramouth,Activo,1255
+1256,Kennethfort,Activo,1256
+1257,Gardnerberg,Activo,1257
+1258,East Crystal,Activo,1258
+1259,Matthewtown,Activo,1259
+1260,New Vanessaville,Activo,1260
+1261,New Andrew,Activo,1261
+1262,Port Elizabeth,Inactivo,1262
+1263,Lake Amymouth,Activo,1263
+1264,North Nicolemouth,Activo,1264
+1265,North Saraville,Activo,1265
+1266,South Michelleton,Activo,1266
+1267,Wattsmouth,Activo,1267
+1268,Port Paul,Activo,1268
+1269,Julieburgh,Activo,1269
+1270,Kristineberg,Activo,1270
+1271,Richardton,Activo,1271
+1272,Jacksonmouth,Activo,1272
+1273,North Carrieborough,Activo,1273
+1274,Adamschester,Inactivo,1274
+1275,Jonathanburgh,Activo,1275
+1276,Matthewport,Activo,1276
+1277,Charlesmouth,Activo,1277
+1278,Port Jamiefurt,Activo,1278
+1279,New Charles,Activo,1279
+1280,Michellemouth,Activo,1280
+1281,Bryanttown,Activo,1281
+1282,East Alexischester,Activo,1282
+1283,Stevenmouth,Activo,1283
+1284,Kingport,Activo,1284
+1285,New Sheri,Activo,1285
+1286,East Tamara,Activo,1286
+1287,Josephmouth,Activo,1287
+1288,Port Garrett,Activo,1288
+1289,Gregoryton,Activo,1289
+1290,Coxchester,Activo,1290
+1291,Jenniferton,Activo,1291
+1292,Washingtonchester,Activo,1292
+1293,North Christina,Activo,1293
+1294,West Davidport,Inactivo,1294
+1295,Lake Robyn,Activo,1295
+1296,Juanburgh,Activo,1296
+1297,Lake Erinmouth,Activo,1297
+1298,North Gregory,Activo,1298
+1299,New Stevenstad,Activo,1299
+1300,Darrylstad,Activo,1300
+1301,Georgehaven,Activo,1301
+1302,Jessicaville,Activo,1302
+1303,Port Yvonnehaven,Activo,1303
+1304,West Laurie,Activo,1304
+1305,Ashleymouth,Activo,1305
+1306,Whitneyhaven,Activo,1306
+1307,New Tamara,Activo,1307
+1308,Judithhaven,Activo,1308
+1309,Pricefurt,Activo,1309
+1310,Bakerside,Activo,1310
+1311,West Rachel,Activo,1311
+1312,Ashleyside,Activo,1312
+1313,Hollyview,Activo,1313
+1314,Lake Rickyburgh,Activo,1314
+1315,Yuhaven,Activo,1315
+1316,Andersonborough,Activo,1316
+1317,Port Lori,Activo,1317
+1318,Mooremouth,Activo,1318
+1319,Carrillomouth,Activo,1319
+1320,Christopherton,Activo,1320
+1321,North Shaunbury,Activo,1321
+1322,Sherrihaven,Activo,1322
+1323,Lake Paulamouth,Activo,1323
+1324,Randybury,Activo,1324
+1325,Alexanderstad,Activo,1325
+1326,Howardstad,Activo,1326
+1327,West Lindsey,Activo,1327
+1328,North Karen,Activo,1328
+1329,North Jeffrey,Activo,1329
+1330,Williamstown,Activo,1330
+1331,New Bradley,Activo,1331
+1332,Kelleystad,Activo,1332
+1333,Port Jaimeville,Activo,1333
+1334,Vanceshire,Activo,1334
+1335,Allenchester,Activo,1335
+1336,Port Julia,Activo,1336
+1337,Carlaborough,Activo,1337
+1338,West Michael,Activo,1338
+1339,East Sharon,Activo,1339
+1340,New Richard,Activo,1340
+1341,Cheryltown,Activo,1341
+1342,Glorialand,Activo,1342
+1343,Bowersshire,Activo,1343
+1344,Johntown,Activo,1344
+1345,East Kurt,Activo,1345
+1346,Ericksonfort,Activo,1346
+1347,North Eileenhaven,Activo,1347
+1348,New Davidside,Activo,1348
+1349,East Davidhaven,Activo,1349
+1350,Owenshaven,Activo,1350
+1351,South Kariberg,Activo,1351
+1352,South Emily,Activo,1352
+1353,New Erikside,Activo,1353
+1354,Lake Grant,Activo,1354
+1355,Austinstad,Activo,1355
+1356,Lisaberg,Activo,1356
+1357,Lake Scott,Activo,1357
+1358,South Melissaside,Activo,1358
+1359,Joneshaven,Activo,1359
+1360,Codyville,Activo,1360
+1361,North Shannon,Activo,1361
+1362,Jessicabury,Activo,1362
+1363,North Laura,Activo,1363
+1364,Kaitlinshire,Activo,1364
+1365,Jennaberg,Activo,1365
+1366,Sheenashire,Activo,1366
+1367,Jessicaton,Activo,1367
+1368,Port Jaredburgh,Activo,1368
+1369,New Mollybury,Activo,1369
+1370,Reedport,Activo,1370
+1371,North Frankhaven,Activo,1371
+1372,New Michaelport,Activo,1372
+1373,Francohaven,Activo,1373
+1374,East Laura,Activo,1374
+1375,Tammymouth,Activo,1375
+1376,Lake Robinfort,Activo,1376
+1377,North Roger,Activo,1377
+1378,Rosestad,Activo,1378
+1379,North Kelly,Activo,1379
+1380,East Christopherfort,Activo,1380
+1381,Woodsmouth,Activo,1381
+1382,Lake Stephenmouth,Activo,1382
+1383,Port Ryanshire,Activo,1383
+1384,New Aimee,Activo,1384
+1385,Annaport,Activo,1385
+1386,Williamfurt,Activo,1386
+1387,Johnstonshire,Activo,1387
+1388,Craigchester,Activo,1388
+1389,Port Chelseafort,Activo,1389
+1390,Perezmouth,Activo,1390
+1391,North Craig,Activo,1391
+1392,New Gregory,Activo,1392
+1393,Lake Ericport,Inactivo,1393
+1394,Stewartland,Activo,1394
+1395,Stephenville,Activo,1395
+1396,North Tinafort,Activo,1396
+1397,Howardburgh,Activo,1397
+1398,West Julie,Activo,1398
+1399,Brownborough,Inactivo,1399
+1400,Port Debra,Activo,1400
+1401,Deborahport,Activo,1401
+1402,Yangmouth,Activo,1402
+1403,East Ashley,Activo,1403
+1404,Port Austin,Activo,1404
+1405,North Nicholas,Activo,1405
+1406,Lake Elijahfurt,Activo,1406
+1407,South Edwardberg,Activo,1407
+1408,North Paul,Activo,1408
+1409,East Donald,Activo,1409
+1410,Millermouth,Activo,1410
+1411,Veronicachester,Activo,1411
+1412,Youngborough,Activo,1412
+1413,Cordovashire,Activo,1413
+1414,East Troyborough,Activo,1414
+1415,East Brandonton,Activo,1415
+1416,North Johnshire,Activo,1416
+1417,New Ashley,Activo,1417
+1418,Port Manuelborough,Activo,1418
+1419,East Trevorbury,Activo,1419
+1420,Youngbury,Activo,1420
+1421,Annaville,Activo,1421
+1422,East Jordan,Activo,1422
+1423,Port Leonard,Activo,1423
+1424,Carrieport,Activo,1424
+1425,East Thomas,Inactivo,1425
+1426,New Katie,Activo,1426
+1427,Littlefurt,Activo,1427
+1428,Lake Ashleybury,Activo,1428
+1429,Port Ruben,Inactivo,1429
+1430,Wattsland,Activo,1430
+1431,Jessicaton,Activo,1431
+1432,Hernandezchester,Activo,1432
+1433,Michellefort,Activo,1433
+1434,East Laurie,Activo,1434
+1435,Seanshire,Inactivo,1435
+1436,East Kimberly,Activo,1436
+1437,Richardhaven,Activo,1437
+1438,North Justinshire,Activo,1438
+1439,Richardsonside,Activo,1439
+1440,Karafurt,Activo,1440
+1441,Robertfurt,Activo,1441
+1442,Lake Lindsey,Activo,1442
+1443,East Christopherville,Activo,1443
+1444,Victoriahaven,Activo,1444
+1445,Lake Andrew,Activo,1445
+1446,Kathymouth,Activo,1446
+1447,New Brandi,Activo,1447
+1448,East Joanburgh,Activo,1448
+1449,Thomasland,Activo,1449
+1450,Crawfordfort,Activo,1450
+1451,Port Dana,Activo,1451
+1452,New Rachaelport,Activo,1452
+1453,Ryanport,Activo,1453
+1454,Smithmouth,Activo,1454
+1455,West Kristenton,Activo,1455
+1456,North Frank,Activo,1456
+1457,West Xaviermouth,Activo,1457
+1458,Kelliton,Activo,1458
+1459,New Morgan,Activo,1459
+1460,Branchfurt,Activo,1460
+1461,West Theresa,Activo,1461
+1462,North Leslie,Inactivo,1462
+1463,Port Pamelaborough,Activo,1463
+1464,North Ernestbury,Activo,1464
+1465,Lake Gina,Activo,1465
+1466,Lloydstad,Activo,1466
+1467,Williamsside,Activo,1467
+1468,New Carol,Activo,1468
+1469,Christinachester,Activo,1469
+1470,Robinsonchester,Activo,1470
+1471,Port Lisa,Activo,1471
+1472,Cooperside,Activo,1472
+1473,Hicksburgh,Activo,1473
+1474,Jasonton,Activo,1474
+1475,South Debbieland,Inactivo,1475
+1476,Blackfort,Activo,1476
+1477,Trevorport,Activo,1477
+1478,Cameronville,Activo,1478
+1479,South Philipview,Activo,1479
+1480,Susanmouth,Activo,1480
+1481,Marshallbury,Activo,1481
+1482,Fieldsberg,Activo,1482
+1483,Kevinport,Activo,1483
+1484,Brownchester,Activo,1484
+1485,Bethanyton,Activo,1485
+1486,Lake Christinefort,Activo,1486
+1487,New Wendyborough,Activo,1487
+1488,Lake Larrybury,Activo,1488
+1489,South Beckyhaven,Activo,1489
+1490,Port Justin,Activo,1490
+1491,Port Matthew,Activo,1491
+1492,Port Robinville,Activo,1492
+1493,East Sandramouth,Activo,1493
+1494,Alexton,Activo,1494
+1495,Watkinston,Activo,1495
+1496,Lake Jeffreymouth,Activo,1496
+1497,Johnland,Activo,1497
+1498,New Jonathanton,Activo,1498
+1499,Gutierrezberg,Activo,1499
+1500,North Connortown,Activo,1500
+1501,Greenville,Activo,1501
+1502,South David,Activo,1502
+1503,Anthonytown,Activo,1503
+1504,East Joshua,Activo,1504
+1505,South Christinemouth,Activo,1505
+1506,East Donna,Activo,1506
+1507,Gailhaven,Activo,1507
+1508,Melanieview,Activo,1508
+1509,Lake Angela,Activo,1509
+1510,Port David,Activo,1510
+1511,Hatfieldbury,Inactivo,1511
+1512,New Brooketon,Activo,1512
+1513,Hendricksmouth,Activo,1513
+1514,North Charles,Activo,1514
+1515,Baileyshire,Activo,1515
+1516,New Melissa,Activo,1516
+1517,Veronicaport,Inactivo,1517
+1518,Crystalton,Activo,1518
+1519,Christopherview,Activo,1519
+1520,Lake Lisa,Activo,1520
+1521,Prestonton,Activo,1521
+1522,Port Susan,Activo,1522
+1523,Port Rickborough,Activo,1523
+1524,Nancyburgh,Activo,1524
+1525,Melissahaven,Activo,1525
+1526,Annetteville,Activo,1526
+1527,East Samanthastad,Activo,1527
+1528,Woodview,Activo,1528
+1529,Lake Patrickshire,Activo,1529
+1530,Lake David,Inactivo,1530
+1531,New Lindafort,Activo,1531
+1532,New Andreaborough,Inactivo,1532
+1533,Collierberg,Activo,1533
+1534,Katherineborough,Activo,1534
+1535,West Mariatown,Activo,1535
+1536,Stephanietown,Activo,1536
+1537,Lisafort,Activo,1537
+1538,Port Kenneth,Activo,1538
+1539,Jonesland,Activo,1539
+1540,West Bobbyside,Activo,1540
+1541,New Lisafort,Activo,1541
+1542,Maxwellhaven,Activo,1542
+1543,Terriside,Activo,1543
+1544,Perkinstown,Activo,1544
+1545,South Lori,Activo,1545
+1546,Rogerport,Activo,1546
+1547,North Wandamouth,Activo,1547
+1548,Rebekahshire,Activo,1548
+1549,North Donnaburgh,Activo,1549
+1550,Justinborough,Activo,1550
+1551,West Juan,Activo,1551
+1552,New Victoriaton,Activo,1552
+1553,Calebberg,Activo,1553
+1554,Tannerstad,Activo,1554
+1555,Donnastad,Activo,1555
+1556,Port Brandyview,Activo,1556
+1557,East Travisburgh,Activo,1557
+1558,New Rachel,Activo,1558
+1559,Ramirezview,Activo,1559
+1560,Lake Brandy,Activo,1560
+1561,Kennethport,Inactivo,1561
+1562,New Reginald,Activo,1562
+1563,Cherylview,Activo,1563
+1564,Jamieborough,Activo,1564
+1565,Anthonychester,Activo,1565
+1566,Port Christopherview,Activo,1566
+1567,Dominicport,Activo,1567
+1568,Lake Jonathanside,Activo,1568
+1569,Smithland,Activo,1569
+1570,West Jeffreyland,Activo,1570
+1571,Reginashire,Inactivo,1571
+1572,Elliotttown,Activo,1572
+1573,South Brianna,Activo,1573
+1574,Aliciamouth,Activo,1574
+1575,Lindafort,Activo,1575
+1576,North Seanburgh,Activo,1576
+1577,Davidport,Inactivo,1577
+1578,East Lauren,Activo,1578
+1579,Meganland,Activo,1579
+1580,North Gregg,Activo,1580
+1581,Katrinamouth,Activo,1581
+1582,Port Douglasbury,Activo,1582
+1583,Johnberg,Activo,1583
+1584,Shirleyville,Activo,1584
+1585,New Casey,Activo,1585
+1586,East Mike,Activo,1586
+1587,New Johnbury,Activo,1587
+1588,North Sherrymouth,Activo,1588
+1589,Jeffreyland,Activo,1589
+1590,Ochoatown,Activo,1590
+1591,West John,Activo,1591
+1592,Lake Ray,Activo,1592
+1593,Lake Cherylmouth,Activo,1593
+1594,Jamesshire,Activo,1594
+1595,North Marc,Activo,1595
+1596,New Derekland,Activo,1596
+1597,North Ashley,Activo,1597
+1598,Lake Susan,Activo,1598
+1599,South Karen,Activo,1599
+1600,West Jasmine,Activo,1600
+1601,East Danielleville,Activo,1601
+1602,Floresland,Inactivo,1602
+1603,Port Dawnfurt,Activo,1603
+1604,Matthewstad,Activo,1604
+1605,South Markview,Activo,1605
+1606,Samanthabury,Activo,1606
+1607,North Paulland,Activo,1607
+1608,Wilsonshire,Activo,1608
+1609,Port Ginafort,Activo,1609
+1610,Mercedesland,Activo,1610
+1611,Williamsonfurt,Activo,1611
+1612,New Loganport,Activo,1612
+1613,New Melissa,Activo,1613
+1614,Jasonmouth,Activo,1614
+1615,South Susanland,Activo,1615
+1616,South Susan,Activo,1616
+1617,Watsonchester,Activo,1617
+1618,Tammyshire,Activo,1618
+1619,Shannonshire,Activo,1619
+1620,Amandashire,Activo,1620
+1621,Lake Pamela,Activo,1621
+1622,West Juan,Inactivo,1622
+1623,East Shane,Activo,1623
+1624,Lake Amanda,Activo,1624
+1625,Wilsonfurt,Activo,1625
+1626,Chavezberg,Activo,1626
+1627,South Brentburgh,Activo,1627
+1628,Lake Sarahville,Activo,1628
+1629,Lake Michael,Activo,1629
+1630,South Brendan,Activo,1630
+1631,Evansside,Activo,1631
+1632,Moralesstad,Activo,1632
+1633,New Christian,Activo,1633
+1634,North Kimberlyfurt,Activo,1634
+1635,South Thomaschester,Activo,1635
+1636,Leslietown,Activo,1636
+1637,Chambershaven,Inactivo,1637
+1638,Jasonstad,Activo,1638
+1639,West Kevinmouth,Activo,1639
+1640,Michaelfort,Activo,1640
+1641,West Doris,Inactivo,1641
+1642,Marvinfort,Activo,1642
+1643,Jonesmouth,Activo,1643
+1644,Contrerasbury,Activo,1644
+1645,Kristinemouth,Activo,1645
+1646,Lake Jennifermouth,Activo,1646
+1647,Port Jennifer,Activo,1647
+1648,New Heather,Activo,1648
+1649,Ericborough,Activo,1649
+1650,Andreamouth,Activo,1650
+1651,East Bradleyview,Activo,1651
+1652,Codytown,Activo,1652
+1653,North Troyview,Activo,1653
+1654,Jessicabury,Inactivo,1654
+1655,Port Markchester,Activo,1655
+1656,West David,Activo,1656
+1657,Morenomouth,Activo,1657
+1658,Robinsonmouth,Activo,1658
+1659,Brooksstad,Activo,1659
+1660,New Danielside,Activo,1660
+1661,North Tiffany,Activo,1661
+1662,New Mackenzie,Activo,1662
+1663,West Felicia,Activo,1663
+1664,Rebeccachester,Activo,1664
+1665,West Tiffany,Activo,1665
+1666,South Jessica,Activo,1666
+1667,Port Kylefort,Activo,1667
+1668,West Walter,Activo,1668
+1669,North Bobbyberg,Activo,1669
+1670,Lloydview,Activo,1670
+1671,Lake Cody,Activo,1671
+1672,Seanside,Activo,1672
+1673,Davidshire,Activo,1673
+1674,Alisonland,Activo,1674
+1675,Hendersonmouth,Activo,1675
+1676,West Richardbury,Activo,1676
+1677,West Lindamouth,Activo,1677
+1678,Quinnshire,Activo,1678
+1679,North Andrea,Activo,1679
+1680,Waltershaven,Activo,1680
+1681,Lake Marthaville,Activo,1681
+1682,South Shannon,Activo,1682
+1683,Brookehaven,Activo,1683
+1684,Jimenezstad,Activo,1684
+1685,Fordmouth,Activo,1685
+1686,Jeffreyfurt,Activo,1686
+1687,West Matthew,Activo,1687
+1688,Solisville,Activo,1688
+1689,North Franklin,Activo,1689
+1690,New Madisonstad,Activo,1690
+1691,West Charlesside,Activo,1691
+1692,Crawfordborough,Activo,1692
+1693,Matthewtown,Activo,1693
+1694,Maryside,Activo,1694
+1695,Debraville,Activo,1695
+1696,East Larry,Activo,1696
+1697,East Theresa,Activo,1697
+1698,Lake Ericview,Activo,1698
+1699,Velezberg,Activo,1699
+1700,Nicoleberg,Activo,1700
+1701,Lake Bryan,Activo,1701
+1702,Jessicaview,Activo,1702
+1703,Adamview,Activo,1703
+1704,South Henry,Activo,1704
+1705,Brownmouth,Activo,1705
+1706,Leeburgh,Activo,1706
+1707,Arellanomouth,Activo,1707
+1708,Davidmouth,Activo,1708
+1709,Margaretborough,Activo,1709
+1710,Lake James,Activo,1710
+1711,North John,Activo,1711
+1712,Port Maria,Activo,1712
+1713,Phyllisville,Activo,1713
+1714,Kevinfurt,Activo,1714
+1715,Amandabury,Activo,1715
+1716,Tranmouth,Activo,1716
+1717,Luisstad,Activo,1717
+1718,East Kristinfort,Activo,1718
+1719,New Patricia,Activo,1719
+1720,North Ronald,Activo,1720
+1721,New Ashleyhaven,Activo,1721
+1722,Lake Jonathan,Activo,1722
+1723,Port Nancy,Activo,1723
+1724,Lake Robert,Activo,1724
+1725,Meganburgh,Activo,1725
+1726,West Laurastad,Activo,1726
+1727,South Jameschester,Activo,1727
+1728,Port Christopher,Activo,1728
+1729,Port Timothy,Activo,1729
+1730,Moraport,Activo,1730
+1731,Theresachester,Activo,1731
+1732,New Gary,Activo,1732
+1733,Lake Kristin,Activo,1733
+1734,South Omarport,Activo,1734
+1735,Hodgesshire,Activo,1735
+1736,West Danny,Activo,1736
+1737,Port Debra,Activo,1737
+1738,Reneeside,Activo,1738
+1739,Hillfort,Activo,1739
+1740,Lake Kimberlymouth,Activo,1740
+1741,Burnsside,Activo,1741
+1742,West Adamchester,Activo,1742
+1743,New James,Activo,1743
+1744,North Zoe,Activo,1744
+1745,Burkefurt,Activo,1745
+1746,Janiceshire,Activo,1746
+1747,East Jessicaburgh,Activo,1747
+1748,New Jack,Activo,1748
+1749,Woodsport,Activo,1749
+1750,Lake Kyleborough,Activo,1750
+1751,Lauraport,Activo,1751
+1752,East Mark,Activo,1752
+1753,North Kaylaport,Activo,1753
+1754,Davenportbury,Activo,1754
+1755,Davidsonhaven,Activo,1755
+1756,Lake Mariaport,Activo,1756
+1757,West Jeremy,Activo,1757
+1758,Leahberg,Activo,1758
+1759,Port Seanberg,Activo,1759
+1760,South Connie,Activo,1760
+1761,Michellehaven,Activo,1761
+1762,Donnastad,Activo,1762
+1763,Kathrynchester,Activo,1763
+1764,West Thomasville,Activo,1764
+1765,Walshburgh,Activo,1765
+1766,Port Kristina,Activo,1766
+1767,Tylerhaven,Activo,1767
+1768,New Andrew,Activo,1768
+1769,Rosefurt,Activo,1769
+1770,Thompsonstad,Activo,1770
+1771,East Dennisbury,Activo,1771
+1772,Kellybury,Activo,1772
+1773,Raymondmouth,Activo,1773
+1774,East Maria,Activo,1774
+1775,South Samantha,Activo,1775
+1776,North Brenda,Activo,1776
+1777,Lopezstad,Activo,1777
+1778,East Hannah,Activo,1778
+1779,Matthewside,Activo,1779
+1780,Garrettberg,Activo,1780
+1781,Martinport,Activo,1781
+1782,North Crystal,Activo,1782
+1783,New Juliafort,Activo,1783
+1784,Charlesville,Activo,1784
+1785,Simonmouth,Activo,1785
+1786,West Sarah,Activo,1786
+1787,Lake Brianafort,Activo,1787
+1788,Greenview,Activo,1788
+1789,Hendersonborough,Activo,1789
+1790,West Ryanburgh,Activo,1790
+1791,Janicemouth,Activo,1791
+1792,Coryside,Activo,1792
+1793,Richardshaven,Activo,1793
+1794,Gregoryshire,Activo,1794
+1795,Joneschester,Activo,1795
+1796,Baileymouth,Activo,1796
+1797,Dayport,Activo,1797
+1798,Colemanmouth,Activo,1798
+1799,New Allison,Activo,1799
+1800,Webermouth,Activo,1800
+1801,Amandashire,Activo,1801
+1802,Hillbury,Activo,1802
+1803,Austinbury,Activo,1803
+1804,Lake Barbaramouth,Inactivo,1804
+1805,South Christopherhaven,Activo,1805
+1806,Gonzalezshire,Activo,1806
+1807,Jefferyfort,Activo,1807
+1808,West Jacqueline,Activo,1808
+1809,Allenstad,Activo,1809
+1810,South Calvinview,Activo,1810
+1811,East Marissa,Activo,1811
+1812,South David,Activo,1812
+1813,Powersbury,Activo,1813
+1814,Martinezfort,Activo,1814
+1815,North Angelaland,Activo,1815
+1816,West Davidborough,Activo,1816
+1817,Howellfort,Activo,1817
+1818,West Sandra,Activo,1818
+1819,Mcdonaldtown,Activo,1819
+1820,Port Michelleberg,Activo,1820
+1821,Herreraville,Activo,1821
+1822,Jenniferchester,Activo,1822
+1823,Danielmouth,Activo,1823
+1824,Port Kimberlyfort,Activo,1824
+1825,Maryview,Activo,1825
+1826,South Lauren,Activo,1826
+1827,South Joel,Activo,1827
+1828,Port Chloe,Activo,1828
+1829,Jeremyburgh,Activo,1829
+1830,Nortonport,Activo,1830
+1831,Jeffreytown,Activo,1831
+1832,Lake Stevenview,Activo,1832
+1833,Kimberlychester,Activo,1833
+1834,East Johnmouth,Activo,1834
+1835,Annemouth,Activo,1835
+1836,Tylerhaven,Activo,1836
+1837,New Robert,Activo,1837
+1838,Port Audreytown,Activo,1838
+1839,South Sandraberg,Activo,1839
+1840,Lake Johnny,Activo,1840
+1841,Burnettfort,Activo,1841
+1842,Lake Samuelmouth,Activo,1842
+1843,East Joseph,Activo,1843
+1844,Reynoldsborough,Activo,1844
+1845,New Dannyfurt,Activo,1845
+1846,North Timothy,Activo,1846
+1847,South Hectorchester,Activo,1847
+1848,South Maria,Activo,1848
+1849,South Lauraborough,Inactivo,1849
+1850,Jensenmouth,Activo,1850
+1851,Robertmouth,Activo,1851
+1852,South Jeffreyton,Activo,1852
+1853,East Bruce,Activo,1853
+1854,Samanthafurt,Activo,1854
+1855,Amberberg,Activo,1855
+1856,Davidfort,Activo,1856
+1857,South Penny,Activo,1857
+1858,Port Carolborough,Activo,1858
+1859,Lake Aaronton,Activo,1859
+1860,Byrdport,Activo,1860
+1861,Lake Jodiport,Activo,1861
+1862,Smithport,Activo,1862
+1863,Karenfort,Activo,1863
+1864,Barryburgh,Activo,1864
+1865,Jonbury,Activo,1865
+1866,New Juliefurt,Activo,1866
+1867,West Kristina,Activo,1867
+1868,East Kennethberg,Inactivo,1868
+1869,South Laurenberg,Activo,1869
+1870,New Monicaton,Activo,1870
+1871,New Tabitha,Activo,1871
+1872,South Jennifer,Activo,1872
+1873,South Bryanton,Activo,1873
+1874,Torresbury,Activo,1874
+1875,Christinebury,Activo,1875
+1876,Calhounmouth,Activo,1876
+1877,South Sherri,Inactivo,1877
+1878,Port Tracy,Activo,1878
+1879,New Suzanneville,Activo,1879
+1880,New Crystalchester,Activo,1880
+1881,Mariaville,Activo,1881
+1882,Johnsonborough,Activo,1882
+1883,Carlsonburgh,Activo,1883
+1884,East Ryanmouth,Activo,1884
+1885,Marioshire,Activo,1885
+1886,Ronaldmouth,Activo,1886
+1887,South Robin,Activo,1887
+1888,New Heatherburgh,Activo,1888
+1889,South Angelabury,Activo,1889
+1890,Port Derek,Activo,1890
+1891,Donaldville,Activo,1891
+1892,Garrettbury,Activo,1892
+1893,Walkerberg,Activo,1893
+1894,Jenniferview,Activo,1894
+1895,West Gary,Activo,1895
+1896,Bradleyview,Activo,1896
+1897,East Loriberg,Activo,1897
+1898,Matafort,Activo,1898
+1899,East Hunterton,Activo,1899
+1900,Quinnstad,Inactivo,1900
+1901,Tracyton,Activo,1901
+1902,South Kristentown,Activo,1902
+1903,Cordovastad,Activo,1903
+1904,Tylerview,Activo,1904
+1905,Lake Manuelmouth,Activo,1905
+1906,East Larry,Activo,1906
+1907,East Gloria,Activo,1907
+1908,Robinstad,Activo,1908
+1909,Simpsontown,Activo,1909
+1910,New Robert,Activo,1910
+1911,Ortegaburgh,Inactivo,1911
+1912,North Angela,Activo,1912
+1913,Boydport,Activo,1913
+1914,Adamsland,Activo,1914
+1915,Brittneyfurt,Activo,1915
+1916,Proctorport,Activo,1916
+1917,West Matthew,Inactivo,1917
+1918,Serranomouth,Activo,1918
+1919,North Jermaine,Activo,1919
+1920,Griffinland,Inactivo,1920
+1921,Ryanland,Activo,1921
+1922,Scottshire,Activo,1922
+1923,Chaseborough,Activo,1923
+1924,Kevinfort,Activo,1924
+1925,Bridgetstad,Inactivo,1925
+1926,North Courtneyfurt,Activo,1926
+1927,New Marcus,Activo,1927
+1928,Melissamouth,Activo,1928
+1929,Youngview,Activo,1929
+1930,Rasmussenmouth,Activo,1930
+1931,West Jennifer,Activo,1931
+1932,New Amber,Activo,1932
+1933,West Kevin,Activo,1933
+1934,South Chelseaton,Activo,1934
+1935,South Heidi,Activo,1935
+1936,West Kevin,Activo,1936
+1937,Shaunville,Activo,1937
+1938,New Stephanie,Activo,1938
+1939,Sandraport,Activo,1939
+1940,East Brandon,Activo,1940
+1941,Davidton,Activo,1941
+1942,Lake Kimberlyburgh,Activo,1942
+1943,New Thomasmouth,Activo,1943
+1944,New Jeffreyburgh,Activo,1944
+1945,New Eric,Activo,1945
+1946,Ayersview,Activo,1946
+1947,Lake Rebecca,Activo,1947
+1948,South Christopher,Activo,1948
+1949,Lake David,Activo,1949
+1950,Noblefurt,Activo,1950
+1951,Joshuachester,Activo,1951
+1952,Lake Colleenstad,Activo,1952
+1953,Youngville,Activo,1953
+1954,South Shawnville,Activo,1954
+1955,Jordanburgh,Activo,1955
+1956,Robinbury,Activo,1956
+1957,Perezbury,Activo,1957
+1958,New Susanland,Activo,1958
+1959,Oneillside,Activo,1959
+1960,Cherryville,Activo,1960
+1961,South Diana,Activo,1961
+1962,Port Joseph,Activo,1962
+1963,Davisshire,Activo,1963
+1964,New Rebeccamouth,Activo,1964
+1965,Donaldland,Activo,1965
+1966,Port Allen,Activo,1966
+1967,New Garrettside,Activo,1967
+1968,East Michael,Activo,1968
+1969,East Jenniferborough,Activo,1969
+1970,East Andrewberg,Activo,1970
+1971,Tammychester,Activo,1971
+1972,Johnhaven,Activo,1972
+1973,West Lisa,Activo,1973
+1974,Tiffanyberg,Activo,1974
+1975,New Lindsayton,Activo,1975
+1976,New Lisa,Activo,1976
+1977,Ginabury,Activo,1977
+1978,Merrittborough,Activo,1978
+1979,East Glennburgh,Activo,1979
+1980,Stewartside,Activo,1980
+1981,Josephberg,Activo,1981
+1982,Lake Jeff,Activo,1982
+1983,Mariachester,Activo,1983
+1984,Moralesland,Activo,1984
+1985,New Aaron,Activo,1985
+1986,West Timothy,Activo,1986
+1987,Andersontown,Activo,1987
+1988,South Patricialand,Activo,1988
+1989,South Ryan,Activo,1989
+1990,West Frederickhaven,Activo,1990
+1991,Lake Christopher,Activo,1991
+1992,North Alejandro,Activo,1992
+1993,New Sherrimouth,Activo,1993
+1994,Port Karen,Activo,1994
+1995,Robertview,Activo,1995
+1996,North Jeffreyton,Activo,1996
+1997,Alexisport,Activo,1997
+1998,Harrellhaven,Activo,1998
+1999,Hollandstad,Activo,1999
+2000,West Kristenton,Activo,2000
+2001,Michaelchester,Activo,2001
+2002,Jamesmouth,Activo,2002
+2003,Meredithside,Activo,2003
+2004,East Heather,Activo,2004
+2005,Stewartland,Activo,2005
+2006,Jerrystad,Activo,2006
+2007,South Keith,Inactivo,2007
+2008,South Bradleyview,Activo,2008
+2009,Olsontown,Activo,2009
+2010,East Jenniferhaven,Activo,2010
+2011,New Melissaborough,Activo,2011
+2012,New Theresa,Activo,2012
+2013,East Robert,Inactivo,2013
+2014,Collinston,Activo,2014
+2015,Watersside,Activo,2015
+2016,East Amyside,Activo,2016
+2017,East Kathychester,Activo,2017
+2018,East William,Activo,2018
+2019,Zimmermanshire,Activo,2019
+2020,West Nicholas,Activo,2020
+2021,Warrenburgh,Activo,2021
+2022,Andreamouth,Inactivo,2022
+2023,Port Adamville,Activo,2023
+2024,New Kimberly,Activo,2024
+2025,Justinhaven,Activo,2025
+2026,Lindsayshire,Activo,2026
+2027,Shariburgh,Activo,2027
+2028,North Ianmouth,Activo,2028
+2029,Kennethburgh,Activo,2029
+2030,Branchland,Activo,2030
+2031,Walshfurt,Activo,2031
+2032,New Brittanyview,Activo,2032
+2033,Alvarezburgh,Activo,2033
+2034,Joseburgh,Activo,2034
+2035,South Jasonmouth,Activo,2035
+2036,Masonmouth,Activo,2036
+2037,Lauraland,Activo,2037
+2038,East Tinaton,Activo,2038
+2039,South Nicole,Activo,2039
+2040,Dawnshire,Activo,2040
+2041,Grayberg,Activo,2041
+2042,Rachelstad,Activo,2042
+2043,Carterview,Activo,2043
+2044,Alexanderview,Inactivo,2044
+2045,Lake Michael,Activo,2045
+2046,South James,Activo,2046
+2047,New Jeff,Activo,2047
+2048,Margaretberg,Activo,2048
+2049,Lake Kristi,Activo,2049
+2050,North Emilyburgh,Activo,2050
+2051,Robertsonchester,Activo,2051
+2052,Angelahaven,Activo,2052
+2053,Lake Sarah,Activo,2053
+2054,East Theresabury,Activo,2054
+2055,South Josemouth,Activo,2055
+2056,East Justin,Activo,2056
+2057,Lake Christinaview,Activo,2057
+2058,Jacobport,Activo,2058
+2059,Colemanside,Activo,2059
+2060,Christianmouth,Activo,2060
+2061,Lorimouth,Activo,2061
+2062,Andrewhaven,Activo,2062
+2063,Roachville,Activo,2063
+2064,West Austin,Activo,2064
+2065,Port Maxfurt,Activo,2065
+2066,Jasonview,Activo,2066
+2067,South Michaelbury,Activo,2067
+2068,Holmesstad,Activo,2068
+2069,Davisberg,Activo,2069
+2070,Morantown,Activo,2070
+2071,Jasontown,Activo,2071
+2072,North Laurenborough,Activo,2072
+2073,South Brittanyport,Activo,2073
+2074,North Deanna,Activo,2074
+2075,Port Fernando,Activo,2075
+2076,Josephhaven,Activo,2076
+2077,Jasmineshire,Activo,2077
+2078,Ginaburgh,Activo,2078
+2079,Toniburgh,Activo,2079
+2080,Jameshaven,Activo,2080
+2081,Port Adam,Activo,2081
+2082,Brownhaven,Activo,2082
+2083,Perryshire,Activo,2083
+2084,Cameronborough,Activo,2084
+2085,Rickeyburgh,Activo,2085
+2086,East Elizabethton,Activo,2086
+2087,Wilkinsmouth,Activo,2087
+2088,Port Martinmouth,Activo,2088
+2089,Crystalport,Activo,2089
+2090,South Elizabeth,Activo,2090
+2091,Fletchertown,Activo,2091
+2092,North Danielborough,Activo,2092
+2093,Daughertychester,Activo,2093
+2094,Chungmouth,Activo,2094
+2095,New Alanborough,Activo,2095
+2096,North Taylor,Activo,2096
+2097,New Aaronbury,Activo,2097
+2098,Curtiston,Activo,2098
+2099,New Heatherstad,Activo,2099
+2100,Lake Lauraburgh,Activo,2100
+2101,New Maureenport,Activo,2101
+2102,East Jennifer,Activo,2102
+2103,Downsview,Inactivo,2103
+2104,New Angelicastad,Activo,2104
+2105,East Patricia,Activo,2105
+2106,New Dawn,Activo,2106
+2107,East Bethshire,Activo,2107
+2108,Katherinefurt,Activo,2108
+2109,South Crystal,Activo,2109
+2110,Paultown,Activo,2110
+2111,Port Brian,Activo,2111
+2112,Carterville,Activo,2112
+2113,North Jennifer,Inactivo,2113
+2114,Port Adriana,Activo,2114
+2115,Port Stacyville,Activo,2115
+2116,New Marychester,Activo,2116
+2117,Lake Amanda,Activo,2117
+2118,North Tara,Activo,2118
+2119,New Nancy,Activo,2119
+2120,North Cory,Activo,2120
+2121,West Yolanda,Activo,2121
+2122,Port Johnview,Activo,2122
+2123,Courtneyview,Activo,2123
+2124,Port Carloshaven,Activo,2124
+2125,Angelamouth,Activo,2125
+2126,East Antoniomouth,Activo,2126
+2127,Taraberg,Inactivo,2127
+2128,Michaelberg,Activo,2128
+2129,South Amyland,Activo,2129
+2130,Lake Sarah,Activo,2130
+2131,Pamelafort,Activo,2131
+2132,Craigtown,Activo,2132
+2133,Mooremouth,Activo,2133
+2134,Johnsonberg,Activo,2134
+2135,North Catherineshire,Activo,2135
+2136,Charlesbury,Activo,2136
+2137,Jessicaport,Activo,2137
+2138,Hallfurt,Activo,2138
+2139,Kleinmouth,Activo,2139
+2140,Masonshire,Activo,2140
+2141,Yangview,Activo,2141
+2142,South Kristen,Activo,2142
+2143,Turnerburgh,Activo,2143
+2144,North Jeremy,Activo,2144
+2145,Danielland,Activo,2145
+2146,Port Stephanieville,Activo,2146
+2147,East Amberville,Activo,2147
+2148,Taylorland,Activo,2148
+2149,Morenoborough,Activo,2149
+2150,Lake Adrian,Activo,2150
+2151,Powellside,Activo,2151
+2152,West Annettefurt,Activo,2152
+2153,Camposshire,Activo,2153
+2154,North Matthewfurt,Activo,2154
+2155,East Brett,Activo,2155
+2156,Simonberg,Activo,2156
+2157,Kurtmouth,Activo,2157
+2158,Adrianhaven,Activo,2158
+2159,North Jennifer,Activo,2159
+2160,Natalieport,Activo,2160
+2161,Martinezburgh,Activo,2161
+2162,Kellyshire,Activo,2162
+2163,Juanfort,Activo,2163
+2164,Nancyfort,Activo,2164
+2165,East Cynthiashire,Activo,2165
+2166,Schneiderburgh,Activo,2166
+2167,Myerston,Activo,2167
+2168,New Heatherburgh,Activo,2168
+2169,Port Jessicaland,Activo,2169
+2170,Kurtbury,Activo,2170
+2171,East James,Activo,2171
+2172,Torresfurt,Activo,2172
+2173,South Sandra,Activo,2173
+2174,Nataliebury,Activo,2174
+2175,Port Ernestport,Activo,2175
+2176,Barkerburgh,Activo,2176
+2177,Ashleyton,Activo,2177
+2178,Lake Paula,Activo,2178
+2179,Martinezton,Activo,2179
+2180,South Amandafurt,Activo,2180
+2181,New Mariamouth,Activo,2181
+2182,Lisamouth,Activo,2182
+2183,Claytonberg,Activo,2183
+2184,Hillmouth,Activo,2184
+2185,Jenniferview,Activo,2185
+2186,Lake Jeffreyborough,Activo,2186
+2187,Kimberlymouth,Activo,2187
+2188,Josephfurt,Activo,2188
+2189,Carlmouth,Activo,2189
+2190,East Robertland,Activo,2190
+2191,South Matthew,Activo,2191
+2192,Port Aaronburgh,Activo,2192
+2193,Hallstad,Activo,2193
+2194,Philipshire,Activo,2194
+2195,Lake Kennethfort,Activo,2195
+2196,North Michaelside,Activo,2196
+2197,Lake Willieborough,Activo,2197
+2198,Hutchinsonhaven,Activo,2198
+2199,Teresaton,Activo,2199
+2200,Manuelstad,Activo,2200
+2201,North Hollyshire,Activo,2201
+2202,Lambertmouth,Activo,2202
+2203,Vangfort,Activo,2203
+2204,West Brian,Activo,2204
+2205,East Katrinaside,Activo,2205
+2206,West Jessicachester,Activo,2206
+2207,Baileyland,Activo,2207
+2208,Mcgrathview,Activo,2208
+2209,North Michaelland,Activo,2209
+2210,Nancytown,Activo,2210
+2211,Lyonsstad,Activo,2211
+2212,Douglashaven,Activo,2212
+2213,West Carloshaven,Activo,2213
+2214,Perezfort,Activo,2214
+2215,East Daniel,Activo,2215
+2216,Reynoldsshire,Activo,2216
+2217,West Tammy,Activo,2217
+2218,Hannahtown,Activo,2218
+2219,Johnview,Activo,2219
+2220,Shafferton,Activo,2220
+2221,New Jason,Activo,2221
+2222,New Kristin,Activo,2222
+2223,Hoffmanfort,Activo,2223
+2224,East Joshua,Activo,2224
+2225,Lake Leslie,Activo,2225
+2226,Smithstad,Activo,2226
+2227,Goldenchester,Activo,2227
+2228,Kimberlyport,Activo,2228
+2229,Lake Janiceport,Activo,2229
+2230,East Michelle,Activo,2230
+2231,Jenniferberg,Activo,2231
+2232,Port Aliciafort,Activo,2232
+2233,Garciaside,Activo,2233
+2234,South Michaelville,Activo,2234
+2235,East Kayla,Activo,2235
+2236,New Dylan,Activo,2236
+2237,Raymondland,Activo,2237
+2238,Daniellemouth,Activo,2238
+2239,Kristinton,Activo,2239
+2240,Lake Michael,Activo,2240
+2241,West Ronald,Activo,2241
+2242,New Mary,Activo,2242
+2243,South Richard,Activo,2243
+2244,South Paul,Activo,2244
+2245,North Kimberlyville,Activo,2245
+2246,Lake Philip,Activo,2246
+2247,Robertfurt,Activo,2247
+2248,Tuckerchester,Activo,2248
+2249,Lake Edward,Activo,2249
+2250,North Lauren,Activo,2250
+2251,Lawrenceshire,Activo,2251
+2252,East Christophertown,Activo,2252
+2253,Randolphburgh,Activo,2253
+2254,East Lisa,Inactivo,2254
+2255,Smithchester,Activo,2255
+2256,Lloydside,Activo,2256
+2257,Elizabethstad,Activo,2257
+2258,Lowechester,Activo,2258
+2259,Richardchester,Activo,2259
+2260,Riveraport,Activo,2260
+2261,North Ricardoberg,Activo,2261
+2262,Stephanieburgh,Activo,2262
+2263,Estesview,Activo,2263
+2264,New Amberfort,Activo,2264
+2265,North Rebeccahaven,Activo,2265
+2266,Thompsonview,Activo,2266
+2267,West Kristinview,Activo,2267
+2268,West Scotttown,Activo,2268
+2269,Ewingberg,Activo,2269
+2270,Kennedyburgh,Activo,2270
+2271,New Racheltown,Activo,2271
+2272,Brownton,Activo,2272
+2273,Jacquelineville,Activo,2273
+2274,Tamimouth,Activo,2274
+2275,Stricklandport,Activo,2275
+2276,Donnabury,Activo,2276
+2277,New Ricky,Activo,2277
+2278,Julieside,Activo,2278
+2279,New Suzannebury,Activo,2279
+2280,Andrewtown,Activo,2280
+2281,Jessicaview,Activo,2281
+2282,New William,Inactivo,2282
+2283,Smithfort,Inactivo,2283
+2284,Andrewchester,Activo,2284
+2285,Youngfort,Activo,2285
+2286,Paulville,Activo,2286
+2287,Katherinemouth,Activo,2287
+2288,Paulville,Activo,2288
+2289,North Bethany,Activo,2289
+2290,Doyleville,Activo,2290
+2291,Curryburgh,Activo,2291
+2292,Port Peterstad,Activo,2292
+2293,North Sherryhaven,Activo,2293
+2294,Richardsonport,Inactivo,2294
+2295,Rogersview,Activo,2295
+2296,Austinside,Activo,2296
+2297,East Joan,Activo,2297
+2298,North Sarahstad,Activo,2298
+2299,Lake Samantha,Activo,2299
+2300,Deborahview,Activo,2300
+2301,East Ian,Activo,2301
+2302,Kaitlyntown,Activo,2302
+2303,Port Anthonyborough,Activo,2303
+2304,Michaelview,Activo,2304
+2305,Chaneychester,Activo,2305
+2306,Erinville,Activo,2306
+2307,Rachaelview,Activo,2307
+2308,Brownfort,Activo,2308
+2309,Stephanieshire,Activo,2309
+2310,East Deborah,Activo,2310
+2311,West Williamville,Activo,2311
+2312,East Luketon,Activo,2312
+2313,North Brad,Activo,2313
+2314,East Jenniferbury,Activo,2314
+2315,Donaldbury,Activo,2315
+2316,South Adam,Activo,2316
+2317,Garciatown,Activo,2317
+2318,New Cassie,Activo,2318
+2319,Marcshire,Activo,2319
+2320,Hullshire,Activo,2320
+2321,Lynnville,Activo,2321
+2322,New Brian,Activo,2322
+2323,Cummingsland,Activo,2323
+2324,Rileychester,Activo,2324
+2325,East Juan,Activo,2325
+2326,Blackton,Activo,2326
+2327,Jamiefurt,Activo,2327
+2328,Smithmouth,Activo,2328
+2329,New Joshuaburgh,Activo,2329
+2330,East Stephanie,Activo,2330
+2331,Lake Dwayne,Activo,2331
+2332,Brittneybury,Activo,2332
+2333,Hardyville,Activo,2333
+2334,Nancyfurt,Activo,2334
+2335,Mendezstad,Activo,2335
+2336,Port Christophermouth,Activo,2336
+2337,Bobbybury,Activo,2337
+2338,New Roseburgh,Activo,2338
+2339,Lake Mary,Activo,2339
+2340,Chanview,Activo,2340
+2341,Schultzchester,Activo,2341
+2342,Davidton,Activo,2342
+2343,Benitezburgh,Activo,2343
+2344,Jacobbury,Activo,2344
+2345,East Kara,Activo,2345
+2346,South Williamchester,Activo,2346
+2347,New Edgar,Activo,2347
+2348,North Marialand,Inactivo,2348
+2349,Mayland,Activo,2349
+2350,Salinasborough,Activo,2350
+2351,North Taylor,Activo,2351
+2352,North William,Activo,2352
+2353,Jessicachester,Activo,2353
+2354,Pachecoside,Inactivo,2354
+2355,Lake John,Activo,2355
+2356,Greenview,Activo,2356
+2357,Lake Jonathan,Inactivo,2357
+2358,Port Jack,Activo,2358
+2359,West John,Activo,2359
+2360,Sarahhaven,Activo,2360
+2361,Kimberlyland,Activo,2361
+2362,Burkeview,Activo,2362
+2363,Lake Rachaelmouth,Activo,2363
+2364,Amberburgh,Activo,2364
+2365,Amberville,Inactivo,2365
+2366,Anthonyhaven,Activo,2366
+2367,Davidshire,Activo,2367
+2368,Harrismouth,Activo,2368
+2369,Carlachester,Activo,2369
+2370,Lake Charlesberg,Activo,2370
+2371,Allenport,Activo,2371
+2372,Port Randy,Inactivo,2372
+2373,Paigehaven,Activo,2373
+2374,Crystalton,Activo,2374
+2375,Carlsonland,Activo,2375
+2376,Port Gregory,Activo,2376
+2377,North Gregory,Inactivo,2377
+2378,Port Bryan,Activo,2378
+2379,North Julieburgh,Activo,2379
+2380,Simpsonchester,Activo,2380
+2381,Sancheztown,Activo,2381
+2382,North Mary,Activo,2382
+2383,Ryanburgh,Activo,2383
+2384,Sellersside,Activo,2384
+2385,Fowlerton,Activo,2385
+2386,Jasonport,Activo,2386
+2387,West Josephberg,Activo,2387
+2388,New Davidbury,Activo,2388
+2389,Port Andreafurt,Activo,2389
+2390,Port Carolmouth,Activo,2390
+2391,South Ana,Activo,2391
+2392,New Thomasland,Activo,2392
+2393,Erinstad,Activo,2393
+2394,Lake Kennethburgh,Activo,2394
+2395,Port Glennmouth,Activo,2395
+2396,Janetburgh,Activo,2396
+2397,Port Larryside,Activo,2397
+2398,Port Stephaniestad,Activo,2398
+2399,Port Vanessahaven,Activo,2399
+2400,New Nicolefort,Activo,2400
+2401,North Emily,Activo,2401
+2402,Lake Michaelburgh,Activo,2402
+2403,South Makaylamouth,Activo,2403
+2404,New Jennifer,Activo,2404
+2405,Anitaport,Activo,2405
+2406,Brandistad,Activo,2406
+2407,Johnfurt,Activo,2407
+2408,Fergusontown,Activo,2408
+2409,New Sandra,Activo,2409
+2410,Robertstad,Activo,2410
+2411,Manntown,Activo,2411
+2412,Port John,Activo,2412
+2413,New Andrew,Activo,2413
+2414,Williammouth,Activo,2414
+2415,Cameronland,Activo,2415
+2416,Port Vickiport,Activo,2416
+2417,Hobbston,Activo,2417
+2418,South Jeremyborough,Activo,2418
+2419,East Adrienne,Activo,2419
+2420,Antonioshire,Activo,2420
+2421,Lynnport,Activo,2421
+2422,Lawrenceland,Activo,2422
+2423,Allenmouth,Activo,2423
+2424,South Soniaburgh,Activo,2424
+2425,East Melanie,Activo,2425
+2426,Bradleymouth,Activo,2426
+2427,East Kylefort,Activo,2427
+2428,Robinsonshire,Activo,2428
+2429,Douglasmouth,Activo,2429
+2430,New Anne,Activo,2430
+2431,Davidshire,Activo,2431
+2432,Scottburgh,Activo,2432
+2433,Paulfurt,Activo,2433
+2434,Ryanport,Activo,2434
+2435,Johnsonstad,Activo,2435
+2436,Port Jessicachester,Activo,2436
+2437,East Joanberg,Activo,2437
+2438,Roblestown,Activo,2438
+2439,New Rebeccaburgh,Activo,2439
+2440,Averymouth,Activo,2440
+2441,Suttonchester,Activo,2441
+2442,Aaronside,Activo,2442
+2443,Valerieside,Activo,2443
+2444,East Jason,Activo,2444
+2445,West Kristinafurt,Activo,2445
+2446,Davismouth,Inactivo,2446
+2447,Lake Kaitlin,Inactivo,2447
+2448,East James,Activo,2448
+2449,Laurenbury,Activo,2449
+2450,Bradshire,Activo,2450
+2451,South Brendachester,Activo,2451
+2452,Benjaminchester,Activo,2452
+2453,West William,Activo,2453
+2454,Chandlermouth,Activo,2454
+2455,New Wayne,Activo,2455
+2456,New Alexis,Activo,2456
+2457,Carrland,Activo,2457
+2458,South April,Activo,2458
+2459,Port Juliaborough,Inactivo,2459
+2460,Lake Thomasport,Activo,2460
+2461,North Samuelborough,Activo,2461
+2462,Port Francisside,Activo,2462
+2463,Michelleshire,Activo,2463
+2464,Amberfort,Activo,2464
+2465,Thomasport,Activo,2465
+2466,Lake Abigailview,Inactivo,2466
+2467,North Elizabethchester,Activo,2467
+2468,Graychester,Activo,2468
+2469,Haleyhaven,Activo,2469
+2470,Littleborough,Activo,2470
+2471,Tylermouth,Activo,2471
+2472,Erikaborough,Activo,2472
+2473,West Amy,Inactivo,2473
+2474,Hicksshire,Activo,2474
+2475,New Brooke,Activo,2475
+2476,Virginiafurt,Activo,2476
+2477,New Barbaraton,Activo,2477
+2478,Copelandville,Activo,2478
+2479,North Matthew,Activo,2479
+2480,West Robert,Activo,2480
+2481,New Kennethport,Activo,2481
+2482,New Kevinside,Activo,2482
+2483,Dodsonchester,Activo,2483
+2484,South Ronnieberg,Activo,2484
+2485,South Codyfort,Activo,2485
+2486,New Rachel,Activo,2486
+2487,North Leslietown,Activo,2487
+2488,Newtonbury,Activo,2488
+2489,Browntown,Activo,2489
+2490,Nunezmouth,Activo,2490
+2491,Brooksview,Activo,2491
+2492,Jennifermouth,Activo,2492
+2493,Lake Kevin,Activo,2493
+2494,Roachside,Activo,2494
+2495,Mcphersonbury,Activo,2495
+2496,Carmenborough,Activo,2496
+2497,Malloryview,Activo,2497
+2498,Mcclureborough,Activo,2498
+2499,Port Robin,Activo,2499
+2500,Baldwinstad,Activo,2500
+2501,East Samanthabury,Activo,2501
+2502,Duncanbury,Activo,2502
+2503,Lake Katherinechester,Activo,2503
+2504,Johnsonfort,Activo,2504
+2505,Elainestad,Activo,2505
+2506,Lake Carolhaven,Activo,2506
+2507,Danielland,Activo,2507
+2508,Port Andrea,Activo,2508
+2509,Port Yesenia,Activo,2509
+2510,North Erinmouth,Activo,2510
+2511,Lifurt,Activo,2511
+2512,North Anthonyfurt,Activo,2512
+2513,New Matthew,Activo,2513
+2514,Wattsside,Activo,2514
+2515,Patriciaburgh,Activo,2515
+2516,South Brandonhaven,Activo,2516
+2517,Heatherhaven,Activo,2517
+2518,Lake Rachel,Activo,2518
+2519,Port Gregoryshire,Activo,2519
+2520,New Donna,Activo,2520
+2521,Bobbyville,Activo,2521
+2522,New Robertborough,Activo,2522
+2523,West Benjaminport,Activo,2523
+2524,New Sarah,Activo,2524
+2525,Joeville,Activo,2525
+2526,West Barbara,Inactivo,2526
+2527,Port Mirandamouth,Activo,2527
+2528,Barnesport,Activo,2528
+2529,Susanshire,Activo,2529
+2530,Briannaburgh,Activo,2530
+2531,Howardberg,Activo,2531
+2532,New Jimmyberg,Activo,2532
+2533,West Brian,Activo,2533
+2534,Samanthaborough,Activo,2534
+2535,Port Roy,Activo,2535
+2536,Jonathanfurt,Activo,2536
+2537,Foleymouth,Activo,2537
+2538,Waltonfort,Activo,2538
+2539,Port Amanda,Activo,2539
+2540,North Susan,Activo,2540
+2541,Lake Jeffreyfort,Activo,2541
+2542,East Nathan,Activo,2542
+2543,Melissaton,Activo,2543
+2544,Jessicaport,Activo,2544
+2545,Christopherborough,Activo,2545
+2546,Melaniehaven,Activo,2546
+2547,Lambchester,Activo,2547
+2548,North Cindyville,Activo,2548
+2549,Josephfort,Activo,2549
+2550,Cassandramouth,Activo,2550
+2551,Greenview,Activo,2551
+2552,Joseview,Activo,2552
+2553,Carlton,Activo,2553
+2554,South Jasonside,Activo,2554
+2555,Lake Elizabeth,Activo,2555
+2556,Pamelaview,Activo,2556
+2557,Jacksonville,Activo,2557
+2558,Wheelerfort,Activo,2558
+2559,Lopezshire,Activo,2559
+2560,Munozview,Activo,2560
+2561,New Monicamouth,Activo,2561
+2562,Lake Norma,Activo,2562
+2563,Madisonhaven,Activo,2563
+2564,South Deborahburgh,Activo,2564
+2565,Nicolestad,Activo,2565
+2566,South Sandra,Activo,2566
+2567,Kevintown,Activo,2567
+2568,North George,Activo,2568
+2569,Barbarachester,Activo,2569
+2570,Michaelview,Activo,2570
+2571,Lake Elizabethton,Activo,2571
+2572,Karenberg,Activo,2572
+2573,Houstonfort,Activo,2573
+2574,East Tiffany,Activo,2574
+2575,Port Meganton,Activo,2575
+2576,West Sandy,Activo,2576
+2577,East Conniehaven,Activo,2577
+2578,Julianview,Activo,2578
+2579,Fernandomouth,Activo,2579
+2580,Richardsonberg,Activo,2580
+2581,South Angela,Activo,2581
+2582,Ianshire,Activo,2582
+2583,Joychester,Activo,2583
+2584,East Sara,Inactivo,2584
+2585,Ryanmouth,Activo,2585
+2586,Hoffmanfurt,Activo,2586
+2587,Ritamouth,Inactivo,2587
+2588,Scottburgh,Activo,2588
+2589,North Rebekahview,Activo,2589
+2590,West Taylorbury,Activo,2590
+2591,Hillmouth,Activo,2591
+2592,Lake Kaitlinshire,Activo,2592
+2593,East Russell,Inactivo,2593
+2594,New Davidborough,Activo,2594
+2595,Port Joseph,Activo,2595
+2596,North Thomas,Activo,2596
+2597,North Julie,Activo,2597
+2598,Porterberg,Activo,2598
+2599,West Laurenport,Activo,2599
+2600,Port Garyview,Activo,2600
+2601,Port Amy,Activo,2601
+2602,North Samanthatown,Activo,2602
+2603,Port Robertaborough,Activo,2603
+2604,Petersonside,Activo,2604
+2605,Carlsonport,Activo,2605
+2606,East Kathleenmouth,Activo,2606
+2607,West Frank,Activo,2607
+2608,Williamstown,Activo,2608
+2609,Lake Anne,Activo,2609
+2610,New Lori,Activo,2610
+2611,New Gracefort,Activo,2611
+2612,Crystalside,Activo,2612
+2613,Michaelville,Activo,2613
+2614,East Feliciaberg,Activo,2614
+2615,Ronaldton,Activo,2615
+2616,West Tylerville,Activo,2616
+2617,Jamesburgh,Activo,2617
+2618,East Theresabury,Activo,2618
+2619,Khanmouth,Activo,2619
+2620,Josephbury,Activo,2620
+2621,Alyssaton,Activo,2621
+2622,South Mary,Activo,2622
+2623,Edwinhaven,Activo,2623
+2624,Ruizmouth,Activo,2624
+2625,Taylorburgh,Activo,2625
+2626,North Josephview,Activo,2626
+2627,North Christine,Activo,2627
+2628,Hendersonmouth,Activo,2628
+2629,Robertville,Activo,2629
+2630,Samuelport,Activo,2630
+2631,North Heatherburgh,Activo,2631
+2632,New Tashaborough,Activo,2632
+2633,Mortonfurt,Activo,2633
+2634,Morrisview,Activo,2634
+2635,South Brian,Activo,2635
+2636,Oconnellmouth,Activo,2636
+2637,North Zacharytown,Activo,2637
+2638,Ericton,Activo,2638
+2639,Smithberg,Activo,2639
+2640,Victoriaport,Activo,2640
+2641,North Williamberg,Activo,2641
+2642,North Christine,Activo,2642
+2643,Lake Donaldshire,Activo,2643
+2644,Wesleyville,Activo,2644
+2645,West Nicholas,Activo,2645
+2646,Port David,Activo,2646
+2647,Sanchezstad,Activo,2647
+2648,Harrisshire,Activo,2648
+2649,Alvarezmouth,Activo,2649
+2650,Robinville,Activo,2650
+2651,Christophermouth,Activo,2651
+2652,East Karla,Activo,2652
+2653,Kristenberg,Activo,2653
+2654,New David,Activo,2654
+2655,Chambershaven,Activo,2655
+2656,Port Alejandro,Activo,2656
+2657,North Paulstad,Activo,2657
+2658,New Calebmouth,Activo,2658
+2659,Taraland,Activo,2659
+2660,West Joseph,Activo,2660
+2661,South Kathleenland,Activo,2661
+2662,Lloydburgh,Activo,2662
+2663,New Amytown,Inactivo,2663
+2664,Mooreberg,Activo,2664
+2665,North Lisa,Activo,2665
+2666,Heidistad,Activo,2666
+2667,New Michael,Activo,2667
+2668,East Christinafort,Activo,2668
+2669,Lindseymouth,Activo,2669
+2670,North Patriciafurt,Activo,2670
+2671,Port Ashley,Activo,2671
+2672,Wheelerville,Activo,2672
+2673,Lake Darrell,Activo,2673
+2674,Patriciaville,Activo,2674
+2675,Aliciamouth,Activo,2675
+2676,Shannonshire,Activo,2676
+2677,Hicksburgh,Activo,2677
+2678,Jasonmouth,Activo,2678
+2679,Johnfort,Activo,2679
+2680,East Lynn,Activo,2680
+2681,Brownstad,Inactivo,2681
+2682,West Juan,Activo,2682
+2683,Pachecoville,Inactivo,2683
+2684,West Chelsea,Activo,2684
+2685,Lake Melanieton,Activo,2685
+2686,Port Betty,Activo,2686
+2687,West Jasonshire,Activo,2687
+2688,New Joshua,Activo,2688
+2689,South Caleb,Activo,2689
+2690,Sallyside,Activo,2690
+2691,Lake Aliciaburgh,Activo,2691
+2692,Perryville,Activo,2692
+2693,Schroedermouth,Activo,2693
+2694,Juliahaven,Activo,2694
+2695,Andreaborough,Activo,2695
+2696,Smithborough,Activo,2696
+2697,Williamsfort,Activo,2697
+2698,North Carriehaven,Activo,2698
+2699,South Jacquelineland,Activo,2699
+2700,Holmesville,Activo,2700
+2701,Lake Jeffrey,Activo,2701
+2702,Port Nathanmouth,Activo,2702
+2703,Alecberg,Activo,2703
+2704,Whiteville,Activo,2704
+2705,East Angelaport,Activo,2705
+2706,Valeriefurt,Activo,2706
+2707,East Anthonyburgh,Activo,2707
+2708,Angelafurt,Activo,2708
+2709,Christopherchester,Activo,2709
+2710,Smithborough,Activo,2710
+2711,Andersonfurt,Activo,2711
+2712,Jesseview,Activo,2712
+2713,South Xavierhaven,Activo,2713
+2714,Port Juan,Activo,2714
+2715,Gonzalesfurt,Activo,2715
+2716,West Alexandra,Activo,2716
+2717,East Dylanfort,Activo,2717
+2718,Natalieville,Activo,2718
+2719,Jameschester,Activo,2719
+2720,Edwintown,Activo,2720
+2721,Grahamside,Activo,2721
+2722,South Jeffrey,Activo,2722
+2723,New Robin,Activo,2723
+2724,Jacobmouth,Activo,2724
+2725,Kaitlynstad,Inactivo,2725
+2726,New Lance,Activo,2726
+2727,Kellyville,Activo,2727
+2728,East Johnside,Activo,2728
+2729,Matthewstad,Activo,2729
+2730,Brianport,Activo,2730
+2731,Anthonyburgh,Activo,2731
+2732,Mitchellland,Activo,2732
+2733,North Amberfurt,Activo,2733
+2734,Candicemouth,Activo,2734
+2735,Woodfurt,Activo,2735
+2736,Porterburgh,Activo,2736
+2737,New Brianside,Activo,2737
+2738,Karenville,Activo,2738
+2739,Carrieland,Activo,2739
+2740,Juanhaven,Activo,2740
+2741,Lake Anthony,Activo,2741
+2742,New Jenniferbury,Activo,2742
+2743,Lisaport,Activo,2743
+2744,Gonzalezmouth,Activo,2744
+2745,South Richardbury,Activo,2745
+2746,Thomasburgh,Activo,2746
+2747,Courtneymouth,Activo,2747
+2748,Codyview,Activo,2748
+2749,Martinezborough,Activo,2749
+2750,Garrettmouth,Activo,2750
+2751,South Jacob,Activo,2751
+2752,Millerfort,Activo,2752
+2753,Port Alexander,Activo,2753
+2754,Wilsonmouth,Activo,2754
+2755,Hillchester,Activo,2755
+2756,Millerberg,Activo,2756
+2757,Torrestown,Activo,2757
+2758,Lake Matthewview,Activo,2758
+2759,Gardnerside,Activo,2759
+2760,Fischermouth,Activo,2760
+2761,Andersonmouth,Activo,2761
+2762,New Bryan,Activo,2762
+2763,Maymouth,Activo,2763
+2764,New Rickeyborough,Activo,2764
+2765,North Cassandra,Activo,2765
+2766,Port Curtistown,Activo,2766
+2767,Kleinview,Activo,2767
+2768,Santiagoville,Activo,2768
+2769,New Douglasland,Activo,2769
+2770,West Josestad,Activo,2770
+2771,West Gary,Activo,2771
+2772,Curtismouth,Activo,2772
+2773,Vaughnfurt,Activo,2773
+2774,North Jessefurt,Activo,2774
+2775,Jaybury,Activo,2775
+2776,Hernandezfurt,Activo,2776
+2777,Phillipsside,Activo,2777
+2778,New Theresa,Activo,2778
+2779,Beckfort,Activo,2779
+2780,North Amber,Activo,2780
+2781,Gomezberg,Activo,2781
+2782,Kaufmanburgh,Activo,2782
+2783,North Emilyport,Inactivo,2783
+2784,Smithbury,Activo,2784
+2785,Lake Diana,Activo,2785
+2786,Michaelbury,Activo,2786
+2787,Garciafurt,Activo,2787
+2788,Harrismouth,Activo,2788
+2789,West Russell,Activo,2789
+2790,Richardchester,Activo,2790
+2791,Lake Brianborough,Activo,2791
+2792,Barrfort,Activo,2792
+2793,Susanmouth,Activo,2793
+2794,New Cynthialand,Activo,2794
+2795,North Linda,Activo,2795
+2796,Jennifershire,Activo,2796
+2797,South Jeremybury,Activo,2797
+2798,North Alex,Activo,2798
+2799,Youngbury,Activo,2799
+2800,Port Shannon,Activo,2800
+2801,Harveymouth,Activo,2801
+2802,Lake Williambury,Activo,2802
+2803,Jacksonville,Activo,2803
+2804,Lewisside,Activo,2804
+2805,New Suzannemouth,Inactivo,2805
+2806,Michelleport,Activo,2806
+2807,South Eric,Activo,2807
+2808,Port Michelle,Activo,2808
+2809,West Abigailborough,Activo,2809
+2810,East Angelaton,Activo,2810
+2811,Lake Dustin,Activo,2811
+2812,Teresaburgh,Activo,2812
+2813,Cisnerosland,Activo,2813
+2814,Phillipsside,Activo,2814
+2815,Gardnerfort,Activo,2815
+2816,South Crystalview,Activo,2816
+2817,New Shawnview,Activo,2817
+2818,New Jennifer,Activo,2818
+2819,Port Jessica,Activo,2819
+2820,Port Rodney,Activo,2820
+2821,Lake Jonathon,Activo,2821
+2822,Adriennechester,Activo,2822
+2823,West Karen,Activo,2823
+2824,Antonioview,Activo,2824
+2825,Carolynmouth,Activo,2825
+2826,Lindachester,Activo,2826
+2827,East Jessica,Activo,2827
+2828,Frazierchester,Activo,2828
+2829,Fernandezmouth,Activo,2829
+2830,South Andrea,Activo,2830
+2831,Seanview,Activo,2831
+2832,Davidhaven,Activo,2832
+2833,Port Catherine,Activo,2833
+2834,New Tammy,Activo,2834
+2835,New Brandonfort,Activo,2835
+2836,Kevinton,Activo,2836
+2837,Hickmanville,Activo,2837
+2838,Perezbury,Activo,2838
+2839,Michelleville,Activo,2839
+2840,Gabrielview,Activo,2840
+2841,West Julieland,Activo,2841
+2842,Hortonmouth,Activo,2842
+2843,South Carol,Activo,2843
+2844,New Brandy,Activo,2844
+2845,South Nicholas,Activo,2845
+2846,Langfurt,Activo,2846
+2847,North Philipfort,Activo,2847
+2848,Andersonfort,Activo,2848
+2849,Hardinghaven,Activo,2849
+2850,Richardsfort,Activo,2850
+2851,Greenburgh,Activo,2851
+2852,Elliottburgh,Activo,2852
+2853,South Jennifer,Activo,2853
+2854,Stanleyburgh,Activo,2854
+2855,Joseside,Inactivo,2855
+2856,South Ashlee,Activo,2856
+2857,Lake Jamesstad,Activo,2857
+2858,Port Lauraville,Inactivo,2858
+2859,Lake Joshuaport,Activo,2859
+2860,Millsview,Activo,2860
+2861,New Barbara,Activo,2861
+2862,Port Christinamouth,Activo,2862
+2863,New Carrie,Activo,2863
+2864,Robertmouth,Activo,2864
+2865,Leeborough,Activo,2865
+2866,Marshalltown,Activo,2866
+2867,New Heatherview,Inactivo,2867
+2868,North Vanessaburgh,Activo,2868
+2869,Lake Timothy,Activo,2869
+2870,Lisaburgh,Activo,2870
+2871,Nicolasville,Activo,2871
+2872,South Katrinamouth,Activo,2872
+2873,Jamesfurt,Activo,2873
+2874,North Sarah,Activo,2874
+2875,Port Derekview,Activo,2875
+2876,East David,Activo,2876
+2877,Lake Heatherborough,Activo,2877
+2878,Alexandramouth,Activo,2878
+2879,Thomashaven,Activo,2879
+2880,East John,Inactivo,2880
+2881,Adamberg,Activo,2881
+2882,Scottmouth,Activo,2882
+2883,Clintonport,Activo,2883
+2884,Amandastad,Activo,2884
+2885,North Jenniferville,Activo,2885
+2886,Cameronmouth,Activo,2886
+2887,Christinaborough,Activo,2887
+2888,New Elizabethbury,Activo,2888
+2889,Port Mariahmouth,Activo,2889
+2890,Snowfort,Activo,2890
+2891,Port Christinaview,Activo,2891
+2892,Lake Chelseyburgh,Activo,2892
+2893,Matthewborough,Inactivo,2893
+2894,South Derek,Activo,2894
+2895,South Lisa,Activo,2895
+2896,Bergview,Activo,2896
+2897,Wagnerport,Activo,2897
+2898,Kingshire,Activo,2898
+2899,North Josephmouth,Activo,2899
+2900,South Paul,Activo,2900
+2901,Kellyland,Activo,2901
+2902,Lynnfort,Activo,2902
+2903,Davidville,Activo,2903
+2904,Tracychester,Activo,2904
+2905,Lake David,Activo,2905
+2906,Austinfurt,Activo,2906
+2907,Marquezfort,Activo,2907
+2908,Smithside,Activo,2908
+2909,West Dominiqueberg,Activo,2909
+2910,Nicoleberg,Activo,2910
+2911,New Anthony,Activo,2911
+2912,Deborahburgh,Activo,2912
+2913,East Madisonburgh,Activo,2913
+2914,Raybury,Activo,2914
+2915,New Melissa,Activo,2915
+2916,Jeffreyburgh,Activo,2916
+2917,East Christopherstad,Activo,2917
+2918,Lake Robertchester,Activo,2918
+2919,Randolphbury,Activo,2919
+2920,Rosalesfurt,Activo,2920
+2921,Monicaberg,Activo,2921
+2922,East Martha,Activo,2922
+2923,West Breanna,Inactivo,2923
+2924,Lake Ashleyfurt,Activo,2924
+2925,North Donaldmouth,Activo,2925
+2926,Port Amyfort,Activo,2926
+2927,Obrienmouth,Activo,2927
+2928,Lake Joshuafort,Activo,2928
+2929,West Courtney,Activo,2929
+2930,Leonardton,Activo,2930
+2931,New Marcus,Activo,2931
+2932,East Justin,Activo,2932
+2933,Allenshire,Activo,2933
+2934,Keyland,Activo,2934
+2935,Port Roymouth,Activo,2935
+2936,West Markborough,Activo,2936
+2937,North Christopherhaven,Activo,2937
+2938,West Samuelton,Activo,2938
+2939,Teresafurt,Activo,2939
+2940,Port Amyshire,Activo,2940
+2941,Cherrymouth,Activo,2941
+2942,Lake Joshuastad,Activo,2942
+2943,Perkinston,Activo,2943
+2944,East Christopher,Activo,2944
+2945,East Robert,Activo,2945
+2946,Pamelashire,Activo,2946
+2947,North Michaelbury,Activo,2947
+2948,Fordtown,Activo,2948
+2949,South Michaelland,Activo,2949
+2950,Pettyborough,Activo,2950
+2951,Garzaville,Activo,2951
+2952,South Victoriaton,Activo,2952
+2953,Kellyberg,Activo,2953
+2954,Lake Jenniferfurt,Activo,2954
+2955,Wallsland,Activo,2955
+2956,East Samantha,Activo,2956
+2957,West Jacobshire,Activo,2957
+2958,Thomasmouth,Activo,2958
+2959,Lowechester,Activo,2959
+2960,North Joseph,Activo,2960
+2961,Crystalmouth,Activo,2961
+2962,New Christopher,Activo,2962
+2963,Kaylaside,Activo,2963
+2964,Thomasfurt,Activo,2964
+2965,West Rebeccaton,Activo,2965
+2966,South Katherine,Activo,2966
+2967,West Patrickmouth,Activo,2967
+2968,Suzanneview,Activo,2968
+2969,Mackenziemouth,Activo,2969
+2970,East Jessica,Activo,2970
+2971,Port Tracy,Activo,2971
+2972,Salazarmouth,Activo,2972
+2973,South Megan,Activo,2973
+2974,Ashleychester,Activo,2974
+2975,Michellestad,Activo,2975
+2976,New Theresa,Activo,2976
+2977,Collinsburgh,Activo,2977
+2978,Burkefurt,Activo,2978
+2979,Port Margaret,Activo,2979
+2980,North Kelly,Activo,2980
+2981,New Abigail,Activo,2981
+2982,North Alyssa,Activo,2982
+2983,Theresaberg,Activo,2983
+2984,West Robertton,Activo,2984
+2985,North Robin,Activo,2985
+2986,Paulland,Activo,2986
+2987,West Robinhaven,Activo,2987
+2988,Andreamouth,Activo,2988
+2989,Wagnermouth,Inactivo,2989
+2990,Harrisonfort,Activo,2990
+2991,Davidport,Activo,2991
+2992,Michaelshire,Activo,2992
+2993,West Johnton,Activo,2993
+2994,Donaldview,Activo,2994
+2995,Port Jacob,Activo,2995
+2996,Lauraport,Activo,2996
+2997,New James,Activo,2997
+2998,East Roger,Activo,2998
+2999,East Lacey,Activo,2999
+3000,Carrton,Activo,3000
+3001,Wallville,Activo,3001
+3002,Hallville,Activo,3002
+3003,Justinberg,Activo,3003
+3004,Brianshire,Activo,3004
+3005,Lauraport,Activo,3005
+3006,South Emilymouth,Activo,3006
+3007,New Kaylaton,Activo,3007
+3008,Courtneymouth,Activo,3008
+3009,Alexishaven,Activo,3009
+3010,Bryanfurt,Activo,3010
+3011,Lake Jose,Activo,3011
+3012,West Spencerland,Activo,3012
+3013,South Brandytown,Activo,3013
+3014,Maryfurt,Activo,3014
+3015,Lake Taylormouth,Activo,3015
+3016,Port Carol,Activo,3016
+3017,Michaelville,Inactivo,3017
+3018,Port Katherinehaven,Activo,3018
+3019,Jonathanbury,Activo,3019
+3020,Tommyberg,Activo,3020
+3021,North Kimfort,Activo,3021
+3022,New Daniel,Activo,3022
+3023,Lindamouth,Activo,3023
+3024,Cassandraport,Activo,3024
+3025,Arnoldhaven,Activo,3025
+3026,East Brittneyton,Activo,3026
+3027,Wellsstad,Activo,3027
+3028,Griffinside,Activo,3028
+3029,Sarahshire,Activo,3029
+3030,Lake Kenneth,Activo,3030
+3031,Lisaside,Inactivo,3031
+3032,Brandonton,Activo,3032
+3033,Cookborough,Activo,3033
+3034,South Rickey,Activo,3034
+3035,Kennedymouth,Activo,3035
+3036,Ethanfurt,Activo,3036
+3037,Larsonborough,Activo,3037
+3038,Smithmouth,Activo,3038
+3039,West Justinshire,Activo,3039
+3040,Danielstad,Activo,3040
+3041,Lake Kimberly,Activo,3041
+3042,Port Heidistad,Activo,3042
+3043,Colleenmouth,Activo,3043
+3044,Dawnton,Activo,3044
+3045,New Jeremyhaven,Activo,3045
+3046,Marksside,Activo,3046
+3047,Port Christopherland,Activo,3047
+3048,West Stevenport,Activo,3048
+3049,Christinafort,Activo,3049
+3050,Port Mary,Activo,3050
+3051,Annettechester,Activo,3051
+3052,Aaronbury,Activo,3052
+3053,Jasonview,Activo,3053
+3054,Roberttown,Activo,3054
+3055,New Erinville,Activo,3055
+3056,South Ann,Activo,3056
+3057,Alexanderchester,Activo,3057
+3058,Freemanstad,Activo,3058
+3059,Randyton,Activo,3059
+3060,West Thomas,Activo,3060
+3061,Gomezland,Activo,3061
+3062,Port Mercedes,Activo,3062
+3063,Gonzalezview,Activo,3063
+3064,Charlesport,Activo,3064
+3065,Lake Rebecca,Activo,3065
+3066,Lake Jacob,Activo,3066
+3067,New Andrea,Activo,3067
+3068,Shelbyville,Activo,3068
+3069,Carrillostad,Activo,3069
+3070,North Tim,Activo,3070
+3071,Barreratown,Activo,3071
+3072,Lake Carl,Activo,3072
+3073,Joseville,Activo,3073
+3074,East Dwayneburgh,Activo,3074
+3075,East Justinview,Activo,3075
+3076,Anthonyville,Activo,3076
+3077,Port Amberberg,Activo,3077
+3078,Lake Jeanetteville,Activo,3078
+3079,Mcculloughbury,Activo,3079
+3080,Nicolasshire,Activo,3080
+3081,West Dianahaven,Activo,3081
+3082,Mejiachester,Activo,3082
+3083,Andersonhaven,Activo,3083
+3084,West Markborough,Activo,3084
+3085,Tuckerburgh,Activo,3085
+3086,Port Jack,Activo,3086
+3087,New Barbarabury,Activo,3087
+3088,New Jessicachester,Activo,3088
+3089,New Markbury,Activo,3089
+3090,Port Michael,Inactivo,3090
+3091,Lake Taylorchester,Activo,3091
+3092,South Nathanland,Activo,3092
+3093,West Mark,Activo,3093
+3094,Torreschester,Activo,3094
+3095,Lake Donna,Activo,3095
+3096,West Haleyburgh,Activo,3096
+3097,Lake Carolview,Activo,3097
+3098,New Susan,Activo,3098
+3099,New Richardchester,Activo,3099
+3100,Erichaven,Activo,3100
+3101,Howellfurt,Activo,3101
+3102,New Adamville,Activo,3102
+3103,Hodgefort,Activo,3103
+3104,West Eriktown,Activo,3104
+3105,West Kimberly,Activo,3105
+3106,North Kerrymouth,Activo,3106
+3107,Johnnyville,Activo,3107
+3108,Port Wandachester,Activo,3108
+3109,Foleyport,Activo,3109
+3110,Rickeybury,Activo,3110
+3111,Johnmouth,Activo,3111
+3112,Stonetown,Activo,3112
+3113,East Timothy,Activo,3113
+3114,East Lauraberg,Activo,3114
+3115,Jordanport,Activo,3115
+3116,Patriciastad,Activo,3116
+3117,Marissahaven,Activo,3117
+3118,West Andrewmouth,Activo,3118
+3119,Lake Erica,Activo,3119
+3120,Murphymouth,Activo,3120
+3121,East Samanthachester,Activo,3121
+3122,Potterville,Activo,3122
+3123,Lake Joe,Activo,3123
+3124,Murphychester,Activo,3124
+3125,South Williamshire,Activo,3125
+3126,Port Martha,Inactivo,3126
+3127,Anitatown,Activo,3127
+3128,Williamland,Activo,3128
+3129,Lake Dennis,Activo,3129
+3130,West Alexanderfort,Activo,3130
+3131,New Leahfurt,Activo,3131
+3132,Parkerhaven,Activo,3132
+3133,Michelebury,Activo,3133
+3134,Richardtown,Activo,3134
+3135,Chadmouth,Inactivo,3135
+3136,Barrettbury,Inactivo,3136
+3137,North Ashleyhaven,Inactivo,3137
+3138,Johnview,Activo,3138
+3139,Jacobville,Activo,3139
+3140,Port Douglas,Activo,3140
+3141,North Jefferybury,Activo,3141
+3142,Port Colemouth,Activo,3142
+3143,West Breanna,Activo,3143
+3144,North Brian,Activo,3144
+3145,Debramouth,Activo,3145
+3146,Port Joseph,Activo,3146
+3147,Reevesland,Activo,3147
+3148,Rayville,Activo,3148
+3149,Lake Pamelaton,Activo,3149
+3150,Johnsonmouth,Activo,3150
+3151,East Kristi,Activo,3151
+3152,Chelseyborough,Activo,3152
+3153,Lake Brett,Activo,3153
+3154,Robertstad,Activo,3154
+3155,North Justinton,Activo,3155
+3156,North Anthonytown,Activo,3156
+3157,Adamside,Activo,3157
+3158,Lake Markshire,Activo,3158
+3159,New Christine,Activo,3159
+3160,Dorothyhaven,Activo,3160
+3161,Campbelltown,Activo,3161
+3162,Washingtonville,Activo,3162
+3163,Michaelchester,Activo,3163
+3164,Robertberg,Activo,3164
+3165,Port Heather,Activo,3165
+3166,East Coreyburgh,Activo,3166
+3167,New James,Activo,3167
+3168,North Tyler,Activo,3168
+3169,West Dawnton,Activo,3169
+3170,Nicoleberg,Activo,3170
+3171,Christinashire,Activo,3171
+3172,East David,Activo,3172
+3173,Robertmouth,Activo,3173
+3174,Jordanchester,Activo,3174
+3175,Owensland,Activo,3175
+3176,North Katrina,Activo,3176
+3177,Georgemouth,Activo,3177
+3178,Lake Charlesland,Activo,3178
+3179,North Nicholasport,Activo,3179
+3180,South Charles,Activo,3180
+3181,New Rachelborough,Activo,3181
+3182,Port Rebeccamouth,Inactivo,3182
+3183,Johnhaven,Activo,3183
+3184,Johnsmouth,Activo,3184
+3185,Allentown,Activo,3185
+3186,Nancyfurt,Activo,3186
+3187,Briantown,Activo,3187
+3188,Stephenston,Activo,3188
+3189,East William,Activo,3189
+3190,Barkerside,Activo,3190
+3191,West Benjaminstad,Activo,3191
+3192,Alexismouth,Activo,3192
+3193,East Heather,Activo,3193
+3194,Port Alyssa,Activo,3194
+3195,Wardberg,Activo,3195
+3196,West Katherine,Activo,3196
+3197,West Jamesshire,Activo,3197
+3198,Elizabethborough,Activo,3198
+3199,North Tracyville,Activo,3199
+3200,North Phillipchester,Activo,3200
+3201,Ramirezview,Activo,3201
+3202,Dawnville,Activo,3202
+3203,Lake Elizabethport,Activo,3203
+3204,Watsontown,Activo,3204
+3205,North Hollytown,Activo,3205
+3206,Valerieville,Activo,3206
+3207,Cooperville,Activo,3207
+3208,Tonystad,Activo,3208
+3209,Micheleberg,Activo,3209
+3210,Daltonville,Activo,3210
+3211,Benjaminmouth,Activo,3211
+3212,South Lynnfort,Activo,3212
+3213,East Jeanne,Inactivo,3213
+3214,Gregoryborough,Activo,3214
+3215,Lake Mary,Activo,3215
+3216,Benjaminchester,Activo,3216
+3217,Williamsland,Activo,3217
+3218,South Suzanneburgh,Activo,3218
+3219,South Lisashire,Activo,3219
+3220,Russellburgh,Activo,3220
+3221,Terriside,Inactivo,3221
+3222,East Michaelland,Activo,3222
+3223,North Leslie,Activo,3223
+3224,Garciabury,Activo,3224
+3225,Lake Matthewstad,Inactivo,3225
+3226,Brownmouth,Activo,3226
+3227,Ericksontown,Activo,3227
+3228,Wilsonton,Activo,3228
+3229,South Jamesborough,Activo,3229
+3230,Sharonmouth,Activo,3230
+3231,Harpertown,Activo,3231
+3232,East Melody,Activo,3232
+3233,New Kennethfort,Activo,3233
+3234,Morenoview,Activo,3234
+3235,Markberg,Activo,3235
+3236,Quinnland,Activo,3236
+3237,North Andrew,Activo,3237
+3238,Lake Teresa,Activo,3238
+3239,Joannville,Activo,3239
+3240,Williamville,Activo,3240
+3241,West Christinestad,Activo,3241
+3242,Nelsonberg,Activo,3242
+3243,West Jesse,Activo,3243
+3244,Hughesside,Activo,3244
+3245,Port Emilyside,Activo,3245
+3246,Vickieburgh,Activo,3246
+3247,West Travis,Activo,3247
+3248,Lisaville,Activo,3248
+3249,Scotthaven,Activo,3249
+3250,Hoshire,Activo,3250
+3251,South Nicole,Activo,3251
+3252,East Harry,Activo,3252
+3253,South Henryfurt,Activo,3253
+3254,New Kristen,Activo,3254
+3255,Kellerville,Activo,3255
+3256,Adamsberg,Activo,3256
+3257,Amandaport,Activo,3257
+3258,South Kimberly,Activo,3258
+3259,North Sheila,Activo,3259
+3260,Lake Lisa,Activo,3260
+3261,Port Jerryton,Activo,3261
+3262,Thomasside,Activo,3262
+3263,Simmonsland,Activo,3263
+3264,Lake Kenneth,Activo,3264
+3265,Careyfurt,Activo,3265
+3266,North Deborah,Activo,3266
+3267,Stephaniemouth,Activo,3267
+3268,Raymondshire,Activo,3268
+3269,Alextown,Activo,3269
+3270,Jessicashire,Activo,3270
+3271,Johnsonburgh,Activo,3271
+3272,West Amanda,Inactivo,3272
+3273,Yorkburgh,Activo,3273
+3274,Port Amber,Activo,3274
+3275,Grahamside,Activo,3275
+3276,East Kevinfurt,Activo,3276
+3277,Carrillobury,Activo,3277
+3278,North Samanthastad,Activo,3278
+3279,New Kaylaburgh,Activo,3279
+3280,North Gina,Activo,3280
+3281,New Adambury,Activo,3281
+3282,Wandaview,Activo,3282
+3283,Christystad,Activo,3283
+3284,North Timothyview,Activo,3284
+3285,Thompsonland,Activo,3285
+3286,East Robertview,Activo,3286
+3287,Briannaton,Activo,3287
+3288,West Teresaberg,Activo,3288
+3289,New Kylemouth,Inactivo,3289
+3290,Jenniferborough,Inactivo,3290
+3291,Wademouth,Activo,3291
+3292,Joseview,Activo,3292
+3293,West Jenniferborough,Activo,3293
+3294,Thomasbury,Activo,3294
+3295,Booneberg,Activo,3295
+3296,Port Melissamouth,Activo,3296
+3297,Lake Melinda,Activo,3297
+3298,Shawnchester,Activo,3298
+3299,Contreraston,Activo,3299
+3300,Michaelton,Activo,3300
+3301,South Lisaton,Activo,3301
+3302,Stephaniebury,Activo,3302
+3303,Royburgh,Activo,3303
+3304,Jenniferfurt,Activo,3304
+3305,Angelaview,Activo,3305
+3306,East Jennifer,Activo,3306
+3307,North Brendaborough,Activo,3307
+3308,Ashleyland,Activo,3308
+3309,West Stephanietown,Activo,3309
+3310,Kellyport,Activo,3310
+3311,Juarezview,Activo,3311
+3312,Beckerhaven,Activo,3312
+3313,Kaylafort,Activo,3313
+3314,Freyborough,Activo,3314
+3315,New Robertton,Activo,3315
+3316,South Emily,Activo,3316
+3317,New Jeffreymouth,Activo,3317
+3318,Coxside,Activo,3318
+3319,Ericview,Activo,3319
+3320,North Heatherside,Activo,3320
+3321,Port Tylerborough,Activo,3321
+3322,North Mary,Activo,3322
+3323,Christinefurt,Activo,3323
+3324,Stevenborough,Activo,3324
+3325,West Rachel,Activo,3325
+3326,Gregoryville,Activo,3326
+3327,North Nathan,Activo,3327
+3328,Shawnbury,Activo,3328
+3329,East Paulville,Activo,3329
+3330,North Glen,Activo,3330
+3331,Port Melissaburgh,Activo,3331
+3332,Goodwinhaven,Activo,3332
+3333,Mollyside,Activo,3333
+3334,Martinezchester,Activo,3334
+3335,Alexanderborough,Activo,3335
+3336,Lake Susanside,Activo,3336
+3337,South Tinahaven,Activo,3337
+3338,Brianside,Activo,3338
+3339,Forbesmouth,Activo,3339
+3340,Cuevaston,Activo,3340
+3341,Dianaburgh,Activo,3341
+3342,West Karaton,Activo,3342
+3343,Williamsside,Activo,3343
+3344,Susantown,Activo,3344
+3345,Jeffreyfort,Activo,3345
+3346,Lake Jenna,Activo,3346
+3347,Clarkstad,Activo,3347
+3348,West Matthew,Activo,3348
+3349,East Michelle,Activo,3349
+3350,Port Joshua,Activo,3350
+3351,Aguilarville,Activo,3351
+3352,Lake Bethland,Activo,3352
+3353,New Tammyshire,Activo,3353
+3354,Garciashire,Activo,3354
+3355,Andrewfort,Activo,3355
+3356,East Craigfort,Activo,3356
+3357,Port Heatherview,Activo,3357
+3358,New Jennifer,Activo,3358
+3359,Angelaside,Activo,3359
+3360,West Michaela,Activo,3360
+3361,Gallegosmouth,Activo,3361
+3362,Harrisonburgh,Activo,3362
+3363,North Sarahfort,Activo,3363
+3364,Edwardsshire,Activo,3364
+3365,Romeromouth,Activo,3365
+3366,New Brian,Activo,3366
+3367,Patricialand,Activo,3367
+3368,Martinbury,Activo,3368
+3369,New David,Activo,3369
+3370,Rhodesmouth,Activo,3370
+3371,Mckinneyfort,Activo,3371
+3372,Port Zacharytown,Activo,3372
+3373,Jonathanberg,Activo,3373
+3374,Davidview,Activo,3374
+3375,North Richard,Activo,3375
+3376,North Tyler,Activo,3376
+3377,East Matthewshire,Activo,3377
+3378,Gutierrezfurt,Activo,3378
+3379,Peterville,Activo,3379
+3380,Paulaside,Activo,3380
+3381,Christineshire,Activo,3381
+3382,Padillaborough,Activo,3382
+3383,Port Johnville,Inactivo,3383
+3384,South Jameston,Activo,3384
+3385,North Thomas,Activo,3385
+3386,West Nicole,Activo,3386
+3387,East Sonialand,Activo,3387
+3388,North Jake,Activo,3388
+3389,North Christinabury,Activo,3389
+3390,East Jefferyfort,Activo,3390
+3391,Seanview,Activo,3391
+3392,Edwardsbury,Activo,3392
+3393,New Brenda,Activo,3393
+3394,New Cassandrabury,Activo,3394
+3395,Steveland,Activo,3395
+3396,West Jacqueline,Activo,3396
+3397,Phillipsberg,Activo,3397
+3398,Scottchester,Activo,3398
+3399,Colleenton,Activo,3399
+3400,South Raymond,Activo,3400
+3401,Walkerfurt,Activo,3401
+3402,New Jasmineville,Activo,3402
+3403,Salazarbury,Activo,3403
+3404,West Jennifer,Activo,3404
+3405,Gomezville,Activo,3405
+3406,West Timothy,Activo,3406
+3407,North Deborah,Activo,3407
+3408,Lake Daniel,Activo,3408
+3409,South Heather,Activo,3409
+3410,New Michelle,Activo,3410
+3411,Lake Matthewbury,Activo,3411
+3412,Peterhaven,Activo,3412
+3413,Brandystad,Activo,3413
+3414,North Ericshire,Activo,3414
+3415,Sweeneystad,Activo,3415
+3416,Stoutville,Activo,3416
+3417,Tinaburgh,Activo,3417
+3418,Pratthaven,Activo,3418
+3419,Lake Samueltown,Activo,3419
+3420,New Rachel,Activo,3420
+3421,New Sheilatown,Activo,3421
+3422,New Jesse,Activo,3422
+3423,Dianemouth,Activo,3423
+3424,North Jessicahaven,Activo,3424
+3425,West Richard,Inactivo,3425
+3426,North Marie,Activo,3426
+3427,Port Alan,Activo,3427
+3428,Debrastad,Activo,3428
+3429,Mccoyshire,Activo,3429
+3430,New Dana,Activo,3430
+3431,Lake Meghanbury,Activo,3431
+3432,North Laura,Activo,3432
+3433,Henrychester,Activo,3433
+3434,Thomaston,Inactivo,3434
+3435,Cynthiafurt,Activo,3435
+3436,Clarktown,Activo,3436
+3437,West Angela,Activo,3437
+3438,Port Ericaton,Activo,3438
+3439,New Steven,Activo,3439
+3440,Wrightfurt,Activo,3440
+3441,Jennifershire,Activo,3441
+3442,Tracyberg,Activo,3442
+3443,North Alexis,Activo,3443
+3444,Sarahaven,Activo,3444
+3445,Jonathanhaven,Activo,3445
+3446,Murphychester,Activo,3446
+3447,Morganstad,Activo,3447
+3448,Amberside,Activo,3448
+3449,New Autumn,Activo,3449
+3450,Joannfort,Activo,3450
+3451,Lake Bryanview,Activo,3451
+3452,Hartmouth,Activo,3452
+3453,Mariefort,Activo,3453
+3454,East Andrew,Activo,3454
+3455,Joshuaport,Activo,3455
+3456,Benjaminmouth,Activo,3456
+3457,Shawntown,Activo,3457
+3458,West Michaeltown,Activo,3458
+3459,Gardnerchester,Activo,3459
+3460,East Kyleville,Activo,3460
+3461,South Laurahaven,Activo,3461
+3462,Dawnmouth,Activo,3462
+3463,Port Stephen,Activo,3463
+3464,Paulburgh,Activo,3464
+3465,Morganport,Activo,3465
+3466,Lake Williamton,Activo,3466
+3467,West Jamesshire,Activo,3467
+3468,Thomasburgh,Activo,3468
+3469,Brianstad,Activo,3469
+3470,New Jerry,Activo,3470
+3471,Peterview,Activo,3471
+3472,New Kellyfurt,Activo,3472
+3473,Lisaborough,Activo,3473
+3474,Hernandezstad,Activo,3474
+3475,New Martha,Activo,3475
+3476,Griffinshire,Activo,3476
+3477,North Matthew,Activo,3477
+3478,New Sara,Activo,3478
+3479,Tracytown,Activo,3479
+3480,North Georgemouth,Activo,3480
+3481,Williammouth,Activo,3481
+3482,West Timothyport,Activo,3482
+3483,North Jonathanberg,Activo,3483
+3484,Kimberlyhaven,Activo,3484
+3485,West Lisatown,Activo,3485
+3486,Juarezshire,Activo,3486
+3487,New Edward,Activo,3487
+3488,Avilaview,Activo,3488
+3489,Weekschester,Activo,3489
+3490,Erinland,Activo,3490
+3491,Jacobsberg,Activo,3491
+3492,Adamsbury,Activo,3492
+3493,North Maryport,Activo,3493
+3494,Hendrickshaven,Activo,3494
+3495,Savannahport,Activo,3495
+3496,New Robert,Activo,3496
+3497,South Gerald,Activo,3497
+3498,Lake Crystal,Activo,3498
+3499,New Thomas,Activo,3499
+3500,East Christinafurt,Activo,3500
+3501,North Kelseystad,Activo,3501
+3502,Graveschester,Activo,3502
+3503,Goodwinside,Activo,3503
+3504,Lake Elizabeth,Activo,3504
+3505,Waltonland,Activo,3505
+3506,Mckinneymouth,Activo,3506
+3507,South Lacey,Activo,3507
+3508,Williamsburgh,Activo,3508
+3509,Morrisburgh,Activo,3509
+3510,Port Alexandrialand,Activo,3510
+3511,Burchshire,Activo,3511
+3512,East Scott,Activo,3512
+3513,Foleyberg,Activo,3513
+3514,Madelineville,Activo,3514
+3515,South Rachel,Activo,3515
+3516,Welchside,Activo,3516
+3517,Moraport,Activo,3517
+3518,South Jennifer,Activo,3518
+3519,Nelsonstad,Activo,3519
+3520,South David,Activo,3520
+3521,Lake Jennifer,Activo,3521
+3522,Bryanburgh,Activo,3522
+3523,Fisherville,Activo,3523
+3524,Georgefort,Activo,3524
+3525,Hunterville,Activo,3525
+3526,West Gracemouth,Activo,3526
+3527,Jenniferland,Activo,3527
+3528,Mossbury,Activo,3528
+3529,North Courtney,Activo,3529
+3530,Lake Jasonbury,Activo,3530
+3531,New Philip,Activo,3531
+3532,East Brian,Activo,3532
+3533,Brianbury,Activo,3533
+3534,Taylorport,Activo,3534
+3535,East Carlosville,Activo,3535
+3536,West Paul,Activo,3536
+3537,North Robert,Activo,3537
+3538,Scotttown,Activo,3538
+3539,New Karinamouth,Activo,3539
+3540,West Sandraton,Activo,3540
+3541,East Melissa,Activo,3541
+3542,South Elizabethberg,Activo,3542
+3543,Edwardsbury,Activo,3543
+3544,Woodardborough,Activo,3544
+3545,Lake Susanstad,Activo,3545
+3546,New Grantberg,Activo,3546
+3547,New Steven,Activo,3547
+3548,South Robertstad,Activo,3548
+3549,Mezaberg,Activo,3549
+3550,New Melanie,Activo,3550
+3551,Lake Hannah,Activo,3551
+3552,New James,Activo,3552
+3553,South James,Activo,3553
+3554,Port Barbarastad,Activo,3554
+3555,Lake Andrewburgh,Activo,3555
+3556,Matthewport,Activo,3556
+3557,West Jenniferport,Activo,3557
+3558,Bryanburgh,Activo,3558
+3559,Anthonytown,Inactivo,3559
+3560,Victorview,Activo,3560
+3561,Isaacstad,Activo,3561
+3562,West Sandymouth,Activo,3562
+3563,Scottfort,Activo,3563
+3564,Lake Luis,Activo,3564
+3565,West Albertmouth,Activo,3565
+3566,Michellemouth,Activo,3566
+3567,Jillborough,Activo,3567
+3568,Port Katie,Activo,3568
+3569,Lake Michele,Activo,3569
+3570,Port Lorimouth,Activo,3570
+3571,North Jacksonfurt,Inactivo,3571
+3572,Kaitlinburgh,Inactivo,3572
+3573,South Gracemouth,Activo,3573
+3574,Wrightberg,Activo,3574
+3575,Lake Oliviashire,Activo,3575
+3576,Christopherchester,Inactivo,3576
+3577,Barnettmouth,Activo,3577
+3578,Mortonton,Activo,3578
+3579,Nielsenbury,Activo,3579
+3580,Elizabethborough,Activo,3580
+3581,Hannahtown,Activo,3581
+3582,Ashleyton,Activo,3582
+3583,West Sherryborough,Activo,3583
+3584,Brockchester,Activo,3584
+3585,Jenniferton,Activo,3585
+3586,Brettburgh,Activo,3586
+3587,Debraburgh,Activo,3587
+3588,West Erin,Activo,3588
+3589,East Allisonland,Activo,3589
+3590,Hallburgh,Activo,3590
+3591,Morganhaven,Activo,3591
+3592,Bankstown,Activo,3592
+3593,South Richardfurt,Activo,3593
+3594,Port Sethside,Activo,3594
+3595,Port Samanthastad,Activo,3595
+3596,Lake Laurenhaven,Activo,3596
+3597,South Michaela,Activo,3597
+3598,Port Christopherton,Activo,3598
+3599,Richardland,Activo,3599
+3600,New Taraport,Activo,3600
+3601,New William,Activo,3601
+3602,Melissaside,Activo,3602
+3603,Juliaside,Activo,3603
+3604,Lauramouth,Inactivo,3604
+3605,West Heidi,Activo,3605
+3606,North Shawn,Activo,3606
+3607,West Donald,Activo,3607
+3608,Paulhaven,Activo,3608
+3609,Michaelmouth,Activo,3609
+3610,South Deniseside,Activo,3610
+3611,Kevinview,Activo,3611
+3612,North Alexandermouth,Activo,3612
+3613,Jerryborough,Activo,3613
+3614,Andrewbury,Activo,3614
+3615,Lake Tina,Activo,3615
+3616,Fernandoborough,Activo,3616
+3617,South Melaniehaven,Activo,3617
+3618,South Carmenville,Activo,3618
+3619,West Jeffrey,Activo,3619
+3620,South Sara,Activo,3620
+3621,Lake Darlene,Activo,3621
+3622,New Ian,Activo,3622
+3623,Josephville,Activo,3623
+3624,South David,Activo,3624
+3625,South Walterbury,Activo,3625
+3626,Jasonburgh,Activo,3626
+3627,Maciasport,Activo,3627
+3628,Blackbury,Activo,3628
+3629,East Danielside,Inactivo,3629
+3630,North Anthony,Activo,3630
+3631,Wanghaven,Activo,3631
+3632,Robertfurt,Activo,3632
+3633,South Alan,Activo,3633
+3634,Jessicaland,Activo,3634
+3635,Hursttown,Activo,3635
+3636,Loweryfurt,Activo,3636
+3637,Kelseyside,Activo,3637
+3638,Henryview,Activo,3638
+3639,Hunterberg,Activo,3639
+3640,North Samuel,Activo,3640
+3641,Barnesshire,Activo,3641
+3642,Ronaldside,Activo,3642
+3643,North Kathrynmouth,Activo,3643
+3644,Stewartstad,Activo,3644
+3645,Guerrafurt,Activo,3645
+3646,Trujilloview,Activo,3646
+3647,Jamesport,Activo,3647
+3648,Port Stephaniestad,Activo,3648
+3649,Timothymouth,Activo,3649
+3650,New Robin,Activo,3650
+3651,North Austinhaven,Activo,3651
+3652,North Ryanberg,Activo,3652
+3653,Keithside,Activo,3653
+3654,Port Michael,Activo,3654
+3655,Cummingsberg,Activo,3655
+3656,Lorifort,Activo,3656
+3657,Kristachester,Activo,3657
+3658,Port Williamfort,Activo,3658
+3659,Lisatown,Activo,3659
+3660,East Allisonborough,Activo,3660
+3661,Heatherview,Activo,3661
+3662,New Vincentburgh,Activo,3662
+3663,North Julie,Activo,3663
+3664,Chaneyhaven,Activo,3664
+3665,North Patriciaport,Activo,3665
+3666,Alexafurt,Activo,3666
+3667,Briannaburgh,Activo,3667
+3668,Andrewland,Activo,3668
+3669,West Joshuatown,Activo,3669
+3670,North Davidberg,Activo,3670
+3671,East Brandon,Activo,3671
+3672,North Jason,Activo,3672
+3673,Matthewstad,Activo,3673
+3674,South Katherine,Activo,3674
+3675,West Austin,Activo,3675
+3676,Port Cynthiashire,Activo,3676
+3677,Villarrealburgh,Activo,3677
+3678,Erikland,Activo,3678
+3679,Jacksonmouth,Activo,3679
+3680,East Kelly,Activo,3680
+3681,Tonyafurt,Activo,3681
+3682,New Christinahaven,Activo,3682
+3683,Lake Robert,Activo,3683
+3684,Port Lisaburgh,Activo,3684
+3685,North Holly,Activo,3685
+3686,Jamieview,Activo,3686
+3687,Brooksberg,Activo,3687
+3688,Alvarezfort,Activo,3688
+3689,South Kelly,Activo,3689
+3690,Lake Robertport,Activo,3690
+3691,West Tamara,Activo,3691
+3692,Lake Nancychester,Activo,3692
+3693,Duffybury,Activo,3693
+3694,Simschester,Activo,3694
+3695,Port Deborah,Activo,3695
+3696,Port Tracy,Activo,3696
+3697,Pageland,Inactivo,3697
+3698,East Andrew,Activo,3698
+3699,North Brian,Activo,3699
+3700,Nolanmouth,Activo,3700
+3701,South Kristyside,Activo,3701
+3702,Williamsside,Activo,3702
+3703,Port Brandonchester,Activo,3703
+3704,West Ruben,Activo,3704
+3705,Jamiechester,Activo,3705
+3706,Lake Chadfurt,Activo,3706
+3707,Lake Garrett,Activo,3707
+3708,Lake Curtis,Activo,3708
+3709,Dennisport,Activo,3709
+3710,North Christina,Activo,3710
+3711,Alicehaven,Activo,3711
+3712,Romeroland,Inactivo,3712
+3713,Port Matthewville,Activo,3713
+3714,East Tina,Activo,3714
+3715,West Carlos,Activo,3715
+3716,Lucasfurt,Activo,3716
+3717,East Kathrynview,Activo,3717
+3718,North Shaun,Activo,3718
+3719,Amyview,Activo,3719
+3720,Debramouth,Activo,3720
+3721,Jennifermouth,Activo,3721
+3722,East Benjaminville,Activo,3722
+3723,Scottchester,Activo,3723
+3724,Tuckerfort,Activo,3724
+3725,North Jared,Activo,3725
+3726,Elizabethbury,Activo,3726
+3727,Lake John,Activo,3727
+3728,Nicholsonfurt,Activo,3728
+3729,West Patriciaberg,Inactivo,3729
+3730,Robertshire,Activo,3730
+3731,Mooreville,Activo,3731
+3732,East Natalie,Activo,3732
+3733,Vasquezchester,Activo,3733
+3734,Caldwellberg,Activo,3734
+3735,Michaelstad,Activo,3735
+3736,Lake Theodore,Activo,3736
+3737,Bryanbury,Activo,3737
+3738,Port Josephchester,Activo,3738
+3739,New Kennethmouth,Inactivo,3739
+3740,Whitehaven,Activo,3740
+3741,South Williambury,Activo,3741
+3742,New Sharimouth,Activo,3742
+3743,North Tiffanychester,Activo,3743
+3744,North Ashleyton,Activo,3744
+3745,North Ellenport,Activo,3745
+3746,New Penny,Activo,3746
+3747,West Lisashire,Activo,3747
+3748,East Brandyberg,Activo,3748
+3749,Garciabury,Activo,3749
+3750,New Jennifer,Activo,3750
+3751,Hamiltonmouth,Activo,3751
+3752,Lawrenceland,Activo,3752
+3753,Lake Joseph,Activo,3753
+3754,East Daniel,Activo,3754
+3755,Perezland,Activo,3755
+3756,Rachelburgh,Activo,3756
+3757,Zacharyborough,Activo,3757
+3758,Cookborough,Activo,3758
+3759,Normanview,Activo,3759
+3760,Port Leslieview,Activo,3760
+3761,North Jason,Activo,3761
+3762,Lukebury,Activo,3762
+3763,Lake Melissa,Activo,3763
+3764,Hensonside,Activo,3764
+3765,West Mariaberg,Activo,3765
+3766,East Jeromeview,Activo,3766
+3767,Port Michaelfurt,Activo,3767
+3768,South Alisonville,Activo,3768
+3769,Maxwellview,Activo,3769
+3770,Gomezshire,Activo,3770
+3771,Sosafurt,Activo,3771
+3772,East Johnny,Activo,3772
+3773,Gardnerland,Activo,3773
+3774,Perezborough,Activo,3774
+3775,New Aaronberg,Activo,3775
+3776,Jenniferhaven,Activo,3776
+3777,Paulabury,Activo,3777
+3778,Mindyfurt,Activo,3778
+3779,Port Cheryl,Activo,3779
+3780,New Benjaminmouth,Activo,3780
+3781,Port Eric,Activo,3781
+3782,Nathanielbury,Activo,3782
+3783,Lauraside,Activo,3783
+3784,West Shannon,Activo,3784
+3785,Millerland,Activo,3785
+3786,Lake Steventon,Activo,3786
+3787,New Michael,Activo,3787
+3788,Lake Amy,Activo,3788
+3789,New Bobby,Activo,3789
+3790,Pattersonland,Activo,3790
+3791,Lake Tammy,Activo,3791
+3792,Lake Kenneth,Activo,3792
+3793,South Jamesshire,Activo,3793
+3794,Kiarahaven,Activo,3794
+3795,Harrisonberg,Activo,3795
+3796,New Henryland,Activo,3796
+3797,East Mariatown,Activo,3797
+3798,Jacobberg,Activo,3798
+3799,Collinsmouth,Activo,3799
+3800,Wigginschester,Activo,3800
+3801,Moyerfort,Activo,3801
+3802,Justinfort,Activo,3802
+3803,Glennfort,Activo,3803
+3804,Tatemouth,Activo,3804
+3805,Megantown,Activo,3805
+3806,East Erikachester,Activo,3806
+3807,West Saramouth,Activo,3807
+3808,Caitlinland,Activo,3808
+3809,New Emily,Activo,3809
+3810,Charlesburgh,Activo,3810
+3811,Mcintyreside,Activo,3811
+3812,South Nathaniel,Activo,3812
+3813,Scottburgh,Inactivo,3813
+3814,North Terryport,Activo,3814
+3815,North Nicholasmouth,Activo,3815
+3816,Davidfort,Activo,3816
+3817,New Dawnview,Activo,3817
+3818,East Wyattview,Activo,3818
+3819,Markfurt,Activo,3819
+3820,Stevenshaven,Activo,3820
+3821,Kirkburgh,Activo,3821
+3822,East Brandiburgh,Activo,3822
+3823,West Lisaside,Activo,3823
+3824,Bartlettland,Activo,3824
+3825,Christopherberg,Activo,3825
+3826,Alexborough,Activo,3826
+3827,Reginaldville,Activo,3827
+3828,East Melindaborough,Activo,3828
+3829,Port John,Activo,3829
+3830,North Jeremyland,Activo,3830
+3831,Contrerasberg,Activo,3831
+3832,Josephview,Activo,3832
+3833,South Thomas,Activo,3833
+3834,Robertfort,Inactivo,3834
+3835,Port Brookeland,Activo,3835
+3836,Port James,Activo,3836
+3837,Phillipview,Activo,3837
+3838,Mayochester,Activo,3838
+3839,South Thomasburgh,Activo,3839
+3840,Matthewchester,Activo,3840
+3841,Jacquelinechester,Activo,3841
+3842,Cisneroston,Activo,3842
+3843,East Dennisport,Activo,3843
+3844,New James,Activo,3844
+3845,Port Tammyfurt,Activo,3845
+3846,North Francisco,Activo,3846
+3847,North Kenneth,Activo,3847
+3848,Jessicastad,Activo,3848
+3849,West Jeff,Activo,3849
+3850,Kinghaven,Activo,3850
+3851,Andrewbury,Activo,3851
+3852,Shelbyborough,Activo,3852
+3853,Samuelstad,Activo,3853
+3854,Ashleytown,Activo,3854
+3855,West Dale,Activo,3855
+3856,New James,Activo,3856
+3857,Jonesfort,Activo,3857
+3858,Princeland,Activo,3858
+3859,Clarktown,Activo,3859
+3860,Donnafurt,Activo,3860
+3861,Jenkinsburgh,Activo,3861
+3862,Port Brendastad,Activo,3862
+3863,Austinstad,Activo,3863
+3864,Port William,Activo,3864
+3865,Marychester,Activo,3865
+3866,Steinburgh,Activo,3866
+3867,New Jessicaton,Activo,3867
+3868,South Jason,Activo,3868
+3869,Burnsborough,Activo,3869
+3870,Wellsfort,Activo,3870
+3871,West Brittneyview,Activo,3871
+3872,North Michael,Activo,3872
+3873,South Jenny,Activo,3873
+3874,Houstonport,Activo,3874
+3875,Katherineton,Inactivo,3875
+3876,Lake Robert,Activo,3876
+3877,Michaelview,Activo,3877
+3878,South Ronald,Activo,3878
+3879,West Robertport,Activo,3879
+3880,Barbaramouth,Activo,3880
+3881,Dennischester,Activo,3881
+3882,Lowerymouth,Activo,3882
+3883,Wadechester,Activo,3883
+3884,Port Lisashire,Activo,3884
+3885,Danielchester,Activo,3885
+3886,North Catherine,Activo,3886
+3887,North Stephenmouth,Activo,3887
+3888,North Fred,Activo,3888
+3889,New Kristin,Activo,3889
+3890,South Gerald,Activo,3890
+3891,East Davidview,Activo,3891
+3892,West Evan,Activo,3892
+3893,Lake Lisaton,Activo,3893
+3894,North Jill,Activo,3894
+3895,Port Christopher,Activo,3895
+3896,New Grace,Activo,3896
+3897,Leehaven,Activo,3897
+3898,Stevenside,Activo,3898
+3899,Johnmouth,Activo,3899
+3900,Weaverstad,Activo,3900
+3901,North Nicole,Activo,3901
+3902,South Shannonstad,Activo,3902
+3903,Port Sethville,Activo,3903
+3904,New Ryan,Activo,3904
+3905,New Tonyaview,Activo,3905
+3906,North Kayla,Activo,3906
+3907,Hillhaven,Activo,3907
+3908,Hernandezhaven,Activo,3908
+3909,Hortonfurt,Activo,3909
+3910,Dixonview,Activo,3910
+3911,North Tonya,Activo,3911
+3912,Oliverstad,Activo,3912
+3913,New Amy,Activo,3913
+3914,Phillipside,Activo,3914
+3915,South Josephport,Activo,3915
+3916,East Bradley,Activo,3916
+3917,North Noahburgh,Activo,3917
+3918,Jonesfurt,Activo,3918
+3919,Meganstad,Activo,3919
+3920,Jackiefurt,Activo,3920
+3921,Lake Michaelport,Activo,3921
+3922,Michaelberg,Activo,3922
+3923,Amandahaven,Activo,3923
+3924,North Eric,Activo,3924
+3925,Melaniemouth,Activo,3925
+3926,East Charlesstad,Activo,3926
+3927,Davisberg,Activo,3927
+3928,Shermanmouth,Activo,3928
+3929,Lake Stephen,Activo,3929
+3930,West Victoria,Activo,3930
+3931,Patrickmouth,Activo,3931
+3932,Armstrongton,Activo,3932
+3933,South Jamesburgh,Activo,3933
+3934,New Kennethchester,Activo,3934
+3935,Christopherfort,Activo,3935
+3936,Jonesville,Activo,3936
+3937,Floreston,Activo,3937
+3938,Lake Christopher,Activo,3938
+3939,North Aaron,Activo,3939
+3940,Marilynbury,Activo,3940
+3941,Lake Josephtown,Activo,3941
+3942,Lake Michaelside,Activo,3942
+3943,New Williamton,Inactivo,3943
+3944,Robertport,Activo,3944
+3945,Jensenbury,Activo,3945
+3946,Robertbury,Activo,3946
+3947,Lake Richardfort,Activo,3947
+3948,North Timothy,Activo,3948
+3949,South Cheryl,Activo,3949
+3950,Tannerfurt,Activo,3950
+3951,Craigburgh,Activo,3951
+3952,Cherylburgh,Activo,3952
+3953,Snyderberg,Activo,3953
+3954,Kevinberg,Activo,3954
+3955,Port Darleneport,Activo,3955
+3956,East Joseph,Activo,3956
+3957,Jenniferhaven,Activo,3957
+3958,New Patrick,Activo,3958
+3959,South Mariaborough,Activo,3959
+3960,Lukeborough,Activo,3960
+3961,Hernandezshire,Activo,3961
+3962,West John,Activo,3962
+3963,Port Alice,Activo,3963
+3964,Caseton,Activo,3964
+3965,East Danielle,Activo,3965
+3966,West Janiceview,Activo,3966
+3967,Joannahaven,Activo,3967
+3968,North Richardstad,Activo,3968
+3969,Morrisport,Activo,3969
+3970,Lake Robertburgh,Activo,3970
+3971,Scottfurt,Activo,3971
+3972,East Danielleton,Activo,3972
+3973,Davisborough,Activo,3973
+3974,Walkerville,Activo,3974
+3975,West Karenborough,Activo,3975
+3976,Coxton,Activo,3976
+3977,North Laura,Activo,3977
+3978,West John,Activo,3978
+3979,Frankmouth,Activo,3979
+3980,West Maurice,Activo,3980
+3981,Russellfort,Activo,3981
+3982,Robertbury,Activo,3982
+3983,Greenshire,Activo,3983
+3984,Lake Mark,Activo,3984
+3985,North Allen,Activo,3985
+3986,Sawyerville,Activo,3986
+3987,New Douglas,Activo,3987
+3988,Richardsonshire,Activo,3988
+3989,Lake Michael,Activo,3989
+3990,West Joshua,Activo,3990
+3991,Holmesburgh,Activo,3991
+3992,Johnside,Activo,3992
+3993,South Peterburgh,Activo,3993
+3994,Davismouth,Activo,3994
+3995,Allisonmouth,Activo,3995
+3996,Paulmouth,Activo,3996
+3997,East Jonathanberg,Activo,3997
+3998,Stephenmouth,Activo,3998
+3999,Christineland,Activo,3999
+4000,Randolphtown,Activo,4000
+4001,Peggyview,Activo,4001
+4002,Moonburgh,Activo,4002
+4003,Katherineside,Activo,4003
+4004,Millerville,Activo,4004
+4005,East Melissaton,Activo,4005
+4006,West Amandatown,Activo,4006
+4007,East Roberttown,Activo,4007
+4008,New Laurabury,Activo,4008
+4009,Wolfechester,Activo,4009
+4010,North Sarahmouth,Activo,4010
+4011,New Lisa,Activo,4011
+4012,Diazhaven,Activo,4012
+4013,West Davidstad,Activo,4013
+4014,Avilaville,Activo,4014
+4015,North Felicia,Activo,4015
+4016,New Sandra,Activo,4016
+4017,Moniqueland,Activo,4017
+4018,Lake Thomas,Activo,4018
+4019,Annettechester,Activo,4019
+4020,Jamestown,Activo,4020
+4021,New Ronald,Activo,4021
+4022,Josephmouth,Activo,4022
+4023,Juarezton,Activo,4023
+4024,West Tamara,Activo,4024
+4025,Arthurmouth,Activo,4025
+4026,Lake Kevin,Activo,4026
+4027,Stephentown,Activo,4027
+4028,Reillyberg,Activo,4028
+4029,Watkinschester,Activo,4029
+4030,West Andrewside,Activo,4030
+4031,Millerfort,Activo,4031
+4032,East Russelltown,Activo,4032
+4033,North Regina,Activo,4033
+4034,Youngfurt,Activo,4034
+4035,Piercetown,Activo,4035
+4036,Collinsville,Activo,4036
+4037,Port Kimberly,Activo,4037
+4038,South Allisontown,Activo,4038
+4039,East Thomasmouth,Activo,4039
+4040,Janetport,Activo,4040
+4041,Ryanbury,Activo,4041
+4042,New Douglasmouth,Activo,4042
+4043,North Sierra,Activo,4043
+4044,East Vincent,Activo,4044
+4045,Cainville,Activo,4045
+4046,Kellybury,Activo,4046
+4047,Quinnmouth,Activo,4047
+4048,Larsenland,Activo,4048
+4049,West Kevinville,Activo,4049
+4050,Bellmouth,Activo,4050
+4051,South Davidside,Activo,4051
+4052,Lake Johnburgh,Activo,4052
+4053,Kennethmouth,Activo,4053
+4054,North Travismouth,Activo,4054
+4055,Maldonadotown,Activo,4055
+4056,Lake Linda,Activo,4056
+4057,Jonside,Activo,4057
+4058,Mariotown,Activo,4058
+4059,East Michael,Activo,4059
+4060,Port Rachelbury,Activo,4060
+4061,Stuartshire,Activo,4061
+4062,Copelandmouth,Activo,4062
+4063,East Albertmouth,Activo,4063
+4064,Fritzbury,Activo,4064
+4065,Jessicaton,Activo,4065
+4066,Rebeccaside,Activo,4066
+4067,Phyllisport,Activo,4067
+4068,Port Stephanie,Activo,4068
+4069,New Adrianside,Activo,4069
+4070,Haneyville,Activo,4070
+4071,Palmermouth,Activo,4071
+4072,Nicolebury,Activo,4072
+4073,East Michael,Activo,4073
+4074,Heatherfurt,Activo,4074
+4075,Brandiport,Activo,4075
+4076,Maryhaven,Activo,4076
+4077,Port Michaelborough,Activo,4077
+4078,Loriborough,Activo,4078
+4079,South Tanyafurt,Activo,4079
+4080,North Adamhaven,Activo,4080
+4081,Garciafort,Activo,4081
+4082,Lake Brian,Activo,4082
+4083,North Veronica,Activo,4083
+4084,Debrahaven,Activo,4084
+4085,Coreyberg,Activo,4085
+4086,Hollowayland,Activo,4086
+4087,Keithstad,Inactivo,4087
+4088,Michaeltown,Activo,4088
+4089,Codychester,Activo,4089
+4090,East Ericfurt,Activo,4090
+4091,Lake Danielle,Activo,4091
+4092,Lake Michael,Activo,4092
+4093,Fieldshaven,Activo,4093
+4094,Port Kristine,Activo,4094
+4095,Markville,Activo,4095
+4096,Meganmouth,Activo,4096
+4097,Sheltonfort,Activo,4097
+4098,West Ashleyville,Activo,4098
+4099,Villarrealmouth,Activo,4099
+4100,East Aaron,Activo,4100
+4101,Lake Debraview,Activo,4101
+4102,East Tabithafurt,Activo,4102
+4103,Nicoleside,Activo,4103
+4104,Kelseystad,Activo,4104
+4105,North Cherylville,Activo,4105
+4106,West Stevenburgh,Activo,4106
+4107,Juarezside,Activo,4107
+4108,North Edward,Activo,4108
+4109,Mirandaborough,Activo,4109
+4110,Mitchellberg,Activo,4110
+4111,Hamiltonbury,Activo,4111
+4112,Millsborough,Activo,4112
+4113,Arnoldville,Inactivo,4113
+4114,Hicksberg,Activo,4114
+4115,Benitezmouth,Activo,4115
+4116,Taylorstad,Activo,4116
+4117,South Katrinabury,Activo,4117
+4118,South Normanchester,Activo,4118
+4119,North Stanleyburgh,Activo,4119
+4120,Lukeville,Activo,4120
+4121,West David,Activo,4121
+4122,Lake Jennifertown,Activo,4122
+4123,East Faithhaven,Activo,4123
+4124,West Nathanmouth,Activo,4124
+4125,Kimberlyport,Activo,4125
+4126,Mcleanmouth,Activo,4126
+4127,Port Rachel,Activo,4127
+4128,Trevorchester,Activo,4128
+4129,Edwardhaven,Activo,4129
+4130,Lake Timothy,Activo,4130
+4131,North Jason,Activo,4131
+4132,Christopherfort,Activo,4132
+4133,Danieltown,Activo,4133
+4134,Karlmouth,Activo,4134
+4135,Mayhaven,Activo,4135
+4136,Donovanland,Activo,4136
+4137,Jacksonmouth,Activo,4137
+4138,Georgetown,Activo,4138
+4139,Port Robert,Activo,4139
+4140,Lake Aaronview,Activo,4140
+4141,Port Brandonland,Activo,4141
+4142,Lake Charlesmouth,Activo,4142
+4143,Jenniferborough,Activo,4143
+4144,Savannahport,Activo,4144
+4145,South Robert,Activo,4145
+4146,Joyceland,Activo,4146
+4147,Chelseachester,Activo,4147
+4148,Staceychester,Activo,4148
+4149,West Gabrielafurt,Activo,4149
+4150,Lake Ashleytown,Activo,4150
+4151,Reneeburgh,Activo,4151
+4152,New Johnhaven,Activo,4152
+4153,Lake Jasmineshire,Activo,4153
+4154,Lake Brittneybury,Activo,4154
+4155,Amyton,Activo,4155
+4156,Torresmouth,Activo,4156
+4157,Port Laura,Activo,4157
+4158,New Michaelland,Activo,4158
+4159,Guzmanburgh,Activo,4159
+4160,Langbury,Activo,4160
+4161,New Christinetown,Activo,4161
+4162,New Ronaldmouth,Activo,4162
+4163,Mcguireside,Activo,4163
+4164,Keyview,Activo,4164
+4165,South Brettville,Activo,4165
+4166,Jeffreyborough,Activo,4166
+4167,New Jessica,Activo,4167
+4168,East Ashley,Activo,4168
+4169,Lake Bruceland,Activo,4169
+4170,Ashleyshire,Activo,4170
+4171,Lake Thomas,Activo,4171
+4172,West Abigailton,Activo,4172
+4173,East Christian,Activo,4173
+4174,Shawnafort,Activo,4174
+4175,West William,Activo,4175
+4176,Chambersbury,Activo,4176
+4177,Benderland,Activo,4177
+4178,North Victoriamouth,Activo,4178
+4179,Meganland,Activo,4179
+4180,North Jonathan,Activo,4180
+4181,Diazview,Activo,4181
+4182,South Debra,Activo,4182
+4183,Port Faith,Activo,4183
+4184,Davidport,Activo,4184
+4185,Angelafurt,Activo,4185
+4186,West Stephanie,Activo,4186
+4187,East Melissa,Activo,4187
+4188,Watsonmouth,Activo,4188
+4189,South Michelleborough,Activo,4189
+4190,Ramosville,Inactivo,4190
+4191,Port Carol,Activo,4191
+4192,Lake Royport,Activo,4192
+4193,Daniellestad,Activo,4193
+4194,Dianafort,Activo,4194
+4195,New Amandastad,Activo,4195
+4196,Jacksonport,Activo,4196
+4197,Brettfort,Activo,4197
+4198,Lake Bradley,Activo,4198
+4199,Toddchester,Activo,4199
+4200,Angelaport,Activo,4200
+4201,Calebland,Activo,4201
+4202,Justinmouth,Activo,4202
+4203,Smithfurt,Activo,4203
+4204,North Devinmouth,Activo,4204
+4205,Garzatown,Activo,4205
+4206,Catherinechester,Activo,4206
+4207,Port Robert,Activo,4207
+4208,Port Thomasbury,Activo,4208
+4209,East Kristenside,Activo,4209
+4210,South Keith,Activo,4210
+4211,Jacobtown,Activo,4211
+4212,Nelsonfurt,Activo,4212
+4213,Veronicaburgh,Activo,4213
+4214,East Frank,Activo,4214
+4215,Rochatown,Activo,4215
+4216,Mirandafurt,Activo,4216
+4217,Simmonsmouth,Activo,4217
+4218,Nguyenborough,Activo,4218
+4219,Jonestown,Activo,4219
+4220,Josephburgh,Activo,4220
+4221,Tamaraborough,Activo,4221
+4222,Rebeccaport,Activo,4222
+4223,Meganburgh,Activo,4223
+4224,Maryview,Activo,4224
+4225,Lindaberg,Activo,4225
+4226,Anneton,Activo,4226
+4227,Port Joseph,Activo,4227
+4228,New Steven,Activo,4228
+4229,Port Gregory,Activo,4229
+4230,South Marychester,Activo,4230
+4231,Williamsonshire,Activo,4231
+4232,East Christie,Activo,4232
+4233,West Logantown,Activo,4233
+4234,New Angelaburgh,Activo,4234
+4235,East Aaronfurt,Activo,4235
+4236,Johnsonview,Activo,4236
+4237,North Scott,Activo,4237
+4238,West Vanessa,Activo,4238
+4239,East Kelli,Activo,4239
+4240,Bradland,Activo,4240
+4241,Williamtown,Activo,4241
+4242,Lake Carrieville,Activo,4242
+4243,Lake Jeremy,Activo,4243
+4244,Sanchezville,Activo,4244
+4245,Josechester,Activo,4245
+4246,Dayberg,Activo,4246
+4247,New Katherinefurt,Activo,4247
+4248,New Cindy,Activo,4248
+4249,New Jamesburgh,Activo,4249
+4250,Port Richardfort,Activo,4250
+4251,New Saraland,Activo,4251
+4252,Hinesview,Activo,4252
+4253,Richardsonfurt,Activo,4253
+4254,West Kenneth,Activo,4254
+4255,Hectorport,Activo,4255
+4256,Jacobsville,Activo,4256
+4257,Markburgh,Activo,4257
+4258,East Bethany,Activo,4258
+4259,Reyesburgh,Activo,4259
+4260,Mossview,Activo,4260
+4261,South Paul,Activo,4261
+4262,Sotobury,Activo,4262
+4263,North Travis,Activo,4263
+4264,Port Madeline,Activo,4264
+4265,South Tracey,Activo,4265
+4266,Brandonchester,Activo,4266
+4267,Millerfort,Activo,4267
+4268,New Sharonfort,Activo,4268
+4269,West Lisaview,Activo,4269
+4270,Lake Kellyport,Activo,4270
+4271,Lake Kevinside,Activo,4271
+4272,South Brandi,Activo,4272
+4273,Lake Hannah,Activo,4273
+4274,Port Blakeville,Activo,4274
+4275,East Sarahhaven,Activo,4275
+4276,Port Susanfort,Activo,4276
+4277,West Megan,Activo,4277
+4278,Port Keithmouth,Activo,4278
+4279,Martinezshire,Activo,4279
+4280,Susanhaven,Activo,4280
+4281,New Adam,Activo,4281
+4282,East Sabrina,Activo,4282
+4283,Hillmouth,Activo,4283
+4284,Sparksmouth,Activo,4284
+4285,Dianeborough,Activo,4285
+4286,Katherineshire,Inactivo,4286
+4287,South Gabrielastad,Activo,4287
+4288,Robertchester,Activo,4288
+4289,Hansenbury,Activo,4289
+4290,South John,Activo,4290
+4291,New Melissa,Activo,4291
+4292,Port Christine,Activo,4292
+4293,West Jasmine,Activo,4293
+4294,Webermouth,Activo,4294
+4295,Hudsonstad,Activo,4295
+4296,South Wanda,Activo,4296
+4297,Donaldview,Activo,4297
+4298,Hallfurt,Activo,4298
+4299,Smithberg,Activo,4299
+4300,Ericaborough,Activo,4300
+4301,Boyerburgh,Activo,4301
+4302,Port Larryside,Activo,4302
+4303,Port Emmahaven,Activo,4303
+4304,New Stevenhaven,Activo,4304
+4305,Lake Linda,Activo,4305
+4306,East Jesse,Activo,4306
+4307,Lake Shirleystad,Activo,4307
+4308,New Anitaville,Activo,4308
+4309,Lake Aaron,Activo,4309
+4310,North Derekbury,Activo,4310
+4311,Johnathanchester,Activo,4311
+4312,Robertshire,Activo,4312
+4313,West Brandon,Activo,4313
+4314,New Tiffany,Activo,4314
+4315,East Colinberg,Activo,4315
+4316,Smithview,Activo,4316
+4317,East Katieport,Activo,4317
+4318,Finleystad,Activo,4318
+4319,New Jadetown,Activo,4319
+4320,South Shannonland,Activo,4320
+4321,New Michelleview,Activo,4321
+4322,North Calvin,Activo,4322
+4323,Castillofurt,Activo,4323
+4324,Kimberlyburgh,Activo,4324
+4325,New Jeffery,Activo,4325
+4326,East Jonathon,Activo,4326
+4327,Robertchester,Activo,4327
+4328,Jimenezhaven,Activo,4328
+4329,Gallagherville,Activo,4329
+4330,Lake Charlesstad,Activo,4330
+4331,Port Jose,Activo,4331
+4332,North Ernestbury,Activo,4332
+4333,East Pamelashire,Inactivo,4333
+4334,Port Glennburgh,Activo,4334
+4335,Triciaside,Activo,4335
+4336,Lake Rebeccahaven,Activo,4336
+4337,Leeside,Activo,4337
+4338,Port Geraldland,Activo,4338
+4339,New Cody,Activo,4339
+4340,West Jessica,Activo,4340
+4341,East Stevenburgh,Activo,4341
+4342,Dicksonville,Activo,4342
+4343,Schultzfort,Activo,4343
+4344,South Tiffanyshire,Activo,4344
+4345,East Jennifer,Activo,4345
+4346,Keithborough,Activo,4346
+4347,Port Bryce,Activo,4347
+4348,Lake Carolynview,Activo,4348
+4349,Port William,Activo,4349
+4350,New Phillip,Activo,4350
+4351,Rogershaven,Activo,4351
+4352,Danielstad,Activo,4352
+4353,Leeview,Activo,4353
+4354,Joshuamouth,Activo,4354
+4355,Port Amanda,Activo,4355
+4356,Howardville,Activo,4356
+4357,West Amanda,Activo,4357
+4358,Hicksland,Activo,4358
+4359,Gabrielberg,Activo,4359
+4360,East Marybury,Activo,4360
+4361,Barkershire,Activo,4361
+4362,South Dianeview,Activo,4362
+4363,Charlesfort,Activo,4363
+4364,West Samuelmouth,Activo,4364
+4365,East David,Activo,4365
+4366,Payneland,Activo,4366
+4367,North Amandamouth,Activo,4367
+4368,East Nancyport,Activo,4368
+4369,West Christopher,Activo,4369
+4370,Christopherborough,Activo,4370
+4371,East Stacey,Activo,4371
+4372,Johnsmouth,Activo,4372
+4373,South Christine,Activo,4373
+4374,New Josephstad,Activo,4374
+4375,East Jonathan,Activo,4375
+4376,Stoneport,Activo,4376
+4377,West Allisonberg,Activo,4377
+4378,Joelhaven,Activo,4378
+4379,Jamesbury,Activo,4379
+4380,Moorebury,Activo,4380
+4381,Jennaton,Activo,4381
+4382,West Dustin,Activo,4382
+4383,Petersonchester,Activo,4383
+4384,North Donna,Activo,4384
+4385,Hendrixview,Activo,4385
+4386,Lake Connie,Activo,4386
+4387,Rosarioborough,Activo,4387
+4388,Lynchview,Activo,4388
+4389,Michaelmouth,Activo,4389
+4390,Taraview,Activo,4390
+4391,Douglasland,Activo,4391
+4392,South Veronica,Activo,4392
+4393,Josephville,Activo,4393
+4394,Stephaniebury,Activo,4394
+4395,West Samanthamouth,Activo,4395
+4396,Wolfeburgh,Activo,4396
+4397,Williamsville,Activo,4397
+4398,Klinechester,Activo,4398
+4399,East Jeremyhaven,Activo,4399
+4400,Lake Christine,Activo,4400
+4401,Port Nicholasland,Activo,4401
+4402,Garyhaven,Activo,4402
+4403,Mooreside,Activo,4403
+4404,South Elizabeth,Activo,4404
+4405,Jeffreyfurt,Activo,4405
+4406,Barbarafort,Activo,4406
+4407,Michaelview,Activo,4407
+4408,Davisview,Activo,4408
+4409,Port Sarahside,Activo,4409
+4410,East Elizabeth,Activo,4410
+4411,New Benjamintown,Activo,4411
+4412,Dudleyview,Activo,4412
+4413,Kathyland,Activo,4413
+4414,Millermouth,Activo,4414
+4415,East Jesse,Activo,4415
+4416,East Kristinaton,Activo,4416
+4417,North James,Activo,4417
+4418,Port Danny,Activo,4418
+4419,Patriciafort,Activo,4419
+4420,Courtneystad,Activo,4420
+4421,North Logantown,Activo,4421
+4422,East Jeffrey,Activo,4422
+4423,North Melinda,Activo,4423
+4424,Chadville,Inactivo,4424
+4425,Lukebury,Activo,4425
+4426,Joshuamouth,Activo,4426
+4427,Aaronstad,Activo,4427
+4428,Colemanport,Activo,4428
+4429,Goodmouth,Activo,4429
+4430,South Mark,Activo,4430
+4431,Turnerside,Activo,4431
+4432,Amandaburgh,Activo,4432
+4433,Jefferyfurt,Activo,4433
+4434,Anthonyport,Activo,4434
+4435,East Willieshire,Activo,4435
+4436,Wendyfort,Activo,4436
+4437,West William,Activo,4437
+4438,North Dianefort,Activo,4438
+4439,Beckbury,Activo,4439
+4440,Port Hannah,Activo,4440
+4441,West Patrickshire,Activo,4441
+4442,Curtisshire,Activo,4442
+4443,Suzanneview,Activo,4443
+4444,Lake Samantha,Activo,4444
+4445,Malonefurt,Activo,4445
+4446,Lake Robert,Activo,4446
+4447,West Sabrina,Activo,4447
+4448,Williamshaven,Activo,4448
+4449,Lake Jeffrey,Activo,4449
+4450,Averyland,Activo,4450
+4451,East Ianmouth,Activo,4451
+4452,Torresshire,Activo,4452
+4453,Adrianchester,Activo,4453
+4454,South Paula,Activo,4454
+4455,Timothyside,Activo,4455
+4456,Diazside,Activo,4456
+4457,Whiteview,Activo,4457
+4458,Millertown,Activo,4458
+4459,Lake Markview,Activo,4459
+4460,Lake Jack,Activo,4460
+4461,Lake Jeffrey,Activo,4461
+4462,Gillespiefurt,Activo,4462
+4463,Elizabethtown,Activo,4463
+4464,East Jessicaville,Inactivo,4464
+4465,West Meganmouth,Activo,4465
+4466,Tammyberg,Activo,4466
+4467,Michaeltown,Activo,4467
+4468,Port Sherryfurt,Activo,4468
+4469,North Crystal,Activo,4469
+4470,Lake Graceview,Activo,4470
+4471,Williamshire,Activo,4471
+4472,West Matthewstad,Activo,4472
+4473,East Jonathan,Activo,4473
+4474,Kathrynstad,Activo,4474
+4475,Scottmouth,Activo,4475
+4476,South Jonathan,Activo,4476
+4477,Selenafort,Activo,4477
+4478,Julieview,Activo,4478
+4479,Harrisview,Activo,4479
+4480,Stephensside,Inactivo,4480
+4481,Fletchershire,Activo,4481
+4482,Port Edwardmouth,Activo,4482
+4483,East Brittanybury,Activo,4483
+4484,Port Ryanhaven,Activo,4484
+4485,Thomasborough,Activo,4485
+4486,Courtneyberg,Activo,4486
+4487,Lake Ashleeshire,Activo,4487
+4488,Port Eric,Activo,4488
+4489,North Reginaldbury,Activo,4489
+4490,Williamsside,Activo,4490
+4491,East Alexisstad,Inactivo,4491
+4492,West Jacquelinemouth,Activo,4492
+4493,Lake Anita,Activo,4493
+4494,Suarezfurt,Activo,4494
+4495,Margaretstad,Activo,4495
+4496,New Brianport,Activo,4496
+4497,Andersonfurt,Activo,4497
+4498,West Cindyside,Activo,4498
+4499,Tammietown,Activo,4499
+4500,North Martinstad,Activo,4500
+4501,Davisport,Activo,4501
+4502,Petermouth,Activo,4502
+4503,East Taylor,Activo,4503
+4504,Tammychester,Activo,4504
+4505,Lake Jennifermouth,Activo,4505
+4506,Lake Suestad,Activo,4506
+4507,East Davidmouth,Activo,4507
+4508,Obrienside,Activo,4508
+4509,Hannaport,Activo,4509
+4510,Port Donaldhaven,Activo,4510
+4511,Lake Rachelview,Activo,4511
+4512,Michelleview,Activo,4512
+4513,Kellyport,Activo,4513
+4514,Karlshire,Activo,4514
+4515,Port Johnborough,Activo,4515
+4516,Jacksonton,Activo,4516
+4517,East Samuelport,Activo,4517
+4518,Lake Kevinside,Activo,4518
+4519,Lake Brandonberg,Activo,4519
+4520,Santanachester,Activo,4520
+4521,Holmestown,Activo,4521
+4522,Torresshire,Activo,4522
+4523,Heatherstad,Activo,4523
+4524,Lake Micheal,Activo,4524
+4525,Sandersmouth,Activo,4525
+4526,Ramirezview,Activo,4526
+4527,Christinaland,Activo,4527
+4528,East Sergio,Activo,4528
+4529,Tonyaville,Activo,4529
+4530,Brandonfurt,Activo,4530
+4531,West Samanthaview,Activo,4531
+4532,Hallmouth,Activo,4532
+4533,Ebonychester,Activo,4533
+4534,Mariaside,Activo,4534
+4535,Joycestad,Activo,4535
+4536,North Bruceshire,Activo,4536
+4537,West Lancefort,Activo,4537
+4538,Fergusonside,Activo,4538
+4539,Kelseymouth,Activo,4539
+4540,Lake Amberfort,Activo,4540
+4541,Port Jeremyshire,Activo,4541
+4542,Wyattchester,Activo,4542
+4543,North Rhonda,Activo,4543
+4544,Mclaughlinstad,Activo,4544
+4545,New Davidside,Activo,4545
+4546,East Michael,Activo,4546
+4547,Martinezton,Activo,4547
+4548,Hardinland,Activo,4548
+4549,Brownmouth,Activo,4549
+4550,Morrisside,Activo,4550
+4551,Jeromefurt,Activo,4551
+4552,East Karen,Activo,4552
+4553,West Michelleport,Activo,4553
+4554,Stoneton,Activo,4554
+4555,Mooreshire,Activo,4555
+4556,Port Susan,Activo,4556
+4557,Ellisside,Activo,4557
+4558,South Lindastad,Activo,4558
+4559,Chungton,Activo,4559
+4560,Kennedyland,Activo,4560
+4561,South Danielle,Activo,4561
+4562,South Malikland,Activo,4562
+4563,South Suzannefort,Activo,4563
+4564,North Aaron,Activo,4564
+4565,New Tammyfort,Activo,4565
+4566,Rosehaven,Activo,4566
+4567,North Barry,Activo,4567
+4568,Lake Ronaldchester,Activo,4568
+4569,Sherryville,Activo,4569
+4570,South Steven,Activo,4570
+4571,North David,Activo,4571
+4572,Jasonborough,Activo,4572
+4573,East Michaelbury,Activo,4573
+4574,Yolandaburgh,Activo,4574
+4575,Lake Cheryl,Activo,4575
+4576,West Susanfurt,Activo,4576
+4577,East Jasminemouth,Activo,4577
+4578,Melaniefurt,Activo,4578
+4579,Snyderton,Activo,4579
+4580,Robertland,Activo,4580
+4581,Chavezshire,Activo,4581
+4582,New Glenn,Activo,4582
+4583,Christinefurt,Activo,4583
+4584,New Andrew,Inactivo,4584
+4585,Nealville,Activo,4585
+4586,North Scott,Activo,4586
+4587,West Julie,Activo,4587
+4588,Taylorburgh,Activo,4588
+4589,West David,Activo,4589
+4590,West Elizabethhaven,Activo,4590
+4591,Lindsayport,Activo,4591
+4592,North Shelley,Activo,4592
+4593,Richardtown,Activo,4593
+4594,Allisonland,Activo,4594
+4595,West Christopher,Activo,4595
+4596,Harrisburgh,Activo,4596
+4597,Port Trevormouth,Activo,4597
+4598,Sweeneyside,Activo,4598
+4599,Parkerhaven,Activo,4599
+4600,Collinsport,Activo,4600
+4601,North Roberttown,Activo,4601
+4602,North David,Activo,4602
+4603,Joneschester,Activo,4603
+4604,South Tabitha,Activo,4604
+4605,Sarafurt,Activo,4605
+4606,New Brian,Activo,4606
+4607,Paulahaven,Activo,4607
+4608,Leechester,Activo,4608
+4609,New Jenniferton,Activo,4609
+4610,Mendezhaven,Activo,4610
+4611,Port Joshua,Activo,4611
+4612,Villarrealville,Activo,4612
+4613,Markhaven,Activo,4613
+4614,Allenfurt,Activo,4614
+4615,North Trevorborough,Activo,4615
+4616,Lonnieside,Activo,4616
+4617,East Troy,Activo,4617
+4618,Hoffmanview,Activo,4618
+4619,East Joe,Activo,4619
+4620,Wallacemouth,Activo,4620
+4621,Darleneville,Activo,4621
+4622,New Michaelstad,Activo,4622
+4623,New Roger,Activo,4623
+4624,East Ericamouth,Activo,4624
+4625,Brendamouth,Activo,4625
+4626,East Anne,Activo,4626
+4627,Davischester,Activo,4627
+4628,East Ericchester,Activo,4628
+4629,North Zachary,Activo,4629
+4630,South Jorge,Activo,4630
+4631,West Wendy,Activo,4631
+4632,Lake Caitlinfort,Activo,4632
+4633,Stephensfurt,Activo,4633
+4634,New Melanieside,Activo,4634
+4635,Brianmouth,Activo,4635
+4636,Madisonburgh,Activo,4636
+4637,Lake Steven,Activo,4637
+4638,Knightbury,Activo,4638
+4639,East Anthony,Activo,4639
+4640,North Julieburgh,Activo,4640
+4641,Frankshire,Activo,4641
+4642,Port Catherinebury,Activo,4642
+4643,Hectorton,Activo,4643
+4644,South Katiefort,Activo,4644
+4645,West Sarahberg,Activo,4645
+4646,Port Leroymouth,Activo,4646
+4647,Christopherchester,Activo,4647
+4648,East Davidchester,Activo,4648
+4649,Martinezbury,Activo,4649
+4650,New Robertport,Activo,4650
+4651,Stoneville,Activo,4651
+4652,North Maureenside,Activo,4652
+4653,Westfort,Activo,4653
+4654,East Angela,Activo,4654
+4655,West Jeffrey,Activo,4655
+4656,South Stephanie,Activo,4656
+4657,Annetown,Activo,4657
+4658,Zacharyhaven,Activo,4658
+4659,West Christopher,Activo,4659
+4660,Caldwellside,Activo,4660
+4661,Andrewmouth,Activo,4661
+4662,Lake Marie,Activo,4662
+4663,Duaneborough,Activo,4663
+4664,New James,Activo,4664
+4665,Lake Dennis,Activo,4665
+4666,South Joshuatown,Activo,4666
+4667,Garnerchester,Activo,4667
+4668,Patelland,Activo,4668
+4669,East Nicholas,Activo,4669
+4670,North Cameronstad,Activo,4670
+4671,Lake Marcus,Activo,4671
+4672,New Sharonville,Activo,4672
+4673,New Jessicamouth,Activo,4673
+4674,Robertfurt,Activo,4674
+4675,Kimfurt,Activo,4675
+4676,South Summershire,Activo,4676
+4677,North Richard,Activo,4677
+4678,North Karen,Activo,4678
+4679,East Russell,Activo,4679
+4680,Lake Mariamouth,Activo,4680
+4681,Christinefort,Activo,4681
+4682,South Alexander,Activo,4682
+4683,Port Mindybury,Activo,4683
+4684,East Adamview,Activo,4684
+4685,North Justin,Inactivo,4685
+4686,Crystalburgh,Activo,4686
+4687,Jeffreyfurt,Activo,4687
+4688,Kevinville,Activo,4688
+4689,Lake Brittany,Activo,4689
+4690,West Ashleyshire,Activo,4690
+4691,Port Aprilmouth,Activo,4691
+4692,South Katiechester,Activo,4692
+4693,South Caitlinchester,Activo,4693
+4694,Fosterton,Activo,4694
+4695,Port Thomasshire,Activo,4695
+4696,Solistown,Activo,4696
+4697,Samanthaburgh,Activo,4697
+4698,Kylemouth,Activo,4698
+4699,Karenside,Inactivo,4699
+4700,New John,Activo,4700
+4701,Robertmouth,Activo,4701
+4702,North Kathleen,Activo,4702
+4703,Maciasfurt,Activo,4703
+4704,West Michaelshire,Activo,4704
+4705,New Carrieport,Activo,4705
+4706,Morganshire,Activo,4706
+4707,Christensentown,Activo,4707
+4708,Lisaburgh,Activo,4708
+4709,Moniquemouth,Activo,4709
+4710,East Frederick,Activo,4710
+4711,West Curtis,Activo,4711
+4712,Danielside,Activo,4712
+4713,Jacquelineview,Activo,4713
+4714,Murphyside,Activo,4714
+4715,Farrellhaven,Activo,4715
+4716,Lambertstad,Activo,4716
+4717,Baileyland,Activo,4717
+4718,West Frank,Activo,4718
+4719,Samanthaport,Activo,4719
+4720,East Jamesberg,Activo,4720
+4721,Port Jackie,Activo,4721
+4722,New James,Activo,4722
+4723,Port Stephanie,Activo,4723
+4724,Adrianland,Activo,4724
+4725,North Karen,Activo,4725
+4726,Millerfort,Activo,4726
+4727,South Omarton,Activo,4727
+4728,South Mary,Activo,4728
+4729,Lake Matthew,Activo,4729
+4730,Amandastad,Activo,4730
+4731,East Ericchester,Activo,4731
+4732,North David,Activo,4732
+4733,Thomasland,Activo,4733
+4734,Michaelburgh,Activo,4734
+4735,Sandramouth,Activo,4735
+4736,Wilsonchester,Activo,4736
+4737,Port Davidside,Activo,4737
+4738,North Victoria,Activo,4738
+4739,North Jenniferbury,Activo,4739
+4740,Alexachester,Activo,4740
+4741,West Andreatown,Activo,4741
+4742,Churchmouth,Activo,4742
+4743,Nelsonburgh,Activo,4743
+4744,Port Henry,Activo,4744
+4745,New Christopher,Inactivo,4745
+4746,West Jacqueline,Activo,4746
+4747,Lukemouth,Activo,4747
+4748,Sharonborough,Activo,4748
+4749,East Deanna,Activo,4749
+4750,West Daniel,Activo,4750
+4751,Taramouth,Activo,4751
+4752,Henryland,Activo,4752
+4753,Larsonburgh,Activo,4753
+4754,Alexandraville,Activo,4754
+4755,West Dana,Activo,4755
+4756,East Chelsea,Activo,4756
+4757,New Karen,Activo,4757
+4758,Peckview,Activo,4758
+4759,Port Keithburgh,Activo,4759
+4760,Coxmouth,Activo,4760
+4761,West Johnville,Activo,4761
+4762,Rileybury,Activo,4762
+4763,Delgadotown,Activo,4763
+4764,Robertsontown,Activo,4764
+4765,Lake Katherineport,Activo,4765
+4766,Webbborough,Activo,4766
+4767,West Michelletown,Activo,4767
+4768,Port Jenniferburgh,Activo,4768
+4769,Lake Jessica,Activo,4769
+4770,East Marcusville,Activo,4770
+4771,Perezfort,Activo,4771
+4772,Joelborough,Activo,4772
+4773,New Cherylstad,Activo,4773
+4774,New Danielshire,Activo,4774
+4775,Port Mark,Activo,4775
+4776,Port Kyle,Activo,4776
+4777,New Samanthatown,Activo,4777
+4778,South James,Activo,4778
+4779,Humphreytown,Activo,4779
+4780,South Katherinestad,Activo,4780
+4781,North Jonathanville,Activo,4781
+4782,Williamland,Activo,4782
+4783,West Megan,Activo,4783
+4784,North Carrie,Activo,4784
+4785,East Justinton,Activo,4785
+4786,Dustinland,Activo,4786
+4787,North Angelamouth,Activo,4787
+4788,North Melinda,Activo,4788
+4789,Terrifurt,Activo,4789
+4790,Lake Dianamouth,Activo,4790
+4791,Karenberg,Activo,4791
+4792,West Brianport,Activo,4792
+4793,Catherinefurt,Activo,4793
+4794,Woodardbury,Activo,4794
+4795,Bowenmouth,Activo,4795
+4796,Danielshire,Activo,4796
+4797,Jacksonfort,Activo,4797
+4798,Port Joshua,Activo,4798
+4799,Lake Darryl,Activo,4799
+4800,Stevenbury,Activo,4800
+4801,West Christopher,Activo,4801
+4802,Port Robert,Activo,4802
+4803,Port Melissa,Activo,4803
+4804,Calderonville,Activo,4804
+4805,Katieland,Inactivo,4805
+4806,Lake Josephton,Activo,4806
+4807,Gallegosside,Activo,4807
+4808,Katelynburgh,Activo,4808
+4809,Jacksonshire,Activo,4809
+4810,New Brian,Activo,4810
+4811,Williamsmouth,Inactivo,4811
+4812,Collinsport,Activo,4812
+4813,Jeromefort,Activo,4813
+4814,Richardsonberg,Activo,4814
+4815,South Paul,Activo,4815
+4816,Smithhaven,Activo,4816
+4817,Port Caitlinborough,Activo,4817
+4818,Jenniferchester,Activo,4818
+4819,Port Jeffland,Activo,4819
+4820,Jasonshire,Activo,4820
+4821,Parkerborough,Activo,4821
+4822,East Toddton,Activo,4822
+4823,East Daniel,Activo,4823
+4824,Port Phillipburgh,Activo,4824
+4825,Russellton,Activo,4825
+4826,New Ronald,Activo,4826
+4827,Dixontown,Activo,4827
+4828,Kristinside,Activo,4828
+4829,East James,Activo,4829
+4830,South Sandraburgh,Activo,4830
+4831,West Jessicaton,Activo,4831
+4832,New Hannahmouth,Activo,4832
+4833,Smithtown,Activo,4833
+4834,Jamieburgh,Activo,4834
+4835,Millerport,Activo,4835
+4836,Clarkfurt,Activo,4836
+4837,Lyonsstad,Activo,4837
+4838,New Michaelport,Activo,4838
+4839,Ronaldside,Activo,4839
+4840,Jonesberg,Activo,4840
+4841,South Bryanfort,Activo,4841
+4842,Susanburgh,Activo,4842
+4843,South Stephenland,Activo,4843
+4844,Sawyerburgh,Activo,4844
+4845,New Michaelshire,Activo,4845
+4846,North Andrea,Activo,4846
+4847,Johnsonton,Activo,4847
+4848,Jonesfurt,Inactivo,4848
+4849,Westland,Activo,4849
+4850,West Ian,Activo,4850
+4851,East Joseph,Activo,4851
+4852,Port Carla,Activo,4852
+4853,Port Brandon,Activo,4853
+4854,Lake Jasonstad,Activo,4854
+4855,Morrisland,Activo,4855
+4856,Tylerville,Activo,4856
+4857,East Patrick,Activo,4857
+4858,Hillbury,Activo,4858
+4859,Williamsfort,Activo,4859
+4860,Bartlettstad,Activo,4860
+4861,East Nicoleborough,Activo,4861
+4862,Bonillastad,Activo,4862
+4863,Buchananfurt,Activo,4863
+4864,Kimberlyville,Activo,4864
+4865,Jessicaport,Activo,4865
+4866,South Kaitlintown,Activo,4866
+4867,Watsonside,Activo,4867
+4868,Barberchester,Activo,4868
+4869,West Kylie,Activo,4869
+4870,East Bruce,Activo,4870
+4871,Warrenton,Activo,4871
+4872,Silvaborough,Activo,4872
+4873,West Taraberg,Activo,4873
+4874,Bennetttown,Activo,4874
+4875,Port Juanburgh,Activo,4875
+4876,New Joshuamouth,Activo,4876
+4877,Nancybury,Activo,4877
+4878,Brookefurt,Activo,4878
+4879,Dominguezstad,Activo,4879
+4880,North Sonyaport,Activo,4880
+4881,Lake Kevinfort,Activo,4881
+4882,Lake Ryan,Activo,4882
+4883,North Elizabethburgh,Activo,4883
+4884,Woodardside,Activo,4884
+4885,Donnabury,Activo,4885
+4886,Jennaport,Activo,4886
+4887,Kellyton,Activo,4887
+4888,Daviesland,Activo,4888
+4889,North Tonya,Activo,4889
+4890,Ashleyshire,Activo,4890
+4891,Port Jason,Activo,4891
+4892,Christineton,Activo,4892
+4893,Lake Juliashire,Activo,4893
+4894,Bakerborough,Activo,4894
+4895,West Steven,Activo,4895
+4896,Lake Brianna,Activo,4896
+4897,Moorehaven,Activo,4897
+4898,Christophershire,Activo,4898
+4899,Heathermouth,Activo,4899
+4900,North Valerie,Activo,4900
+4901,North Donna,Activo,4901
+4902,Vasquezchester,Activo,4902
+4903,Stoneberg,Activo,4903
+4904,Debraside,Activo,4904
+4905,East Erin,Activo,4905
+4906,New Kristenmouth,Activo,4906
+4907,East Charles,Activo,4907
+4908,West Samanthafort,Activo,4908
+4909,North Jill,Activo,4909
+4910,New Jessica,Activo,4910
+4911,Waltersshire,Activo,4911
+4912,South Joan,Activo,4912
+4913,North Cynthiamouth,Activo,4913
+4914,Port Maryborough,Activo,4914
+4915,Simpsonfurt,Activo,4915
+4916,Lake Christopherport,Activo,4916
+4917,Blackwellberg,Activo,4917
+4918,North Connie,Activo,4918
+4919,Ryanside,Activo,4919
+4920,East Sethfort,Activo,4920
+4921,Thompsonview,Activo,4921
+4922,Simpsonfort,Activo,4922
+4923,Lake Patricia,Activo,4923
+4924,Smithside,Activo,4924
+4925,Kennethfurt,Activo,4925
+4926,Robinsonmouth,Activo,4926
+4927,East Richardville,Activo,4927
+4928,Hessbury,Activo,4928
+4929,East Lisa,Activo,4929
+4930,Jamesview,Activo,4930
+4931,Carolineside,Activo,4931
+4932,Heathershire,Activo,4932
+4933,New Crystalton,Activo,4933
+4934,Jasminefort,Activo,4934
+4935,Port Veronica,Activo,4935
+4936,Weavermouth,Activo,4936
+4937,South Stephaniestad,Activo,4937
+4938,Lake Richard,Inactivo,4938
+4939,East Wendyburgh,Activo,4939
+4940,East Chrisborough,Activo,4940
+4941,Woodhaven,Activo,4941
+4942,Samuelport,Activo,4942
+4943,Bryanfurt,Activo,4943
+4944,West Manuelmouth,Activo,4944
+4945,Benjaminhaven,Activo,4945
+4946,Bruceton,Inactivo,4946
+4947,Port Sarafurt,Activo,4947
+4948,South Angelafurt,Activo,4948
+4949,Lake Timothy,Activo,4949
+4950,New Cynthia,Activo,4950
+4951,Johnfurt,Activo,4951
+4952,Mcclureville,Activo,4952
+4953,Mccluremouth,Activo,4953
+4954,Lake Charlesburgh,Activo,4954
+4955,Lake Brendaside,Activo,4955
+4956,Hallborough,Activo,4956
+4957,New Craig,Activo,4957
+4958,Pearsonport,Activo,4958
+4959,Arnoldbury,Activo,4959
+4960,New Dianeland,Activo,4960
+4961,Ellistown,Activo,4961
+4962,North Seanview,Activo,4962
+4963,Lake Michelleside,Activo,4963
+4964,Sandrastad,Activo,4964
+4965,Caitlinchester,Activo,4965
+4966,Ronaldtown,Activo,4966
+4967,West Kylefort,Activo,4967
+4968,Conwayfurt,Activo,4968
+4969,Ricardoport,Activo,4969
+4970,Williamview,Activo,4970
+4971,North Michael,Activo,4971
+4972,North Jason,Activo,4972
+4973,Stephanieside,Activo,4973
+4974,Mcdanielmouth,Activo,4974
+4975,Port Johnnyberg,Activo,4975
+4976,South Jose,Activo,4976
+4977,South Danielle,Activo,4977
+4978,Changhaven,Activo,4978
+4979,South Ashley,Activo,4979
+4980,New Barbaraville,Activo,4980
+4981,North Jennifer,Activo,4981
+4982,Franciscoburgh,Activo,4982
+4983,North Williamview,Activo,4983
+4984,East Scott,Activo,4984
+4985,Reedhaven,Activo,4985
+4986,Barrerastad,Activo,4986
+4987,Caintown,Activo,4987
+4988,Wellsfort,Activo,4988
+4989,New Valeriefort,Activo,4989
+4990,Robertsonside,Activo,4990
+4991,Silvaburgh,Activo,4991
+4992,Port Grant,Activo,4992
+4993,Stewartborough,Activo,4993
+4994,Davilashire,Activo,4994
+4995,Jonesburgh,Activo,4995
+4996,Port Wesley,Activo,4996
+4997,Elizabethstad,Activo,4997
+4998,Lindsayberg,Activo,4998
+4999,Lesliefort,Activo,4999
+5000,New Patrick,Activo,5000

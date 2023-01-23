@@ -1,0 +1,5001 @@
+nbr_ba_id,var_ba_nombre,"var_ba_status",nbr_pol_id
+1,San Diego,"En vigencia",1
+2,Mariscal Sucre,"En vigencia",2
+3,San Roque,"En vigencia",3
+4,San Diego,"En vigencia",4
+5,San Diego,"En vigencia",5
+6,San Diego,"En vigencia",6
+7,San Diego,"En vigencia",7
+8,Calderón,"En vigencia",8
+9,San Diego,"En vigencia",9
+10,Chilibulo,"En vigencia",10
+11,San Diego,"En vigencia",11
+12,San Diego,"En vigencia",12
+13,San Diego,"En vigencia",13
+14,Calderón,"En vigencia",14
+15,Kennedy,"En vigencia",15
+16,San Diego,"En vigencia",16
+17,San Diego,"En vigencia",17
+18,Mariscal Sucre,"En vigencia",18
+19,San Diego,"En vigencia",19
+20,San Roque,"En vigencia",20
+21,Quitumbe,"En vigencia",21
+22,Chimbacalle,"En vigencia",22
+23,San Diego,"En vigencia",23
+24,San Roque,"No existe",24
+25,Comité del Pueblo,"En vigencia",25
+26,San Diego,"En vigencia",26
+27,Solanda,"En vigencia",27
+28,San Diego,"En vigencia",28
+29,San Roque,"En vigencia",29
+30,La Concepción,"En vigencia",30
+31,Calderón,"En vigencia",31
+32,San Diego,"En vigencia",32
+33,San Diego,"En vigencia",33
+34,San Diego,"En vigencia",34
+35,San Diego,"En vigencia",35
+36,San Diego,"En vigencia",36
+37,San Diego,"En vigencia",37
+38,San Diego,"En vigencia",38
+39,La Argelia,"En vigencia",39
+40,San Diego,"En vigencia",40
+41,San Diego,"En vigencia",41
+42,San Diego,"En vigencia",42
+43,San Diego,"En vigencia",43
+44,San Diego,"En vigencia",44
+45,San Diego,"En vigencia",45
+46,San Diego,"En vigencia",46
+47,San Diego,"En vigencia",47
+48,San Diego,"En vigencia",48
+49,San Roque,"En vigencia",49
+50,San Roque,"En vigencia",50
+51,Ponceano,"En vigencia",51
+52,San Diego,"En vigencia",52
+53,San Diego,"En vigencia",53
+54,Comité del Pueblo,"En vigencia",54
+55,San Diego,"En vigencia",55
+56,San Roque,"En vigencia",56
+57,San Roque,"En vigencia",57
+58,San Diego,"En vigencia",58
+59,San Diego,"En vigencia",59
+60,San Diego,"En vigencia",60
+61,San Diego,"En vigencia",61
+62,Solanda,"En vigencia",62
+63,San Diego,"En vigencia",63
+64,San Diego,"En vigencia",64
+65,La Magdalena,"En vigencia",65
+66,La Libertad,"En vigencia",66
+67,San Diego,"En vigencia",67
+68,San Diego,"En vigencia",68
+69,San Roque,"En vigencia",69
+70,San Diego,"En vigencia",70
+71,Guamaní,"En vigencia",71
+72,San Diego,"En vigencia",72
+73,San Diego,"En vigencia",73
+74,San Diego,"En vigencia",74
+75,San Diego,"En vigencia",75
+76,San Diego,"En vigencia",76
+77,San Bartolo,"En vigencia",77
+78,San Diego,"No existe",78
+79,San Diego,"En vigencia",79
+80,San Diego,"En vigencia",80
+81,San Diego,"En vigencia",81
+82,San Diego,"En vigencia",82
+83,La Argelia,"En vigencia",83
+84,La Concepción,"En vigencia",84
+85,San Diego,"En vigencia",85
+86,San Diego,"En vigencia",86
+87,San Diego,"En vigencia",87
+88,San Diego,"En vigencia",88
+89,El Condado,"En vigencia",89
+90,San Diego,"En vigencia",90
+91,San Diego,"En vigencia",91
+92,San Diego,"En vigencia",92
+93,San Diego,"En vigencia",93
+94,San Diego,"En vigencia",94
+95,San Roque,"En vigencia",95
+96,San Diego,"En vigencia",96
+97,San Diego,"En vigencia",97
+98,San Diego,"En vigencia",98
+99,Kennedy,"En vigencia",99
+100,El Condado,"En vigencia",100
+101,San Diego,"En vigencia",101
+102,San Roque,"En vigencia",102
+103,Solanda,"En vigencia",103
+104,La Ecuatoriana,"En vigencia",104
+105,San Roque,"En vigencia",105
+106,San Roque,"En vigencia",106
+107,San Diego,"En vigencia",107
+108,Guamaní,"En vigencia",108
+109,San Diego,"En vigencia",109
+110,San Diego,"En vigencia",110
+111,Chilibulo,"En vigencia",111
+112,San Diego,"En vigencia",112
+113,San Diego,"En vigencia",113
+114,La Ecuatoriana,"En vigencia",114
+115,Calderón,"En vigencia",115
+116,San Roque,"En vigencia",116
+117,San Diego,"En vigencia",117
+118,San Diego,"En vigencia",118
+119,San Roque,"En vigencia",119
+120,La Ecuatoriana,"En vigencia",120
+121,La Magdalena,"En vigencia",121
+122,San Roque,"En vigencia",122
+123,San Diego,"En vigencia",123
+124,Calderón,"En vigencia",124
+125,Calderón,"En vigencia",125
+126,San Roque,"En vigencia",126
+127,San Diego,"En vigencia",127
+128,San Diego,"En vigencia",128
+129,Centro Histórico,"En vigencia",129
+130,San Diego,"En vigencia",130
+131,Chimbacalle,"En vigencia",131
+132,La Magdalena,"En vigencia",132
+133,San Diego,"En vigencia",133
+134,Cotocollao,"En vigencia",134
+135,San Diego,"En vigencia",135
+136,Chimbacalle,"En vigencia",136
+137,Guamaní,"En vigencia",137
+138,San Diego,"En vigencia",138
+139,San Diego,"En vigencia",139
+140,San Diego,"En vigencia",140
+141,San Roque,"En vigencia",141
+142,San Diego,"En vigencia",142
+143,San Diego,"En vigencia",143
+144,San Diego,"En vigencia",144
+145,San Diego,"En vigencia",145
+146,El Condado,"En vigencia",146
+147,San Diego,"En vigencia",147
+148,San Diego,"En vigencia",148
+149,Iñaquito,"En vigencia",149
+150,San Diego,"En vigencia",150
+151,La Magdalena,"En vigencia",151
+152,Solanda,"En vigencia",152
+153,San Diego,"En vigencia",153
+154,San Diego,"En vigencia",154
+155,San Roque,"En vigencia",155
+156,El Condado,"En vigencia",156
+157,San Diego,"En vigencia",157
+158,Guamaní,"En vigencia",158
+159,San Diego,"En vigencia",159
+160,Cotocollao,"En vigencia",160
+161,San Diego,"En vigencia",161
+162,San Roque,"En vigencia",162
+163,Iñaquito,"En vigencia",163
+164,San Diego,"En vigencia",164
+165,San Diego,"En vigencia",165
+166,La Concepción,"En vigencia",166
+167,San Diego,"En vigencia",167
+168,San Diego,"En vigencia",168
+169,San Roque,"En vigencia",169
+170,La Mena,"En vigencia",170
+171,San Diego,"En vigencia",171
+172,San Diego,"En vigencia",172
+173,San Roque,"En vigencia",173
+174,San Roque,"En vigencia",174
+175,San Diego,"En vigencia",175
+176,San Diego,"En vigencia",176
+177,Carcelén,"En vigencia",177
+178,San Diego,"En vigencia",178
+179,Puengasí,"En vigencia",179
+180,La Ferroviaria,"En vigencia",180
+181,San Diego,"En vigencia",181
+182,Quitumbe,"En vigencia",182
+183,Comité del Pueblo,"En vigencia",183
+184,Iñaquito,"En vigencia",184
+185,Kennedy,"En vigencia",185
+186,San Diego,"En vigencia",186
+187,Chillogallo,"En vigencia",187
+188,San Diego,"En vigencia",188
+189,San Diego,"En vigencia",189
+190,San Diego,"En vigencia",190
+191,San Diego,"En vigencia",191
+192,Cochapamba,"En vigencia",192
+193,Cotocollao,"En vigencia",193
+194,San Juan,"En vigencia",194
+195,San Diego,"En vigencia",195
+196,San Diego,"En vigencia",196
+197,San Roque,"En vigencia",197
+198,San Diego,"En vigencia",198
+199,San Diego,"En vigencia",199
+200,La Argelia,"En vigencia",200
+201,San Diego,"En vigencia",201
+202,San Diego,"En vigencia",202
+203,Quitumbe,"En vigencia",203
+204,San Diego,"En vigencia",204
+205,Centro Histórico,"En vigencia",205
+206,San Diego,"En vigencia",206
+207,San Roque,"No existe",207
+208,Chimbacalle,"En vigencia",208
+209,Chillogallo,"En vigencia",209
+210,San Juan,"En vigencia",210
+211,La Mena,"En vigencia",211
+212,Kennedy,"En vigencia",212
+213,San Diego,"En vigencia",213
+214,San Diego,"En vigencia",214
+215,San Diego,"En vigencia",215
+216,San Diego,"En vigencia",216
+217,San Diego,"En vigencia",217
+218,San Diego,"En vigencia",218
+219,San Diego,"En vigencia",219
+220,San Diego,"En vigencia",220
+221,San Diego,"En vigencia",221
+222,San Diego,"En vigencia",222
+223,San Diego,"En vigencia",223
+224,La Mena,"En vigencia",224
+225,San Diego,"En vigencia",225
+226,Mariscal Sucre,"En vigencia",226
+227,San Roque,"En vigencia",227
+228,San Diego,"En vigencia",228
+229,Centro Histórico,"En vigencia",229
+230,San Diego,"En vigencia",230
+231,San Diego,"En vigencia",231
+232,San Diego,"En vigencia",232
+233,San Roque,"En vigencia",233
+234,Calderón,"En vigencia",234
+235,San Diego,"En vigencia",235
+236,San Diego,"En vigencia",236
+237,San Diego,"En vigencia",237
+238,San Juan,"En vigencia",238
+239,San Diego,"En vigencia",239
+240,San Diego,"En vigencia",240
+241,San Diego,"En vigencia",241
+242,Jipijapa,"En vigencia",242
+243,La Ecuatoriana,"En vigencia",243
+244,Cochapamba,"En vigencia",244
+245,San Diego,"En vigencia",245
+246,La Ferroviaria,"En vigencia",246
+247,San Diego,"En vigencia",247
+248,San Roque,"En vigencia",248
+249,Quitumbe,"En vigencia",249
+250,San Diego,"En vigencia",250
+251,La Ferroviaria,"En vigencia",251
+252,San Roque,"En vigencia",252
+253,San Diego,"En vigencia",253
+254,San Diego,"En vigencia",254
+255,Chilibulo,"En vigencia",255
+256,San Diego,"En vigencia",256
+257,Itchimbía,"En vigencia",257
+258,San Diego,"En vigencia",258
+259,San Diego,"En vigencia",259
+260,San Diego,"En vigencia",260
+261,San Diego,"En vigencia",261
+262,San Diego,"En vigencia",262
+263,San Diego,"En vigencia",263
+264,San Diego,"En vigencia",264
+265,San Diego,"En vigencia",265
+266,San Diego,"En vigencia",266
+267,Itchimbía,"En vigencia",267
+268,San Diego,"No existe",268
+269,San Diego,"En vigencia",269
+270,San Roque,"En vigencia",270
+271,San Diego,"En vigencia",271
+272,Iñaquito,"En vigencia",272
+273,San Diego,"En vigencia",273
+274,San Diego,"En vigencia",274
+275,San Diego,"En vigencia",275
+276,La Mena,"En vigencia",276
+277,San Diego,"En vigencia",277
+278,San Diego,"En vigencia",278
+279,San Diego,"En vigencia",279
+280,San Diego,"En vigencia",280
+281,San Bartolo,"En vigencia",281
+282,San Roque,"En vigencia",282
+283,San Diego,"En vigencia",283
+284,San Diego,"En vigencia",284
+285,San Diego,"En vigencia",285
+286,San Diego,"En vigencia",286
+287,San Diego,"En vigencia",287
+288,San Diego,"En vigencia",288
+289,Chilibulo,"En vigencia",289
+290,San Diego,"En vigencia",290
+291,San Diego,"En vigencia",291
+292,San Diego,"En vigencia",292
+293,San Diego,"En vigencia",293
+294,Kennedy,"En vigencia",294
+295,San Diego,"En vigencia",295
+296,Solanda,"En vigencia",296
+297,Centro Histórico,"En vigencia",297
+298,San Diego,"En vigencia",298
+299,San Diego,"En vigencia",299
+300,San Diego,"En vigencia",300
+301,San Diego,"En vigencia",301
+302,San Diego,"En vigencia",302
+303,Puengasí,"En vigencia",303
+304,San Diego,"En vigencia",304
+305,San Diego,"En vigencia",305
+306,San Diego,"En vigencia",306
+307,Chillogallo,"En vigencia",307
+308,La Libertad,"En vigencia",308
+309,San Diego,"En vigencia",309
+310,San Diego,"En vigencia",310
+311,San Diego,"En vigencia",311
+312,San Diego,"En vigencia",312
+313,San Diego,"En vigencia",313
+314,San Diego,"En vigencia",314
+315,San Diego,"En vigencia",315
+316,San Diego,"En vigencia",316
+317,Quitumbe,"En vigencia",317
+318,San Diego,"En vigencia",318
+319,San Diego,"En vigencia",319
+320,Kennedy,"En vigencia",320
+321,San Diego,"En vigencia",321
+322,Calderón,"En vigencia",322
+323,Iñaquito,"En vigencia",323
+324,San Diego,"En vigencia",324
+325,San Diego,"En vigencia",325
+326,Centro Histórico,"En vigencia",326
+327,El Condado,"En vigencia",327
+328,San Diego,"No existe",328
+329,San Diego,"En vigencia",329
+330,San Diego,"En vigencia",330
+331,San Diego,"En vigencia",331
+332,Jipijapa,"En vigencia",332
+333,San Diego,"En vigencia",333
+334,San Diego,"En vigencia",334
+335,Chimbacalle,"En vigencia",335
+336,Carcelén,"En vigencia",336
+337,San Diego,"En vigencia",337
+338,San Diego,"En vigencia",338
+339,Chimbacalle,"En vigencia",339
+340,La Concepción,"En vigencia",340
+341,Puengasí,"En vigencia",341
+342,La Ferroviaria,"En vigencia",342
+343,Solanda,"En vigencia",343
+344,San Diego,"En vigencia",344
+345,San Roque,"En vigencia",345
+346,San Diego,"En vigencia",346
+347,San Diego,"En vigencia",347
+348,La Argelia,"En vigencia",348
+349,San Diego,"En vigencia",349
+350,San Diego,"En vigencia",350
+351,San Diego,"En vigencia",351
+352,San Diego,"En vigencia",352
+353,San Diego,"En vigencia",353
+354,San Diego,"En vigencia",354
+355,La Ecuatoriana,"En vigencia",355
+356,Centro Histórico,"En vigencia",356
+357,San Diego,"En vigencia",357
+358,San Roque,"En vigencia",358
+359,Chilibulo,"En vigencia",359
+360,Cotocollao,"En vigencia",360
+361,San Juan,"En vigencia",361
+362,San Diego,"En vigencia",362
+363,San Diego,"No existe",363
+364,San Roque,"En vigencia",364
+365,San Diego,"En vigencia",365
+366,San Roque,"En vigencia",366
+367,Cochapamba,"En vigencia",367
+368,San Diego,"En vigencia",368
+369,San Diego,"En vigencia",369
+370,San Diego,"En vigencia",370
+371,San Diego,"En vigencia",371
+372,San Diego,"En vigencia",372
+373,San Diego,"En vigencia",373
+374,La Ferroviaria,"En vigencia",374
+375,El Condado,"En vigencia",375
+376,San Diego,"En vigencia",376
+377,La Magdalena,"En vigencia",377
+378,Chillogallo,"En vigencia",378
+379,San Diego,"En vigencia",379
+380,San Diego,"En vigencia",380
+381,San Roque,"En vigencia",381
+382,Solanda,"En vigencia",382
+383,San Diego,"En vigencia",383
+384,San Diego,"En vigencia",384
+385,Jipijapa,"No existe",385
+386,San Diego,"En vigencia",386
+387,San Diego,"En vigencia",387
+388,San Diego,"En vigencia",388
+389,San Diego,"En vigencia",389
+390,Chimbacalle,"En vigencia",390
+391,San Diego,"En vigencia",391
+392,San Diego,"En vigencia",392
+393,San Diego,"En vigencia",393
+394,La Libertad,"En vigencia",394
+395,San Diego,"En vigencia",395
+396,San Diego,"En vigencia",396
+397,San Bartolo,"En vigencia",397
+398,San Diego,"En vigencia",398
+399,San Bartolo,"En vigencia",399
+400,San Diego,"En vigencia",400
+401,La Libertad,"En vigencia",401
+402,San Diego,"En vigencia",402
+403,La Concepción,"En vigencia",403
+404,San Diego,"En vigencia",404
+405,San Diego,"En vigencia",405
+406,San Diego,"En vigencia",406
+407,Chillogallo,"En vigencia",407
+408,San Roque,"En vigencia",408
+409,San Diego,"En vigencia",409
+410,San Diego,"En vigencia",410
+411,Chimbacalle,"En vigencia",411
+412,La Ferroviaria,"En vigencia",412
+413,San Diego,"En vigencia",413
+414,La Concepción,"En vigencia",414
+415,San Diego,"En vigencia",415
+416,San Diego,"En vigencia",416
+417,San Roque,"En vigencia",417
+418,San Diego,"En vigencia",418
+419,San Diego,"En vigencia",419
+420,San Diego,"En vigencia",420
+421,Chimbacalle,"En vigencia",421
+422,San Diego,"En vigencia",422
+423,San Diego,"En vigencia",423
+424,La Magdalena,"En vigencia",424
+425,La Argelia,"En vigencia",425
+426,La Mena,"En vigencia",426
+427,San Roque,"En vigencia",427
+428,San Roque,"En vigencia",428
+429,San Roque,"En vigencia",429
+430,San Diego,"En vigencia",430
+431,San Diego,"En vigencia",431
+432,La Magdalena,"En vigencia",432
+433,San Diego,"En vigencia",433
+434,San Diego,"En vigencia",434
+435,Turubamba,"En vigencia",435
+436,San Diego,"En vigencia",436
+437,San Diego,"No existe",437
+438,Iñaquito,"En vigencia",438
+439,San Diego,"En vigencia",439
+440,San Diego,"No existe",440
+441,Ponceano,"En vigencia",441
+442,San Diego,"En vigencia",442
+443,San Diego,"En vigencia",443
+444,San Diego,"No existe",444
+445,San Diego,"En vigencia",445
+446,San Bartolo,"En vigencia",446
+447,San Roque,"En vigencia",447
+448,San Diego,"En vigencia",448
+449,San Roque,"En vigencia",449
+450,San Diego,"En vigencia",450
+451,San Roque,"En vigencia",451
+452,San Diego,"En vigencia",452
+453,San Diego,"En vigencia",453
+454,Puengasí,"En vigencia",454
+455,Comité del Pueblo,"En vigencia",455
+456,San Juan,"En vigencia",456
+457,San Diego,"En vigencia",457
+458,San Diego,"En vigencia",458
+459,San Diego,"En vigencia",459
+460,Cotocollao,"En vigencia",460
+461,San Diego,"En vigencia",461
+462,Cotocollao,"En vigencia",462
+463,San Diego,"En vigencia",463
+464,San Diego,"En vigencia",464
+465,Carcelén,"En vigencia",465
+466,San Diego,"En vigencia",466
+467,Rumipamba,"En vigencia",467
+468,San Diego,"En vigencia",468
+469,San Diego,"En vigencia",469
+470,San Diego,"En vigencia",470
+471,La Argelia,"En vigencia",471
+472,San Diego,"En vigencia",472
+473,San Juan,"En vigencia",473
+474,La Ecuatoriana,"En vigencia",474
+475,San Diego,"En vigencia",475
+476,San Diego,"En vigencia",476
+477,San Diego,"En vigencia",477
+478,San Diego,"En vigencia",478
+479,Chillogallo,"En vigencia",479
+480,San Diego,"En vigencia",480
+481,San Diego,"En vigencia",481
+482,San Diego,"En vigencia",482
+483,San Diego,"En vigencia",483
+484,San Diego,"No existe",484
+485,Chilibulo,"En vigencia",485
+486,San Diego,"En vigencia",486
+487,San Diego,"En vigencia",487
+488,San Diego,"En vigencia",488
+489,Quitumbe,"En vigencia",489
+490,Solanda,"En vigencia",490
+491,San Diego,"En vigencia",491
+492,Ponceano,"En vigencia",492
+493,Chilibulo,"No existe",493
+494,San Diego,"En vigencia",494
+495,San Roque,"En vigencia",495
+496,San Roque,"En vigencia",496
+497,San Diego,"En vigencia",497
+498,San Diego,"En vigencia",498
+499,Chimbacalle,"En vigencia",499
+500,San Diego,"En vigencia",500
+501,Calderón,"En vigencia",501
+502,San Diego,"En vigencia",502
+503,San Diego,"No existe",503
+504,San Roque,"En vigencia",504
+505,Ponceano,"En vigencia",505
+506,San Diego,"En vigencia",506
+507,San Diego,"En vigencia",507
+508,Cotocollao,"En vigencia",508
+509,San Diego,"En vigencia",509
+510,San Diego,"En vigencia",510
+511,Mariscal Sucre,"En vigencia",511
+512,San Diego,"En vigencia",512
+513,San Diego,"En vigencia",513
+514,San Diego,"En vigencia",514
+515,San Diego,"En vigencia",515
+516,Carcelén,"En vigencia",516
+517,El Condado,"En vigencia",517
+518,San Diego,"En vigencia",518
+519,San Diego,"En vigencia",519
+520,Comité del Pueblo,"En vigencia",520
+521,San Diego,"En vigencia",521
+522,Puengasí,"En vigencia",522
+523,San Diego,"En vigencia",523
+524,Chilibulo,"En vigencia",524
+525,Rumipamba,"En vigencia",525
+526,San Diego,"En vigencia",526
+527,San Diego,"En vigencia",527
+528,La Mena,"En vigencia",528
+529,San Diego,"En vigencia",529
+530,Chimbacalle,"En vigencia",530
+531,Calderón,"En vigencia",531
+532,San Roque,"En vigencia",532
+533,San Diego,"En vigencia",533
+534,San Diego,"En vigencia",534
+535,La Argelia,"En vigencia",535
+536,San Diego,"En vigencia",536
+537,San Diego,"En vigencia",537
+538,San Diego,"En vigencia",538
+539,San Roque,"En vigencia",539
+540,San Diego,"En vigencia",540
+541,Cotocollao,"No existe",541
+542,Ponceano,"En vigencia",542
+543,San Roque,"En vigencia",543
+544,Jipijapa,"En vigencia",544
+545,Jipijapa,"En vigencia",545
+546,Chilibulo,"En vigencia",546
+547,San Diego,"En vigencia",547
+548,San Diego,"En vigencia",548
+549,San Diego,"En vigencia",549
+550,San Roque,"En vigencia",550
+551,San Diego,"En vigencia",551
+552,San Diego,"En vigencia",552
+553,San Diego,"En vigencia",553
+554,El Condado,"En vigencia",554
+555,San Diego,"En vigencia",555
+556,San Diego,"En vigencia",556
+557,Cochapamba,"En vigencia",557
+558,San Roque,"En vigencia",558
+559,San Diego,"En vigencia",559
+560,San Diego,"En vigencia",560
+561,San Diego,"En vigencia",561
+562,San Diego,"En vigencia",562
+563,La Libertad,"En vigencia",563
+564,San Roque,"En vigencia",564
+565,San Diego,"En vigencia",565
+566,San Diego,"En vigencia",566
+567,La Argelia,"En vigencia",567
+568,Solanda,"En vigencia",568
+569,San Diego,"En vigencia",569
+570,San Diego,"En vigencia",570
+571,San Diego,"En vigencia",571
+572,Calderón,"En vigencia",572
+573,San Diego,"En vigencia",573
+574,Belisario Quevedo,"En vigencia",574
+575,La Libertad,"En vigencia",575
+576,San Diego,"En vigencia",576
+577,San Diego,"En vigencia",577
+578,San Diego,"En vigencia",578
+579,San Diego,"En vigencia",579
+580,La Libertad,"En vigencia",580
+581,Cochapamba,"En vigencia",581
+582,San Diego,"En vigencia",582
+583,San Diego,"En vigencia",583
+584,San Diego,"En vigencia",584
+585,Belisario Quevedo,"En vigencia",585
+586,San Diego,"En vigencia",586
+587,Iñaquito,"En vigencia",587
+588,San Diego,"En vigencia",588
+589,El Condado,"En vigencia",589
+590,Quitumbe,"En vigencia",590
+591,San Diego,"En vigencia",591
+592,San Roque,"En vigencia",592
+593,Chimbacalle,"En vigencia",593
+594,San Roque,"En vigencia",594
+595,San Diego,"En vigencia",595
+596,San Diego,"En vigencia",596
+597,San Diego,"En vigencia",597
+598,San Diego,"En vigencia",598
+599,San Roque,"En vigencia",599
+600,San Diego,"En vigencia",600
+601,La Ecuatoriana,"En vigencia",601
+602,San Diego,"En vigencia",602
+603,El Condado,"En vigencia",603
+604,San Diego,"En vigencia",604
+605,San Diego,"En vigencia",605
+606,San Roque,"En vigencia",606
+607,Itchimbía,"No existe",607
+608,San Diego,"En vigencia",608
+609,Guamaní,"En vigencia",609
+610,San Diego,"En vigencia",610
+611,San Diego,"En vigencia",611
+612,San Diego,"En vigencia",612
+613,San Roque,"En vigencia",613
+614,San Diego,"En vigencia",614
+615,San Diego,"En vigencia",615
+616,San Diego,"En vigencia",616
+617,San Diego,"En vigencia",617
+618,El Condado,"En vigencia",618
+619,Guamaní,"En vigencia",619
+620,San Diego,"En vigencia",620
+621,San Roque,"En vigencia",621
+622,Mariscal Sucre,"En vigencia",622
+623,San Diego,"En vigencia",623
+624,San Diego,"En vigencia",624
+625,San Diego,"En vigencia",625
+626,Turubamba,"No existe",626
+627,San Diego,"En vigencia",627
+628,San Roque,"En vigencia",628
+629,San Roque,"En vigencia",629
+630,Carcelén,"En vigencia",630
+631,San Diego,"En vigencia",631
+632,Rumipamba,"En vigencia",632
+633,Puengasí,"En vigencia",633
+634,Belisario Quevedo,"En vigencia",634
+635,San Diego,"En vigencia",635
+636,San Diego,"En vigencia",636
+637,San Diego,"En vigencia",637
+638,San Roque,"En vigencia",638
+639,San Diego,"En vigencia",639
+640,San Diego,"En vigencia",640
+641,San Diego,"En vigencia",641
+642,San Diego,"En vigencia",642
+643,San Diego,"En vigencia",643
+644,San Diego,"En vigencia",644
+645,San Diego,"En vigencia",645
+646,La Magdalena,"En vigencia",646
+647,Itchimbía,"No existe",647
+648,San Diego,"En vigencia",648
+649,San Diego,"En vigencia",649
+650,San Diego,"En vigencia",650
+651,Turubamba,"En vigencia",651
+652,San Diego,"En vigencia",652
+653,San Diego,"En vigencia",653
+654,San Diego,"En vigencia",654
+655,Ponceano,"En vigencia",655
+656,Turubamba,"En vigencia",656
+657,San Diego,"En vigencia",657
+658,San Diego,"En vigencia",658
+659,San Diego,"En vigencia",659
+660,El Condado,"En vigencia",660
+661,San Diego,"En vigencia",661
+662,San Diego,"En vigencia",662
+663,San Roque,"En vigencia",663
+664,San Diego,"En vigencia",664
+665,San Diego,"En vigencia",665
+666,San Diego,"En vigencia",666
+667,San Diego,"En vigencia",667
+668,San Diego,"En vigencia",668
+669,Cotocollao,"En vigencia",669
+670,San Diego,"En vigencia",670
+671,Chillogallo,"En vigencia",671
+672,San Diego,"En vigencia",672
+673,Mariscal Sucre,"En vigencia",673
+674,San Diego,"En vigencia",674
+675,San Diego,"En vigencia",675
+676,San Roque,"En vigencia",676
+677,Cotocollao,"En vigencia",677
+678,Quitumbe,"En vigencia",678
+679,San Diego,"En vigencia",679
+680,San Diego,"En vigencia",680
+681,Chillogallo,"En vigencia",681
+682,Kennedy,"En vigencia",682
+683,San Roque,"En vigencia",683
+684,Chillogallo,"En vigencia",684
+685,San Diego,"En vigencia",685
+686,San Juan,"En vigencia",686
+687,Mariscal Sucre,"En vigencia",687
+688,San Diego,"En vigencia",688
+689,San Diego,"En vigencia",689
+690,San Diego,"En vigencia",690
+691,San Diego,"En vigencia",691
+692,San Diego,"En vigencia",692
+693,San Diego,"En vigencia",693
+694,Comité del Pueblo,"En vigencia",694
+695,Itchimbía,"En vigencia",695
+696,San Diego,"En vigencia",696
+697,San Diego,"En vigencia",697
+698,San Diego,"En vigencia",698
+699,La Argelia,"En vigencia",699
+700,San Diego,"En vigencia",700
+701,Solanda,"En vigencia",701
+702,San Diego,"En vigencia",702
+703,Chillogallo,"En vigencia",703
+704,San Diego,"En vigencia",704
+705,San Diego,"En vigencia",705
+706,San Diego,"En vigencia",706
+707,San Diego,"En vigencia",707
+708,San Diego,"No existe",708
+709,San Diego,"En vigencia",709
+710,Cotocollao,"En vigencia",710
+711,San Diego,"En vigencia",711
+712,San Diego,"En vigencia",712
+713,San Diego,"En vigencia",713
+714,Guamaní,"En vigencia",714
+715,San Diego,"En vigencia",715
+716,San Diego,"En vigencia",716
+717,San Diego,"En vigencia",717
+718,San Diego,"En vigencia",718
+719,San Roque,"En vigencia",719
+720,San Diego,"En vigencia",720
+721,San Diego,"En vigencia",721
+722,San Diego,"En vigencia",722
+723,La Argelia,"En vigencia",723
+724,San Roque,"En vigencia",724
+725,San Diego,"En vigencia",725
+726,San Diego,"En vigencia",726
+727,Chilibulo,"No existe",727
+728,El Condado,"En vigencia",728
+729,San Diego,"En vigencia",729
+730,San Diego,"En vigencia",730
+731,Belisario Quevedo,"En vigencia",731
+732,Guamaní,"En vigencia",732
+733,San Diego,"En vigencia",733
+734,San Diego,"En vigencia",734
+735,San Diego,"En vigencia",735
+736,Calderón,"En vigencia",736
+737,San Diego,"En vigencia",737
+738,San Diego,"En vigencia",738
+739,San Diego,"En vigencia",739
+740,San Diego,"En vigencia",740
+741,Rumipamba,"En vigencia",741
+742,San Roque,"En vigencia",742
+743,San Diego,"En vigencia",743
+744,San Diego,"En vigencia",744
+745,San Roque,"En vigencia",745
+746,San Roque,"En vigencia",746
+747,La Mena,"En vigencia",747
+748,Chilibulo,"En vigencia",748
+749,La Libertad,"En vigencia",749
+750,La Concepción,"En vigencia",750
+751,San Diego,"En vigencia",751
+752,San Diego,"En vigencia",752
+753,Cotocollao,"En vigencia",753
+754,San Diego,"En vigencia",754
+755,San Diego,"En vigencia",755
+756,San Diego,"En vigencia",756
+757,San Diego,"En vigencia",757
+758,Centro Histórico,"En vigencia",758
+759,San Diego,"En vigencia",759
+760,San Diego,"En vigencia",760
+761,San Diego,"En vigencia",761
+762,San Diego,"En vigencia",762
+763,San Diego,"En vigencia",763
+764,La Argelia,"En vigencia",764
+765,San Diego,"En vigencia",765
+766,San Diego,"En vigencia",766
+767,San Diego,"En vigencia",767
+768,San Diego,"En vigencia",768
+769,San Diego,"No existe",769
+770,Kennedy,"En vigencia",770
+771,San Diego,"En vigencia",771
+772,La Mena,"En vigencia",772
+773,Centro Histórico,"No existe",773
+774,San Diego,"En vigencia",774
+775,San Diego,"En vigencia",775
+776,Jipijapa,"En vigencia",776
+777,San Diego,"En vigencia",777
+778,San Diego,"En vigencia",778
+779,San Diego,"En vigencia",779
+780,San Diego,"En vigencia",780
+781,La Magdalena,"En vigencia",781
+782,San Diego,"En vigencia",782
+783,Solanda,"En vigencia",783
+784,San Diego,"En vigencia",784
+785,Chimbacalle,"En vigencia",785
+786,San Diego,"En vigencia",786
+787,San Diego,"En vigencia",787
+788,San Diego,"En vigencia",788
+789,San Diego,"En vigencia",789
+790,San Bartolo,"En vigencia",790
+791,Kennedy,"En vigencia",791
+792,San Roque,"En vigencia",792
+793,La Mena,"En vigencia",793
+794,Belisario Quevedo,"En vigencia",794
+795,San Diego,"En vigencia",795
+796,San Diego,"En vigencia",796
+797,San Diego,"En vigencia",797
+798,San Diego,"En vigencia",798
+799,Solanda,"En vigencia",799
+800,San Diego,"En vigencia",800
+801,Jipijapa,"En vigencia",801
+802,San Diego,"En vigencia",802
+803,San Diego,"En vigencia",803
+804,San Diego,"En vigencia",804
+805,San Diego,"En vigencia",805
+806,San Diego,"En vigencia",806
+807,San Diego,"En vigencia",807
+808,San Diego,"En vigencia",808
+809,San Diego,"En vigencia",809
+810,San Diego,"En vigencia",810
+811,San Roque,"En vigencia",811
+812,San Diego,"En vigencia",812
+813,San Diego,"En vigencia",813
+814,San Diego,"No existe",814
+815,San Roque,"En vigencia",815
+816,San Diego,"En vigencia",816
+817,Chillogallo,"En vigencia",817
+818,San Diego,"En vigencia",818
+819,Ponceano,"En vigencia",819
+820,San Diego,"En vigencia",820
+821,Quitumbe,"En vigencia",821
+822,San Diego,"En vigencia",822
+823,Guamaní,"En vigencia",823
+824,San Juan,"En vigencia",824
+825,La Argelia,"En vigencia",825
+826,Centro Histórico,"En vigencia",826
+827,San Roque,"En vigencia",827
+828,San Diego,"En vigencia",828
+829,Mariscal Sucre,"En vigencia",829
+830,San Diego,"En vigencia",830
+831,Calderón,"En vigencia",831
+832,La Concepción,"En vigencia",832
+833,San Diego,"En vigencia",833
+834,Quitumbe,"En vigencia",834
+835,San Diego,"En vigencia",835
+836,San Diego,"En vigencia",836
+837,San Diego,"En vigencia",837
+838,San Diego,"En vigencia",838
+839,Rumipamba,"En vigencia",839
+840,San Roque,"En vigencia",840
+841,La Concepción,"En vigencia",841
+842,San Diego,"En vigencia",842
+843,San Diego,"No existe",843
+844,San Diego,"En vigencia",844
+845,San Diego,"En vigencia",845
+846,San Diego,"No existe",846
+847,San Diego,"En vigencia",847
+848,San Diego,"En vigencia",848
+849,San Diego,"En vigencia",849
+850,San Diego,"En vigencia",850
+851,San Diego,"En vigencia",851
+852,Jipijapa,"En vigencia",852
+853,San Juan,"No existe",853
+854,San Diego,"En vigencia",854
+855,San Diego,"En vigencia",855
+856,La Concepción,"En vigencia",856
+857,Centro Histórico,"En vigencia",857
+858,Ponceano,"En vigencia",858
+859,San Roque,"En vigencia",859
+860,San Diego,"En vigencia",860
+861,San Diego,"En vigencia",861
+862,Cotocollao,"En vigencia",862
+863,San Diego,"En vigencia",863
+864,San Diego,"En vigencia",864
+865,San Diego,"En vigencia",865
+866,La Argelia,"En vigencia",866
+867,Centro Histórico,"En vigencia",867
+868,La Magdalena,"En vigencia",868
+869,San Diego,"En vigencia",869
+870,San Diego,"En vigencia",870
+871,San Diego,"En vigencia",871
+872,San Diego,"En vigencia",872
+873,San Diego,"En vigencia",873
+874,San Diego,"En vigencia",874
+875,San Diego,"En vigencia",875
+876,San Diego,"En vigencia",876
+877,Chilibulo,"En vigencia",877
+878,Itchimbía,"En vigencia",878
+879,San Diego,"En vigencia",879
+880,San Diego,"En vigencia",880
+881,San Diego,"En vigencia",881
+882,San Diego,"En vigencia",882
+883,Cochapamba,"En vigencia",883
+884,San Diego,"En vigencia",884
+885,San Diego,"En vigencia",885
+886,San Diego,"En vigencia",886
+887,San Diego,"En vigencia",887
+888,San Diego,"En vigencia",888
+889,San Diego,"En vigencia",889
+890,San Diego,"En vigencia",890
+891,San Diego,"En vigencia",891
+892,San Diego,"En vigencia",892
+893,San Roque,"En vigencia",893
+894,San Diego,"En vigencia",894
+895,San Diego,"En vigencia",895
+896,San Diego,"En vigencia",896
+897,San Diego,"En vigencia",897
+898,San Diego,"En vigencia",898
+899,San Roque,"En vigencia",899
+900,La Ferroviaria,"En vigencia",900
+901,Turubamba,"En vigencia",901
+902,San Diego,"En vigencia",902
+903,San Diego,"En vigencia",903
+904,San Roque,"En vigencia",904
+905,Iñaquito,"En vigencia",905
+906,San Diego,"En vigencia",906
+907,San Diego,"En vigencia",907
+908,San Diego,"En vigencia",908
+909,San Diego,"En vigencia",909
+910,La Ecuatoriana,"En vigencia",910
+911,San Diego,"En vigencia",911
+912,San Diego,"En vigencia",912
+913,San Diego,"En vigencia",913
+914,San Diego,"En vigencia",914
+915,Centro Histórico,"En vigencia",915
+916,San Diego,"En vigencia",916
+917,San Roque,"En vigencia",917
+918,San Diego,"En vigencia",918
+919,Iñaquito,"En vigencia",919
+920,Solanda,"En vigencia",920
+921,San Diego,"En vigencia",921
+922,El Condado,"En vigencia",922
+923,Chillogallo,"En vigencia",923
+924,La Ecuatoriana,"En vigencia",924
+925,Calderón,"En vigencia",925
+926,San Roque,"En vigencia",926
+927,San Diego,"En vigencia",927
+928,San Diego,"En vigencia",928
+929,San Diego,"En vigencia",929
+930,Ponceano,"En vigencia",930
+931,Belisario Quevedo,"En vigencia",931
+932,San Diego,"En vigencia",932
+933,San Diego,"En vigencia",933
+934,San Roque,"En vigencia",934
+935,San Diego,"En vigencia",935
+936,San Diego,"En vigencia",936
+937,San Diego,"En vigencia",937
+938,San Diego,"En vigencia",938
+939,San Diego,"En vigencia",939
+940,Carcelén,"En vigencia",940
+941,San Diego,"En vigencia",941
+942,San Diego,"En vigencia",942
+943,San Diego,"En vigencia",943
+944,San Diego,"No existe",944
+945,San Diego,"En vigencia",945
+946,San Diego,"En vigencia",946
+947,San Diego,"En vigencia",947
+948,Cotocollao,"En vigencia",948
+949,La Ferroviaria,"En vigencia",949
+950,San Diego,"En vigencia",950
+951,La Argelia,"En vigencia",951
+952,San Diego,"En vigencia",952
+953,Rumipamba,"En vigencia",953
+954,San Diego,"En vigencia",954
+955,San Diego,"En vigencia",955
+956,San Diego,"En vigencia",956
+957,San Diego,"En vigencia",957
+958,San Diego,"En vigencia",958
+959,San Bartolo,"En vigencia",959
+960,Comité del Pueblo,"En vigencia",960
+961,San Diego,"En vigencia",961
+962,San Diego,"En vigencia",962
+963,San Diego,"En vigencia",963
+964,La Magdalena,"En vigencia",964
+965,San Diego,"En vigencia",965
+966,San Diego,"En vigencia",966
+967,San Diego,"En vigencia",967
+968,Mariscal Sucre,"En vigencia",968
+969,Cotocollao,"En vigencia",969
+970,Quitumbe,"En vigencia",970
+971,San Diego,"En vigencia",971
+972,San Diego,"En vigencia",972
+973,San Diego,"En vigencia",973
+974,Cotocollao,"En vigencia",974
+975,San Diego,"No existe",975
+976,San Diego,"En vigencia",976
+977,San Diego,"En vigencia",977
+978,San Diego,"En vigencia",978
+979,San Roque,"En vigencia",979
+980,San Roque,"En vigencia",980
+981,Calderón,"En vigencia",981
+982,San Diego,"En vigencia",982
+983,San Diego,"En vigencia",983
+984,San Diego,"En vigencia",984
+985,Quitumbe,"En vigencia",985
+986,San Diego,"En vigencia",986
+987,San Roque,"En vigencia",987
+988,San Diego,"En vigencia",988
+989,San Roque,"En vigencia",989
+990,San Diego,"En vigencia",990
+991,San Diego,"En vigencia",991
+992,Guamaní,"En vigencia",992
+993,San Diego,"En vigencia",993
+994,Itchimbía,"En vigencia",994
+995,San Diego,"En vigencia",995
+996,San Diego,"En vigencia",996
+997,San Diego,"En vigencia",997
+998,Chilibulo,"En vigencia",998
+999,San Diego,"No existe",999
+1000,San Diego,"En vigencia",1000
+1001,San Diego,"En vigencia",1001
+1002,San Diego,"En vigencia",1002
+1003,San Roque,"En vigencia",1003
+1004,San Diego,"En vigencia",1004
+1005,San Diego,"En vigencia",1005
+1006,San Diego,"En vigencia",1006
+1007,San Diego,"En vigencia",1007
+1008,San Diego,"En vigencia",1008
+1009,Guamaní,"En vigencia",1009
+1010,San Roque,"En vigencia",1010
+1011,San Roque,"En vigencia",1011
+1012,San Diego,"En vigencia",1012
+1013,San Bartolo,"En vigencia",1013
+1014,San Diego,"En vigencia",1014
+1015,San Roque,"En vigencia",1015
+1016,San Diego,"En vigencia",1016
+1017,Kennedy,"En vigencia",1017
+1018,Chilibulo,"En vigencia",1018
+1019,San Diego,"No existe",1019
+1020,San Diego,"En vigencia",1020
+1021,La Magdalena,"En vigencia",1021
+1022,San Diego,"En vigencia",1022
+1023,Chillogallo,"En vigencia",1023
+1024,San Diego,"En vigencia",1024
+1025,San Diego,"En vigencia",1025
+1026,Comité del Pueblo,"En vigencia",1026
+1027,San Diego,"En vigencia",1027
+1028,Solanda,"En vigencia",1028
+1029,San Diego,"En vigencia",1029
+1030,Comité del Pueblo,"En vigencia",1030
+1031,San Juan,"En vigencia",1031
+1032,San Juan,"En vigencia",1032
+1033,San Diego,"En vigencia",1033
+1034,San Diego,"En vigencia",1034
+1035,Quitumbe,"En vigencia",1035
+1036,La Ferroviaria,"En vigencia",1036
+1037,San Diego,"En vigencia",1037
+1038,San Diego,"En vigencia",1038
+1039,San Diego,"En vigencia",1039
+1040,San Diego,"En vigencia",1040
+1041,San Diego,"En vigencia",1041
+1042,San Diego,"En vigencia",1042
+1043,El Condado,"En vigencia",1043
+1044,San Diego,"En vigencia",1044
+1045,Chimbacalle,"En vigencia",1045
+1046,Centro Histórico,"En vigencia",1046
+1047,San Diego,"En vigencia",1047
+1048,San Diego,"En vigencia",1048
+1049,La Ecuatoriana,"En vigencia",1049
+1050,La Ecuatoriana,"En vigencia",1050
+1051,San Diego,"En vigencia",1051
+1052,San Diego,"En vigencia",1052
+1053,San Diego,"En vigencia",1053
+1054,San Diego,"En vigencia",1054
+1055,San Diego,"En vigencia",1055
+1056,San Diego,"En vigencia",1056
+1057,San Diego,"En vigencia",1057
+1058,Chillogallo,"En vigencia",1058
+1059,San Diego,"En vigencia",1059
+1060,San Roque,"En vigencia",1060
+1061,Calderón,"En vigencia",1061
+1062,Carcelén,"En vigencia",1062
+1063,San Diego,"En vigencia",1063
+1064,San Roque,"En vigencia",1064
+1065,San Roque,"En vigencia",1065
+1066,San Diego,"En vigencia",1066
+1067,San Diego,"En vigencia",1067
+1068,San Diego,"En vigencia",1068
+1069,San Diego,"En vigencia",1069
+1070,San Diego,"En vigencia",1070
+1071,La Concepción,"En vigencia",1071
+1072,Turubamba,"En vigencia",1072
+1073,Cotocollao,"En vigencia",1073
+1074,La Concepción,"En vigencia",1074
+1075,San Roque,"En vigencia",1075
+1076,San Diego,"En vigencia",1076
+1077,San Diego,"En vigencia",1077
+1078,San Diego,"En vigencia",1078
+1079,Rumipamba,"En vigencia",1079
+1080,Carcelén,"En vigencia",1080
+1081,Solanda,"En vigencia",1081
+1082,San Diego,"En vigencia",1082
+1083,Itchimbía,"En vigencia",1083
+1084,La Mena,"En vigencia",1084
+1085,San Roque,"En vigencia",1085
+1086,La Concepción,"En vigencia",1086
+1087,San Diego,"En vigencia",1087
+1088,Jipijapa,"En vigencia",1088
+1089,San Diego,"En vigencia",1089
+1090,San Roque,"En vigencia",1090
+1091,San Diego,"En vigencia",1091
+1092,Itchimbía,"En vigencia",1092
+1093,San Bartolo,"En vigencia",1093
+1094,San Diego,"En vigencia",1094
+1095,Cotocollao,"En vigencia",1095
+1096,San Diego,"En vigencia",1096
+1097,Turubamba,"En vigencia",1097
+1098,Chilibulo,"En vigencia",1098
+1099,San Diego,"En vigencia",1099
+1100,San Roque,"En vigencia",1100
+1101,San Diego,"En vigencia",1101
+1102,San Diego,"En vigencia",1102
+1103,San Diego,"En vigencia",1103
+1104,San Roque,"En vigencia",1104
+1105,Solanda,"En vigencia",1105
+1106,San Diego,"En vigencia",1106
+1107,San Diego,"En vigencia",1107
+1108,San Diego,"En vigencia",1108
+1109,Chillogallo,"En vigencia",1109
+1110,San Diego,"En vigencia",1110
+1111,Chimbacalle,"En vigencia",1111
+1112,San Juan,"En vigencia",1112
+1113,San Diego,"En vigencia",1113
+1114,San Roque,"En vigencia",1114
+1115,San Diego,"En vigencia",1115
+1116,San Diego,"No existe",1116
+1117,Chimbacalle,"En vigencia",1117
+1118,Kennedy,"En vigencia",1118
+1119,El Condado,"En vigencia",1119
+1120,San Diego,"En vigencia",1120
+1121,San Diego,"En vigencia",1121
+1122,San Diego,"En vigencia",1122
+1123,Chimbacalle,"En vigencia",1123
+1124,San Diego,"En vigencia",1124
+1125,San Diego,"En vigencia",1125
+1126,Cotocollao,"En vigencia",1126
+1127,San Diego,"En vigencia",1127
+1128,San Diego,"En vigencia",1128
+1129,San Diego,"En vigencia",1129
+1130,San Diego,"En vigencia",1130
+1131,Puengasí,"En vigencia",1131
+1132,San Diego,"En vigencia",1132
+1133,San Diego,"En vigencia",1133
+1134,Puengasí,"En vigencia",1134
+1135,La Magdalena,"En vigencia",1135
+1136,Comité del Pueblo,"En vigencia",1136
+1137,San Diego,"En vigencia",1137
+1138,San Diego,"En vigencia",1138
+1139,San Diego,"No existe",1139
+1140,Iñaquito,"En vigencia",1140
+1141,San Diego,"En vigencia",1141
+1142,San Diego,"En vigencia",1142
+1143,San Diego,"En vigencia",1143
+1144,San Diego,"En vigencia",1144
+1145,San Diego,"En vigencia",1145
+1146,San Diego,"En vigencia",1146
+1147,San Diego,"En vigencia",1147
+1148,San Diego,"En vigencia",1148
+1149,San Diego,"En vigencia",1149
+1150,San Juan,"En vigencia",1150
+1151,San Diego,"En vigencia",1151
+1152,Ponceano,"En vigencia",1152
+1153,San Diego,"En vigencia",1153
+1154,Chimbacalle,"En vigencia",1154
+1155,Chillogallo,"En vigencia",1155
+1156,San Roque,"En vigencia",1156
+1157,San Diego,"En vigencia",1157
+1158,San Diego,"No existe",1158
+1159,San Diego,"En vigencia",1159
+1160,Carcelén,"En vigencia",1160
+1161,San Diego,"En vigencia",1161
+1162,San Diego,"En vigencia",1162
+1163,Comité del Pueblo,"En vigencia",1163
+1164,San Diego,"En vigencia",1164
+1165,San Diego,"En vigencia",1165
+1166,San Diego,"En vigencia",1166
+1167,San Diego,"En vigencia",1167
+1168,San Roque,"En vigencia",1168
+1169,San Diego,"En vigencia",1169
+1170,San Diego,"En vigencia",1170
+1171,Chimbacalle,"En vigencia",1171
+1172,San Diego,"En vigencia",1172
+1173,San Diego,"En vigencia",1173
+1174,San Diego,"En vigencia",1174
+1175,San Roque,"En vigencia",1175
+1176,El Condado,"En vigencia",1176
+1177,La Ecuatoriana,"En vigencia",1177
+1178,San Diego,"En vigencia",1178
+1179,San Diego,"En vigencia",1179
+1180,Belisario Quevedo,"En vigencia",1180
+1181,Ponceano,"En vigencia",1181
+1182,Jipijapa,"En vigencia",1182
+1183,La Libertad,"En vigencia",1183
+1184,San Diego,"No existe",1184
+1185,San Diego,"En vigencia",1185
+1186,San Roque,"En vigencia",1186
+1187,San Diego,"En vigencia",1187
+1188,Guamaní,"En vigencia",1188
+1189,San Juan,"En vigencia",1189
+1190,San Diego,"En vigencia",1190
+1191,La Libertad,"En vigencia",1191
+1192,San Diego,"En vigencia",1192
+1193,San Roque,"En vigencia",1193
+1194,Rumipamba,"En vigencia",1194
+1195,San Diego,"En vigencia",1195
+1196,San Diego,"En vigencia",1196
+1197,San Diego,"En vigencia",1197
+1198,San Diego,"En vigencia",1198
+1199,San Diego,"En vigencia",1199
+1200,San Diego,"En vigencia",1200
+1201,La Mena,"En vigencia",1201
+1202,San Diego,"En vigencia",1202
+1203,San Diego,"En vigencia",1203
+1204,Cotocollao,"En vigencia",1204
+1205,San Diego,"En vigencia",1205
+1206,Puengasí,"En vigencia",1206
+1207,Comité del Pueblo,"En vigencia",1207
+1208,Centro Histórico,"En vigencia",1208
+1209,Guamaní,"En vigencia",1209
+1210,San Diego,"En vigencia",1210
+1211,San Diego,"En vigencia",1211
+1212,Guamaní,"En vigencia",1212
+1213,San Diego,"En vigencia",1213
+1214,San Diego,"En vigencia",1214
+1215,San Roque,"En vigencia",1215
+1216,San Diego,"En vigencia",1216
+1217,San Diego,"En vigencia",1217
+1218,Solanda,"En vigencia",1218
+1219,San Diego,"En vigencia",1219
+1220,San Diego,"En vigencia",1220
+1221,San Diego,"En vigencia",1221
+1222,San Diego,"En vigencia",1222
+1223,San Diego,"En vigencia",1223
+1224,San Diego,"En vigencia",1224
+1225,San Roque,"En vigencia",1225
+1226,San Diego,"En vigencia",1226
+1227,San Roque,"En vigencia",1227
+1228,Cotocollao,"En vigencia",1228
+1229,Itchimbía,"No existe",1229
+1230,San Diego,"En vigencia",1230
+1231,San Diego,"En vigencia",1231
+1232,La Ecuatoriana,"En vigencia",1232
+1233,San Diego,"En vigencia",1233
+1234,Solanda,"En vigencia",1234
+1235,San Diego,"En vigencia",1235
+1236,San Diego,"En vigencia",1236
+1237,Chillogallo,"En vigencia",1237
+1238,Chilibulo,"En vigencia",1238
+1239,San Roque,"En vigencia",1239
+1240,San Diego,"En vigencia",1240
+1241,El Condado,"En vigencia",1241
+1242,Carcelén,"En vigencia",1242
+1243,San Diego,"En vigencia",1243
+1244,San Diego,"En vigencia",1244
+1245,San Diego,"En vigencia",1245
+1246,San Roque,"En vigencia",1246
+1247,San Diego,"En vigencia",1247
+1248,San Roque,"En vigencia",1248
+1249,San Diego,"En vigencia",1249
+1250,San Diego,"No existe",1250
+1251,San Diego,"En vigencia",1251
+1252,San Diego,"En vigencia",1252
+1253,Ponceano,"En vigencia",1253
+1254,San Diego,"En vigencia",1254
+1255,San Diego,"En vigencia",1255
+1256,San Diego,"En vigencia",1256
+1257,San Diego,"En vigencia",1257
+1258,La Mena,"En vigencia",1258
+1259,San Diego,"En vigencia",1259
+1260,La Ecuatoriana,"En vigencia",1260
+1261,San Diego,"En vigencia",1261
+1262,Cotocollao,"En vigencia",1262
+1263,San Diego,"En vigencia",1263
+1264,San Diego,"En vigencia",1264
+1265,San Diego,"En vigencia",1265
+1266,Itchimbía,"En vigencia",1266
+1267,San Roque,"En vigencia",1267
+1268,Carcelén,"En vigencia",1268
+1269,Chimbacalle,"En vigencia",1269
+1270,San Diego,"En vigencia",1270
+1271,Belisario Quevedo,"En vigencia",1271
+1272,San Diego,"En vigencia",1272
+1273,San Diego,"En vigencia",1273
+1274,San Diego,"En vigencia",1274
+1275,San Diego,"En vigencia",1275
+1276,San Diego,"En vigencia",1276
+1277,San Diego,"En vigencia",1277
+1278,San Diego,"En vigencia",1278
+1279,Iñaquito,"En vigencia",1279
+1280,Guamaní,"En vigencia",1280
+1281,Chilibulo,"En vigencia",1281
+1282,Itchimbía,"En vigencia",1282
+1283,San Diego,"No existe",1283
+1284,San Diego,"En vigencia",1284
+1285,San Roque,"En vigencia",1285
+1286,Solanda,"En vigencia",1286
+1287,San Diego,"En vigencia",1287
+1288,San Diego,"En vigencia",1288
+1289,Mariscal Sucre,"En vigencia",1289
+1290,San Diego,"En vigencia",1290
+1291,San Diego,"En vigencia",1291
+1292,San Diego,"En vigencia",1292
+1293,Solanda,"En vigencia",1293
+1294,San Diego,"En vigencia",1294
+1295,San Roque,"En vigencia",1295
+1296,La Concepción,"En vigencia",1296
+1297,La Magdalena,"No existe",1297
+1298,San Diego,"En vigencia",1298
+1299,San Diego,"En vigencia",1299
+1300,San Diego,"En vigencia",1300
+1301,San Roque,"En vigencia",1301
+1302,San Diego,"En vigencia",1302
+1303,San Diego,"En vigencia",1303
+1304,San Diego,"En vigencia",1304
+1305,Quitumbe,"En vigencia",1305
+1306,San Diego,"En vigencia",1306
+1307,San Diego,"En vigencia",1307
+1308,San Diego,"En vigencia",1308
+1309,San Diego,"En vigencia",1309
+1310,San Diego,"En vigencia",1310
+1311,San Diego,"En vigencia",1311
+1312,San Juan,"En vigencia",1312
+1313,La Ecuatoriana,"En vigencia",1313
+1314,San Diego,"En vigencia",1314
+1315,San Diego,"En vigencia",1315
+1316,San Diego,"No existe",1316
+1317,Solanda,"En vigencia",1317
+1318,San Diego,"En vigencia",1318
+1319,San Diego,"En vigencia",1319
+1320,Kennedy,"En vigencia",1320
+1321,La Concepción,"En vigencia",1321
+1322,San Diego,"En vigencia",1322
+1323,Belisario Quevedo,"En vigencia",1323
+1324,La Ferroviaria,"En vigencia",1324
+1325,San Diego,"En vigencia",1325
+1326,San Diego,"En vigencia",1326
+1327,San Diego,"En vigencia",1327
+1328,San Diego,"En vigencia",1328
+1329,San Diego,"En vigencia",1329
+1330,San Diego,"En vigencia",1330
+1331,San Diego,"En vigencia",1331
+1332,Iñaquito,"En vigencia",1332
+1333,San Diego,"En vigencia",1333
+1334,San Diego,"En vigencia",1334
+1335,San Diego,"En vigencia",1335
+1336,La Argelia,"En vigencia",1336
+1337,La Mena,"En vigencia",1337
+1338,San Juan,"En vigencia",1338
+1339,San Diego,"En vigencia",1339
+1340,Turubamba,"En vigencia",1340
+1341,Ponceano,"En vigencia",1341
+1342,Chilibulo,"En vigencia",1342
+1343,San Diego,"En vigencia",1343
+1344,Mariscal Sucre,"En vigencia",1344
+1345,San Diego,"No existe",1345
+1346,San Diego,"En vigencia",1346
+1347,San Diego,"En vigencia",1347
+1348,San Diego,"En vigencia",1348
+1349,San Diego,"En vigencia",1349
+1350,San Diego,"En vigencia",1350
+1351,San Diego,"En vigencia",1351
+1352,San Diego,"En vigencia",1352
+1353,San Diego,"En vigencia",1353
+1354,San Diego,"En vigencia",1354
+1355,San Roque,"En vigencia",1355
+1356,San Roque,"En vigencia",1356
+1357,San Diego,"En vigencia",1357
+1358,La Ecuatoriana,"En vigencia",1358
+1359,San Diego,"En vigencia",1359
+1360,Chimbacalle,"En vigencia",1360
+1361,Chilibulo,"En vigencia",1361
+1362,San Diego,"En vigencia",1362
+1363,San Diego,"En vigencia",1363
+1364,San Roque,"En vigencia",1364
+1365,San Diego,"En vigencia",1365
+1366,San Diego,"En vigencia",1366
+1367,San Diego,"En vigencia",1367
+1368,Comité del Pueblo,"En vigencia",1368
+1369,San Roque,"En vigencia",1369
+1370,San Diego,"En vigencia",1370
+1371,San Diego,"En vigencia",1371
+1372,San Diego,"En vigencia",1372
+1373,San Diego,"En vigencia",1373
+1374,San Diego,"En vigencia",1374
+1375,Turubamba,"No existe",1375
+1376,San Diego,"En vigencia",1376
+1377,San Diego,"En vigencia",1377
+1378,San Juan,"En vigencia",1378
+1379,Chimbacalle,"En vigencia",1379
+1380,San Diego,"En vigencia",1380
+1381,Belisario Quevedo,"En vigencia",1381
+1382,San Diego,"En vigencia",1382
+1383,San Roque,"En vigencia",1383
+1384,San Diego,"En vigencia",1384
+1385,San Diego,"En vigencia",1385
+1386,Chilibulo,"En vigencia",1386
+1387,San Diego,"En vigencia",1387
+1388,San Diego,"En vigencia",1388
+1389,Kennedy,"En vigencia",1389
+1390,San Diego,"En vigencia",1390
+1391,San Diego,"En vigencia",1391
+1392,San Diego,"En vigencia",1392
+1393,San Diego,"En vigencia",1393
+1394,San Diego,"En vigencia",1394
+1395,La Magdalena,"En vigencia",1395
+1396,Turubamba,"En vigencia",1396
+1397,San Diego,"En vigencia",1397
+1398,Carcelén,"En vigencia",1398
+1399,Guamaní,"En vigencia",1399
+1400,San Diego,"En vigencia",1400
+1401,La Mena,"En vigencia",1401
+1402,San Diego,"En vigencia",1402
+1403,San Diego,"No existe",1403
+1404,Puengasí,"En vigencia",1404
+1405,San Diego,"En vigencia",1405
+1406,San Roque,"En vigencia",1406
+1407,Chillogallo,"En vigencia",1407
+1408,San Diego,"En vigencia",1408
+1409,San Diego,"En vigencia",1409
+1410,San Diego,"En vigencia",1410
+1411,San Diego,"En vigencia",1411
+1412,Chimbacalle,"En vigencia",1412
+1413,San Diego,"No existe",1413
+1414,San Roque,"En vigencia",1414
+1415,San Diego,"En vigencia",1415
+1416,San Diego,"En vigencia",1416
+1417,San Diego,"En vigencia",1417
+1418,San Diego,"En vigencia",1418
+1419,San Diego,"En vigencia",1419
+1420,San Diego,"En vigencia",1420
+1421,San Diego,"En vigencia",1421
+1422,San Diego,"En vigencia",1422
+1423,San Diego,"En vigencia",1423
+1424,Rumipamba,"En vigencia",1424
+1425,Calderón,"En vigencia",1425
+1426,Chilibulo,"En vigencia",1426
+1427,San Diego,"No existe",1427
+1428,Cochapamba,"En vigencia",1428
+1429,Cochapamba,"En vigencia",1429
+1430,San Diego,"En vigencia",1430
+1431,Solanda,"En vigencia",1431
+1432,San Diego,"En vigencia",1432
+1433,San Diego,"En vigencia",1433
+1434,San Diego,"En vigencia",1434
+1435,San Diego,"En vigencia",1435
+1436,San Diego,"En vigencia",1436
+1437,San Diego,"En vigencia",1437
+1438,San Diego,"En vigencia",1438
+1439,San Diego,"En vigencia",1439
+1440,San Diego,"En vigencia",1440
+1441,San Diego,"En vigencia",1441
+1442,Guamaní,"En vigencia",1442
+1443,San Diego,"En vigencia",1443
+1444,San Roque,"En vigencia",1444
+1445,Guamaní,"En vigencia",1445
+1446,San Diego,"En vigencia",1446
+1447,San Diego,"En vigencia",1447
+1448,San Diego,"En vigencia",1448
+1449,San Roque,"En vigencia",1449
+1450,San Diego,"No existe",1450
+1451,La Ferroviaria,"En vigencia",1451
+1452,La Magdalena,"En vigencia",1452
+1453,Guamaní,"En vigencia",1453
+1454,San Diego,"No existe",1454
+1455,Puengasí,"En vigencia",1455
+1456,San Roque,"En vigencia",1456
+1457,Calderón,"En vigencia",1457
+1458,San Diego,"En vigencia",1458
+1459,Puengasí,"En vigencia",1459
+1460,San Diego,"En vigencia",1460
+1461,San Diego,"En vigencia",1461
+1462,San Diego,"En vigencia",1462
+1463,San Diego,"No existe",1463
+1464,San Diego,"En vigencia",1464
+1465,San Diego,"En vigencia",1465
+1466,San Roque,"En vigencia",1466
+1467,San Diego,"En vigencia",1467
+1468,Mariscal Sucre,"En vigencia",1468
+1469,San Diego,"En vigencia",1469
+1470,San Diego,"En vigencia",1470
+1471,San Diego,"En vigencia",1471
+1472,San Diego,"En vigencia",1472
+1473,San Diego,"En vigencia",1473
+1474,San Diego,"En vigencia",1474
+1475,San Diego,"En vigencia",1475
+1476,San Diego,"En vigencia",1476
+1477,Kennedy,"En vigencia",1477
+1478,Ponceano,"En vigencia",1478
+1479,San Roque,"En vigencia",1479
+1480,El Condado,"En vigencia",1480
+1481,San Diego,"En vigencia",1481
+1482,San Diego,"En vigencia",1482
+1483,San Diego,"En vigencia",1483
+1484,La Mena,"En vigencia",1484
+1485,San Diego,"En vigencia",1485
+1486,San Diego,"En vigencia",1486
+1487,San Diego,"En vigencia",1487
+1488,San Diego,"En vigencia",1488
+1489,San Diego,"En vigencia",1489
+1490,San Diego,"En vigencia",1490
+1491,La Libertad,"En vigencia",1491
+1492,San Diego,"En vigencia",1492
+1493,San Diego,"En vigencia",1493
+1494,San Diego,"En vigencia",1494
+1495,Guamaní,"En vigencia",1495
+1496,San Diego,"En vigencia",1496
+1497,San Diego,"En vigencia",1497
+1498,Carcelén,"En vigencia",1498
+1499,San Diego,"En vigencia",1499
+1500,Chillogallo,"En vigencia",1500
+1501,Belisario Quevedo,"En vigencia",1501
+1502,San Roque,"En vigencia",1502
+1503,San Diego,"En vigencia",1503
+1504,San Diego,"En vigencia",1504
+1505,San Roque,"En vigencia",1505
+1506,San Roque,"En vigencia",1506
+1507,Calderón,"En vigencia",1507
+1508,San Diego,"En vigencia",1508
+1509,San Diego,"En vigencia",1509
+1510,Turubamba,"En vigencia",1510
+1511,San Diego,"En vigencia",1511
+1512,San Roque,"En vigencia",1512
+1513,San Diego,"En vigencia",1513
+1514,San Roque,"En vigencia",1514
+1515,San Diego,"En vigencia",1515
+1516,San Diego,"No existe",1516
+1517,Cotocollao,"No existe",1517
+1518,San Roque,"En vigencia",1518
+1519,San Diego,"En vigencia",1519
+1520,Itchimbía,"En vigencia",1520
+1521,San Diego,"En vigencia",1521
+1522,San Diego,"En vigencia",1522
+1523,San Diego,"En vigencia",1523
+1524,San Roque,"En vigencia",1524
+1525,San Diego,"En vigencia",1525
+1526,San Diego,"En vigencia",1526
+1527,Centro Histórico,"En vigencia",1527
+1528,San Diego,"En vigencia",1528
+1529,Belisario Quevedo,"En vigencia",1529
+1530,Calderón,"En vigencia",1530
+1531,La Ecuatoriana,"En vigencia",1531
+1532,San Diego,"No existe",1532
+1533,La Mena,"En vigencia",1533
+1534,La Mena,"En vigencia",1534
+1535,San Diego,"En vigencia",1535
+1536,El Condado,"En vigencia",1536
+1537,San Diego,"En vigencia",1537
+1538,San Diego,"En vigencia",1538
+1539,San Diego,"En vigencia",1539
+1540,Belisario Quevedo,"En vigencia",1540
+1541,La Argelia,"En vigencia",1541
+1542,San Diego,"En vigencia",1542
+1543,Quitumbe,"En vigencia",1543
+1544,San Diego,"En vigencia",1544
+1545,San Diego,"En vigencia",1545
+1546,San Diego,"En vigencia",1546
+1547,La Argelia,"En vigencia",1547
+1548,San Diego,"En vigencia",1548
+1549,San Diego,"En vigencia",1549
+1550,Comité del Pueblo,"En vigencia",1550
+1551,La Argelia,"En vigencia",1551
+1552,San Roque,"En vigencia",1552
+1553,San Roque,"En vigencia",1553
+1554,San Diego,"En vigencia",1554
+1555,Chimbacalle,"En vigencia",1555
+1556,Turubamba,"En vigencia",1556
+1557,San Bartolo,"En vigencia",1557
+1558,Chillogallo,"En vigencia",1558
+1559,San Diego,"En vigencia",1559
+1560,San Diego,"En vigencia",1560
+1561,San Diego,"En vigencia",1561
+1562,San Diego,"En vigencia",1562
+1563,El Condado,"En vigencia",1563
+1564,San Diego,"En vigencia",1564
+1565,La Argelia,"En vigencia",1565
+1566,San Diego,"En vigencia",1566
+1567,Chillogallo,"En vigencia",1567
+1568,San Diego,"En vigencia",1568
+1569,San Diego,"En vigencia",1569
+1570,San Diego,"No existe",1570
+1571,La Mena,"En vigencia",1571
+1572,San Bartolo,"En vigencia",1572
+1573,San Diego,"En vigencia",1573
+1574,La Magdalena,"En vigencia",1574
+1575,Comité del Pueblo,"En vigencia",1575
+1576,La Ecuatoriana,"En vigencia",1576
+1577,San Diego,"En vigencia",1577
+1578,San Diego,"En vigencia",1578
+1579,San Diego,"En vigencia",1579
+1580,San Bartolo,"En vigencia",1580
+1581,La Ferroviaria,"En vigencia",1581
+1582,Comité del Pueblo,"En vigencia",1582
+1583,San Diego,"En vigencia",1583
+1584,Belisario Quevedo,"En vigencia",1584
+1585,San Diego,"En vigencia",1585
+1586,San Diego,"En vigencia",1586
+1587,San Diego,"En vigencia",1587
+1588,San Roque,"En vigencia",1588
+1589,Chimbacalle,"En vigencia",1589
+1590,San Diego,"En vigencia",1590
+1591,Cotocollao,"En vigencia",1591
+1592,San Diego,"En vigencia",1592
+1593,San Roque,"En vigencia",1593
+1594,El Condado,"En vigencia",1594
+1595,San Diego,"En vigencia",1595
+1596,San Diego,"En vigencia",1596
+1597,San Diego,"En vigencia",1597
+1598,San Diego,"En vigencia",1598
+1599,San Diego,"En vigencia",1599
+1600,San Diego,"En vigencia",1600
+1601,Quitumbe,"En vigencia",1601
+1602,Kennedy,"En vigencia",1602
+1603,San Diego,"En vigencia",1603
+1604,San Diego,"En vigencia",1604
+1605,Puengasí,"En vigencia",1605
+1606,Puengasí,"En vigencia",1606
+1607,San Diego,"En vigencia",1607
+1608,Rumipamba,"En vigencia",1608
+1609,San Diego,"En vigencia",1609
+1610,San Diego,"En vigencia",1610
+1611,San Diego,"En vigencia",1611
+1612,San Diego,"En vigencia",1612
+1613,San Juan,"En vigencia",1613
+1614,Chillogallo,"En vigencia",1614
+1615,San Diego,"En vigencia",1615
+1616,San Diego,"En vigencia",1616
+1617,San Diego,"En vigencia",1617
+1618,San Diego,"En vigencia",1618
+1619,Cotocollao,"En vigencia",1619
+1620,Itchimbía,"En vigencia",1620
+1621,San Diego,"En vigencia",1621
+1622,Solanda,"En vigencia",1622
+1623,San Diego,"En vigencia",1623
+1624,La Ferroviaria,"En vigencia",1624
+1625,Guamaní,"En vigencia",1625
+1626,San Roque,"En vigencia",1626
+1627,San Roque,"En vigencia",1627
+1628,San Diego,"En vigencia",1628
+1629,San Diego,"En vigencia",1629
+1630,San Diego,"En vigencia",1630
+1631,San Diego,"En vigencia",1631
+1632,San Roque,"En vigencia",1632
+1633,San Diego,"En vigencia",1633
+1634,San Diego,"En vigencia",1634
+1635,Guamaní,"En vigencia",1635
+1636,La Magdalena,"En vigencia",1636
+1637,San Diego,"En vigencia",1637
+1638,La Libertad,"En vigencia",1638
+1639,San Diego,"En vigencia",1639
+1640,San Diego,"En vigencia",1640
+1641,Jipijapa,"En vigencia",1641
+1642,San Roque,"En vigencia",1642
+1643,San Diego,"En vigencia",1643
+1644,San Bartolo,"En vigencia",1644
+1645,Puengasí,"En vigencia",1645
+1646,San Diego,"En vigencia",1646
+1647,Chilibulo,"En vigencia",1647
+1648,San Roque,"En vigencia",1648
+1649,San Juan,"En vigencia",1649
+1650,San Diego,"En vigencia",1650
+1651,San Diego,"En vigencia",1651
+1652,San Juan,"En vigencia",1652
+1653,Chimbacalle,"En vigencia",1653
+1654,San Diego,"En vigencia",1654
+1655,La Ecuatoriana,"En vigencia",1655
+1656,San Diego,"En vigencia",1656
+1657,Jipijapa,"En vigencia",1657
+1658,San Diego,"En vigencia",1658
+1659,La Libertad,"En vigencia",1659
+1660,San Diego,"En vigencia",1660
+1661,San Diego,"No existe",1661
+1662,San Diego,"En vigencia",1662
+1663,San Diego,"En vigencia",1663
+1664,San Diego,"En vigencia",1664
+1665,San Diego,"En vigencia",1665
+1666,La Magdalena,"En vigencia",1666
+1667,Itchimbía,"En vigencia",1667
+1668,Ponceano,"En vigencia",1668
+1669,Chilibulo,"En vigencia",1669
+1670,Turubamba,"En vigencia",1670
+1671,San Diego,"En vigencia",1671
+1672,San Diego,"En vigencia",1672
+1673,Guamaní,"En vigencia",1673
+1674,San Diego,"En vigencia",1674
+1675,San Diego,"En vigencia",1675
+1676,San Diego,"En vigencia",1676
+1677,La Mena,"En vigencia",1677
+1678,San Diego,"En vigencia",1678
+1679,San Diego,"En vigencia",1679
+1680,San Diego,"En vigencia",1680
+1681,San Roque,"En vigencia",1681
+1682,San Diego,"En vigencia",1682
+1683,La Magdalena,"En vigencia",1683
+1684,El Condado,"En vigencia",1684
+1685,San Diego,"En vigencia",1685
+1686,San Diego,"En vigencia",1686
+1687,Belisario Quevedo,"En vigencia",1687
+1688,San Diego,"En vigencia",1688
+1689,San Diego,"En vigencia",1689
+1690,San Diego,"En vigencia",1690
+1691,San Diego,"En vigencia",1691
+1692,San Diego,"En vigencia",1692
+1693,San Diego,"En vigencia",1693
+1694,San Diego,"En vigencia",1694
+1695,La Concepción,"En vigencia",1695
+1696,San Diego,"En vigencia",1696
+1697,San Diego,"En vigencia",1697
+1698,San Diego,"En vigencia",1698
+1699,San Diego,"En vigencia",1699
+1700,San Diego,"En vigencia",1700
+1701,San Diego,"En vigencia",1701
+1702,San Diego,"En vigencia",1702
+1703,San Diego,"En vigencia",1703
+1704,San Diego,"En vigencia",1704
+1705,San Diego,"En vigencia",1705
+1706,San Diego,"En vigencia",1706
+1707,La Magdalena,"En vigencia",1707
+1708,San Roque,"En vigencia",1708
+1709,San Diego,"En vigencia",1709
+1710,San Diego,"En vigencia",1710
+1711,Centro Histórico,"En vigencia",1711
+1712,Mariscal Sucre,"En vigencia",1712
+1713,San Diego,"En vigencia",1713
+1714,La Concepción,"En vigencia",1714
+1715,Rumipamba,"En vigencia",1715
+1716,San Diego,"En vigencia",1716
+1717,San Diego,"En vigencia",1717
+1718,San Diego,"En vigencia",1718
+1719,La Mena,"En vigencia",1719
+1720,San Diego,"En vigencia",1720
+1721,San Diego,"En vigencia",1721
+1722,San Diego,"No existe",1722
+1723,San Roque,"En vigencia",1723
+1724,Rumipamba,"En vigencia",1724
+1725,Guamaní,"En vigencia",1725
+1726,La Argelia,"En vigencia",1726
+1727,San Diego,"En vigencia",1727
+1728,San Diego,"En vigencia",1728
+1729,San Diego,"En vigencia",1729
+1730,San Diego,"No existe",1730
+1731,San Diego,"En vigencia",1731
+1732,La Ferroviaria,"En vigencia",1732
+1733,La Argelia,"En vigencia",1733
+1734,San Diego,"En vigencia",1734
+1735,Chilibulo,"En vigencia",1735
+1736,San Diego,"En vigencia",1736
+1737,San Roque,"En vigencia",1737
+1738,San Diego,"En vigencia",1738
+1739,San Diego,"En vigencia",1739
+1740,Jipijapa,"En vigencia",1740
+1741,San Roque,"En vigencia",1741
+1742,San Diego,"En vigencia",1742
+1743,San Diego,"En vigencia",1743
+1744,Rumipamba,"En vigencia",1744
+1745,San Diego,"En vigencia",1745
+1746,La Magdalena,"En vigencia",1746
+1747,San Diego,"En vigencia",1747
+1748,San Diego,"En vigencia",1748
+1749,La Argelia,"En vigencia",1749
+1750,San Diego,"En vigencia",1750
+1751,San Diego,"En vigencia",1751
+1752,San Roque,"En vigencia",1752
+1753,San Diego,"En vigencia",1753
+1754,San Diego,"En vigencia",1754
+1755,San Roque,"En vigencia",1755
+1756,San Diego,"En vigencia",1756
+1757,San Diego,"En vigencia",1757
+1758,La Ecuatoriana,"En vigencia",1758
+1759,San Diego,"En vigencia",1759
+1760,El Condado,"En vigencia",1760
+1761,La Concepción,"En vigencia",1761
+1762,San Diego,"En vigencia",1762
+1763,San Diego,"En vigencia",1763
+1764,San Diego,"En vigencia",1764
+1765,San Diego,"En vigencia",1765
+1766,San Roque,"En vigencia",1766
+1767,San Diego,"En vigencia",1767
+1768,Chilibulo,"En vigencia",1768
+1769,La Mena,"En vigencia",1769
+1770,San Diego,"En vigencia",1770
+1771,San Diego,"En vigencia",1771
+1772,San Diego,"En vigencia",1772
+1773,Centro Histórico,"En vigencia",1773
+1774,San Diego,"En vigencia",1774
+1775,San Diego,"En vigencia",1775
+1776,San Diego,"En vigencia",1776
+1777,Turubamba,"En vigencia",1777
+1778,Rumipamba,"En vigencia",1778
+1779,San Diego,"En vigencia",1779
+1780,San Roque,"En vigencia",1780
+1781,San Diego,"En vigencia",1781
+1782,San Diego,"En vigencia",1782
+1783,Chimbacalle,"En vigencia",1783
+1784,La Argelia,"En vigencia",1784
+1785,San Diego,"En vigencia",1785
+1786,Cochapamba,"En vigencia",1786
+1787,San Diego,"En vigencia",1787
+1788,La Argelia,"En vigencia",1788
+1789,San Diego,"En vigencia",1789
+1790,Kennedy,"En vigencia",1790
+1791,San Diego,"En vigencia",1791
+1792,Itchimbía,"En vigencia",1792
+1793,Comité del Pueblo,"En vigencia",1793
+1794,San Diego,"En vigencia",1794
+1795,San Diego,"En vigencia",1795
+1796,San Diego,"En vigencia",1796
+1797,La Magdalena,"En vigencia",1797
+1798,Puengasí,"En vigencia",1798
+1799,San Diego,"En vigencia",1799
+1800,San Roque,"En vigencia",1800
+1801,San Diego,"En vigencia",1801
+1802,La Concepción,"No existe",1802
+1803,San Diego,"En vigencia",1803
+1804,San Diego,"En vigencia",1804
+1805,San Diego,"En vigencia",1805
+1806,San Diego,"En vigencia",1806
+1807,Calderón,"En vigencia",1807
+1808,Guamaní,"En vigencia",1808
+1809,San Diego,"En vigencia",1809
+1810,San Diego,"En vigencia",1810
+1811,San Diego,"En vigencia",1811
+1812,El Condado,"En vigencia",1812
+1813,San Diego,"En vigencia",1813
+1814,San Diego,"En vigencia",1814
+1815,San Diego,"En vigencia",1815
+1816,San Juan,"En vigencia",1816
+1817,San Diego,"En vigencia",1817
+1818,San Diego,"En vigencia",1818
+1819,Ponceano,"En vigencia",1819
+1820,Jipijapa,"En vigencia",1820
+1821,San Diego,"En vigencia",1821
+1822,Calderón,"En vigencia",1822
+1823,San Diego,"En vigencia",1823
+1824,San Roque,"En vigencia",1824
+1825,San Diego,"En vigencia",1825
+1826,San Diego,"En vigencia",1826
+1827,Chimbacalle,"En vigencia",1827
+1828,San Diego,"En vigencia",1828
+1829,San Diego,"En vigencia",1829
+1830,San Diego,"En vigencia",1830
+1831,San Diego,"En vigencia",1831
+1832,San Diego,"En vigencia",1832
+1833,San Diego,"En vigencia",1833
+1834,San Diego,"En vigencia",1834
+1835,San Roque,"En vigencia",1835
+1836,San Diego,"En vigencia",1836
+1837,San Diego,"En vigencia",1837
+1838,San Diego,"En vigencia",1838
+1839,San Roque,"En vigencia",1839
+1840,San Diego,"En vigencia",1840
+1841,San Diego,"En vigencia",1841
+1842,San Diego,"En vigencia",1842
+1843,La Magdalena,"En vigencia",1843
+1844,San Diego,"En vigencia",1844
+1845,La Magdalena,"En vigencia",1845
+1846,Jipijapa,"En vigencia",1846
+1847,San Roque,"En vigencia",1847
+1848,Belisario Quevedo,"En vigencia",1848
+1849,San Diego,"En vigencia",1849
+1850,Belisario Quevedo,"En vigencia",1850
+1851,San Diego,"En vigencia",1851
+1852,San Diego,"En vigencia",1852
+1853,San Diego,"En vigencia",1853
+1854,San Roque,"En vigencia",1854
+1855,La Ferroviaria,"En vigencia",1855
+1856,San Diego,"En vigencia",1856
+1857,San Diego,"En vigencia",1857
+1858,San Diego,"En vigencia",1858
+1859,San Diego,"En vigencia",1859
+1860,San Diego,"En vigencia",1860
+1861,San Diego,"En vigencia",1861
+1862,San Diego,"En vigencia",1862
+1863,San Diego,"En vigencia",1863
+1864,Centro Histórico,"En vigencia",1864
+1865,San Diego,"En vigencia",1865
+1866,San Diego,"En vigencia",1866
+1867,San Roque,"No existe",1867
+1868,El Condado,"En vigencia",1868
+1869,Belisario Quevedo,"En vigencia",1869
+1870,San Diego,"En vigencia",1870
+1871,Comité del Pueblo,"En vigencia",1871
+1872,San Diego,"En vigencia",1872
+1873,San Juan,"En vigencia",1873
+1874,San Diego,"En vigencia",1874
+1875,San Diego,"En vigencia",1875
+1876,Calderón,"En vigencia",1876
+1877,San Diego,"En vigencia",1877
+1878,San Diego,"En vigencia",1878
+1879,Cotocollao,"En vigencia",1879
+1880,Ponceano,"En vigencia",1880
+1881,Calderón,"En vigencia",1881
+1882,San Diego,"En vigencia",1882
+1883,San Diego,"En vigencia",1883
+1884,San Diego,"En vigencia",1884
+1885,La Mena,"En vigencia",1885
+1886,San Diego,"En vigencia",1886
+1887,San Diego,"En vigencia",1887
+1888,San Diego,"En vigencia",1888
+1889,San Diego,"En vigencia",1889
+1890,Puengasí,"En vigencia",1890
+1891,San Diego,"En vigencia",1891
+1892,Rumipamba,"En vigencia",1892
+1893,San Diego,"En vigencia",1893
+1894,Puengasí,"No existe",1894
+1895,San Diego,"En vigencia",1895
+1896,Puengasí,"En vigencia",1896
+1897,San Diego,"En vigencia",1897
+1898,San Diego,"En vigencia",1898
+1899,San Diego,"En vigencia",1899
+1900,San Diego,"En vigencia",1900
+1901,San Diego,"En vigencia",1901
+1902,San Diego,"En vigencia",1902
+1903,San Diego,"En vigencia",1903
+1904,San Diego,"En vigencia",1904
+1905,Belisario Quevedo,"En vigencia",1905
+1906,Cotocollao,"En vigencia",1906
+1907,San Diego,"No existe",1907
+1908,San Diego,"En vigencia",1908
+1909,San Diego,"En vigencia",1909
+1910,San Diego,"En vigencia",1910
+1911,San Diego,"En vigencia",1911
+1912,San Roque,"En vigencia",1912
+1913,San Diego,"En vigencia",1913
+1914,San Diego,"En vigencia",1914
+1915,San Diego,"En vigencia",1915
+1916,La Ecuatoriana,"En vigencia",1916
+1917,San Diego,"En vigencia",1917
+1918,San Diego,"En vigencia",1918
+1919,Turubamba,"En vigencia",1919
+1920,San Diego,"En vigencia",1920
+1921,San Diego,"En vigencia",1921
+1922,San Diego,"En vigencia",1922
+1923,San Diego,"En vigencia",1923
+1924,San Diego,"En vigencia",1924
+1925,San Diego,"En vigencia",1925
+1926,Carcelén,"En vigencia",1926
+1927,San Roque,"En vigencia",1927
+1928,San Diego,"En vigencia",1928
+1929,Chilibulo,"En vigencia",1929
+1930,San Diego,"En vigencia",1930
+1931,San Diego,"En vigencia",1931
+1932,Calderón,"En vigencia",1932
+1933,Mariscal Sucre,"En vigencia",1933
+1934,San Roque,"En vigencia",1934
+1935,San Roque,"En vigencia",1935
+1936,Rumipamba,"En vigencia",1936
+1937,La Argelia,"En vigencia",1937
+1938,Chillogallo,"En vigencia",1938
+1939,San Diego,"En vigencia",1939
+1940,Calderón,"En vigencia",1940
+1941,San Diego,"En vigencia",1941
+1942,San Diego,"En vigencia",1942
+1943,San Diego,"En vigencia",1943
+1944,San Diego,"En vigencia",1944
+1945,San Diego,"En vigencia",1945
+1946,Mariscal Sucre,"En vigencia",1946
+1947,San Diego,"En vigencia",1947
+1948,La Mena,"En vigencia",1948
+1949,Calderón,"En vigencia",1949
+1950,Mariscal Sucre,"En vigencia",1950
+1951,Jipijapa,"En vigencia",1951
+1952,La Mena,"En vigencia",1952
+1953,San Diego,"En vigencia",1953
+1954,San Diego,"En vigencia",1954
+1955,San Diego,"En vigencia",1955
+1956,Ponceano,"En vigencia",1956
+1957,San Diego,"En vigencia",1957
+1958,La Ferroviaria,"En vigencia",1958
+1959,Mariscal Sucre,"En vigencia",1959
+1960,Ponceano,"En vigencia",1960
+1961,San Juan,"En vigencia",1961
+1962,San Diego,"En vigencia",1962
+1963,San Diego,"En vigencia",1963
+1964,San Juan,"En vigencia",1964
+1965,San Diego,"En vigencia",1965
+1966,San Diego,"En vigencia",1966
+1967,San Diego,"En vigencia",1967
+1968,San Roque,"En vigencia",1968
+1969,Puengasí,"En vigencia",1969
+1970,San Diego,"En vigencia",1970
+1971,San Diego,"En vigencia",1971
+1972,San Roque,"En vigencia",1972
+1973,San Diego,"En vigencia",1973
+1974,San Diego,"En vigencia",1974
+1975,Kennedy,"En vigencia",1975
+1976,San Diego,"En vigencia",1976
+1977,Chillogallo,"En vigencia",1977
+1978,Chilibulo,"En vigencia",1978
+1979,San Diego,"En vigencia",1979
+1980,San Bartolo,"En vigencia",1980
+1981,San Diego,"En vigencia",1981
+1982,San Diego,"En vigencia",1982
+1983,San Roque,"En vigencia",1983
+1984,La Ecuatoriana,"En vigencia",1984
+1985,Solanda,"En vigencia",1985
+1986,San Diego,"En vigencia",1986
+1987,Rumipamba,"En vigencia",1987
+1988,Cochapamba,"En vigencia",1988
+1989,La Mena,"En vigencia",1989
+1990,Rumipamba,"En vigencia",1990
+1991,San Diego,"En vigencia",1991
+1992,Iñaquito,"En vigencia",1992
+1993,Kennedy,"En vigencia",1993
+1994,San Roque,"En vigencia",1994
+1995,San Diego,"En vigencia",1995
+1996,San Diego,"En vigencia",1996
+1997,San Diego,"En vigencia",1997
+1998,San Diego,"En vigencia",1998
+1999,San Diego,"En vigencia",1999
+2000,San Diego,"En vigencia",2000
+2001,San Diego,"En vigencia",2001
+2002,Comité del Pueblo,"En vigencia",2002
+2003,Iñaquito,"En vigencia",2003
+2004,San Diego,"En vigencia",2004
+2005,Centro Histórico,"En vigencia",2005
+2006,San Diego,"En vigencia",2006
+2007,Solanda,"En vigencia",2007
+2008,San Diego,"En vigencia",2008
+2009,San Diego,"En vigencia",2009
+2010,San Diego,"En vigencia",2010
+2011,San Diego,"En vigencia",2011
+2012,San Diego,"En vigencia",2012
+2013,Itchimbía,"En vigencia",2013
+2014,San Diego,"En vigencia",2014
+2015,San Diego,"En vigencia",2015
+2016,San Diego,"En vigencia",2016
+2017,San Diego,"En vigencia",2017
+2018,San Diego,"En vigencia",2018
+2019,Carcelén,"En vigencia",2019
+2020,San Diego,"En vigencia",2020
+2021,San Roque,"En vigencia",2021
+2022,La Magdalena,"En vigencia",2022
+2023,San Roque,"En vigencia",2023
+2024,La Ferroviaria,"En vigencia",2024
+2025,San Diego,"No existe",2025
+2026,Chilibulo,"En vigencia",2026
+2027,San Diego,"En vigencia",2027
+2028,San Diego,"En vigencia",2028
+2029,San Diego,"En vigencia",2029
+2030,San Diego,"En vigencia",2030
+2031,San Roque,"En vigencia",2031
+2032,San Diego,"En vigencia",2032
+2033,San Diego,"En vigencia",2033
+2034,Calderón,"En vigencia",2034
+2035,San Roque,"En vigencia",2035
+2036,San Roque,"En vigencia",2036
+2037,San Diego,"En vigencia",2037
+2038,Puengasí,"En vigencia",2038
+2039,Rumipamba,"En vigencia",2039
+2040,San Diego,"En vigencia",2040
+2041,San Diego,"En vigencia",2041
+2042,San Diego,"En vigencia",2042
+2043,San Diego,"En vigencia",2043
+2044,San Roque,"En vigencia",2044
+2045,San Diego,"En vigencia",2045
+2046,San Diego,"En vigencia",2046
+2047,Comité del Pueblo,"En vigencia",2047
+2048,El Condado,"En vigencia",2048
+2049,Quitumbe,"En vigencia",2049
+2050,San Diego,"En vigencia",2050
+2051,Mariscal Sucre,"En vigencia",2051
+2052,San Diego,"En vigencia",2052
+2053,Iñaquito,"En vigencia",2053
+2054,San Diego,"En vigencia",2054
+2055,San Diego,"En vigencia",2055
+2056,San Diego,"En vigencia",2056
+2057,San Roque,"En vigencia",2057
+2058,San Diego,"En vigencia",2058
+2059,San Diego,"En vigencia",2059
+2060,San Diego,"En vigencia",2060
+2061,San Diego,"En vigencia",2061
+2062,San Diego,"En vigencia",2062
+2063,San Roque,"En vigencia",2063
+2064,San Diego,"En vigencia",2064
+2065,San Diego,"En vigencia",2065
+2066,San Diego,"En vigencia",2066
+2067,San Diego,"En vigencia",2067
+2068,San Diego,"En vigencia",2068
+2069,Itchimbía,"En vigencia",2069
+2070,San Roque,"En vigencia",2070
+2071,Chilibulo,"En vigencia",2071
+2072,San Diego,"En vigencia",2072
+2073,San Roque,"En vigencia",2073
+2074,San Diego,"En vigencia",2074
+2075,Itchimbía,"En vigencia",2075
+2076,San Diego,"En vigencia",2076
+2077,San Diego,"En vigencia",2077
+2078,San Diego,"En vigencia",2078
+2079,Itchimbía,"En vigencia",2079
+2080,San Roque,"En vigencia",2080
+2081,San Diego,"En vigencia",2081
+2082,San Diego,"En vigencia",2082
+2083,San Diego,"En vigencia",2083
+2084,San Diego,"En vigencia",2084
+2085,La Magdalena,"En vigencia",2085
+2086,San Diego,"En vigencia",2086
+2087,San Diego,"En vigencia",2087
+2088,San Diego,"En vigencia",2088
+2089,San Diego,"En vigencia",2089
+2090,Carcelén,"En vigencia",2090
+2091,San Diego,"No existe",2091
+2092,San Diego,"En vigencia",2092
+2093,San Diego,"En vigencia",2093
+2094,San Diego,"En vigencia",2094
+2095,San Juan,"En vigencia",2095
+2096,San Diego,"En vigencia",2096
+2097,San Diego,"En vigencia",2097
+2098,San Diego,"En vigencia",2098
+2099,San Diego,"En vigencia",2099
+2100,Mariscal Sucre,"En vigencia",2100
+2101,San Roque,"En vigencia",2101
+2102,San Roque,"En vigencia",2102
+2103,Centro Histórico,"En vigencia",2103
+2104,San Diego,"En vigencia",2104
+2105,La Libertad,"En vigencia",2105
+2106,San Diego,"No existe",2106
+2107,San Diego,"En vigencia",2107
+2108,San Diego,"En vigencia",2108
+2109,San Diego,"En vigencia",2109
+2110,San Diego,"En vigencia",2110
+2111,San Roque,"En vigencia",2111
+2112,San Diego,"En vigencia",2112
+2113,San Diego,"En vigencia",2113
+2114,San Roque,"En vigencia",2114
+2115,San Diego,"En vigencia",2115
+2116,San Diego,"En vigencia",2116
+2117,San Diego,"En vigencia",2117
+2118,San Diego,"En vigencia",2118
+2119,San Diego,"En vigencia",2119
+2120,Cochapamba,"En vigencia",2120
+2121,San Diego,"No existe",2121
+2122,San Diego,"En vigencia",2122
+2123,San Diego,"En vigencia",2123
+2124,San Diego,"En vigencia",2124
+2125,San Diego,"En vigencia",2125
+2126,San Diego,"No existe",2126
+2127,Mariscal Sucre,"En vigencia",2127
+2128,San Diego,"En vigencia",2128
+2129,San Diego,"En vigencia",2129
+2130,San Diego,"En vigencia",2130
+2131,Solanda,"En vigencia",2131
+2132,Cochapamba,"En vigencia",2132
+2133,San Diego,"En vigencia",2133
+2134,San Diego,"En vigencia",2134
+2135,San Diego,"En vigencia",2135
+2136,Comité del Pueblo,"En vigencia",2136
+2137,San Roque,"En vigencia",2137
+2138,San Diego,"En vigencia",2138
+2139,San Diego,"En vigencia",2139
+2140,San Roque,"En vigencia",2140
+2141,San Diego,"En vigencia",2141
+2142,San Diego,"En vigencia",2142
+2143,Puengasí,"En vigencia",2143
+2144,El Condado,"En vigencia",2144
+2145,La Libertad,"En vigencia",2145
+2146,San Diego,"En vigencia",2146
+2147,San Diego,"En vigencia",2147
+2148,San Diego,"En vigencia",2148
+2149,San Diego,"En vigencia",2149
+2150,San Roque,"En vigencia",2150
+2151,San Diego,"En vigencia",2151
+2152,La Concepción,"No existe",2152
+2153,San Diego,"En vigencia",2153
+2154,San Diego,"En vigencia",2154
+2155,San Diego,"En vigencia",2155
+2156,San Diego,"En vigencia",2156
+2157,San Diego,"En vigencia",2157
+2158,San Diego,"En vigencia",2158
+2159,San Diego,"En vigencia",2159
+2160,San Roque,"En vigencia",2160
+2161,San Diego,"En vigencia",2161
+2162,San Diego,"En vigencia",2162
+2163,San Diego,"En vigencia",2163
+2164,San Diego,"En vigencia",2164
+2165,San Diego,"En vigencia",2165
+2166,Chilibulo,"En vigencia",2166
+2167,San Diego,"En vigencia",2167
+2168,La Argelia,"En vigencia",2168
+2169,San Diego,"En vigencia",2169
+2170,San Diego,"En vigencia",2170
+2171,San Diego,"En vigencia",2171
+2172,San Diego,"En vigencia",2172
+2173,San Diego,"En vigencia",2173
+2174,San Diego,"En vigencia",2174
+2175,La Magdalena,"En vigencia",2175
+2176,Iñaquito,"En vigencia",2176
+2177,San Diego,"En vigencia",2177
+2178,Mariscal Sucre,"En vigencia",2178
+2179,San Diego,"En vigencia",2179
+2180,San Diego,"En vigencia",2180
+2181,Chilibulo,"En vigencia",2181
+2182,San Diego,"En vigencia",2182
+2183,San Diego,"En vigencia",2183
+2184,San Diego,"En vigencia",2184
+2185,San Diego,"En vigencia",2185
+2186,San Diego,"En vigencia",2186
+2187,Kennedy,"En vigencia",2187
+2188,San Diego,"En vigencia",2188
+2189,San Diego,"En vigencia",2189
+2190,La Ferroviaria,"En vigencia",2190
+2191,San Diego,"En vigencia",2191
+2192,San Diego,"En vigencia",2192
+2193,San Diego,"En vigencia",2193
+2194,La Magdalena,"En vigencia",2194
+2195,San Bartolo,"En vigencia",2195
+2196,San Diego,"En vigencia",2196
+2197,Puengasí,"En vigencia",2197
+2198,San Diego,"En vigencia",2198
+2199,San Diego,"En vigencia",2199
+2200,Iñaquito,"En vigencia",2200
+2201,San Diego,"En vigencia",2201
+2202,San Roque,"En vigencia",2202
+2203,La Ecuatoriana,"En vigencia",2203
+2204,San Diego,"En vigencia",2204
+2205,San Roque,"En vigencia",2205
+2206,Guamaní,"En vigencia",2206
+2207,San Diego,"En vigencia",2207
+2208,San Roque,"En vigencia",2208
+2209,La Argelia,"En vigencia",2209
+2210,Puengasí,"En vigencia",2210
+2211,San Diego,"En vigencia",2211
+2212,San Diego,"En vigencia",2212
+2213,San Diego,"En vigencia",2213
+2214,San Diego,"En vigencia",2214
+2215,San Diego,"En vigencia",2215
+2216,San Roque,"En vigencia",2216
+2217,San Diego,"En vigencia",2217
+2218,La Ferroviaria,"En vigencia",2218
+2219,Turubamba,"En vigencia",2219
+2220,San Roque,"En vigencia",2220
+2221,San Diego,"En vigencia",2221
+2222,Guamaní,"En vigencia",2222
+2223,San Diego,"En vigencia",2223
+2224,Chillogallo,"En vigencia",2224
+2225,Chillogallo,"En vigencia",2225
+2226,San Diego,"En vigencia",2226
+2227,San Diego,"En vigencia",2227
+2228,San Diego,"En vigencia",2228
+2229,San Diego,"En vigencia",2229
+2230,San Diego,"En vigencia",2230
+2231,San Diego,"En vigencia",2231
+2232,San Diego,"En vigencia",2232
+2233,San Roque,"En vigencia",2233
+2234,San Diego,"En vigencia",2234
+2235,San Diego,"En vigencia",2235
+2236,San Diego,"En vigencia",2236
+2237,Calderón,"En vigencia",2237
+2238,San Diego,"En vigencia",2238
+2239,La Mena,"En vigencia",2239
+2240,San Diego,"En vigencia",2240
+2241,San Diego,"En vigencia",2241
+2242,Belisario Quevedo,"En vigencia",2242
+2243,San Diego,"En vigencia",2243
+2244,La Magdalena,"En vigencia",2244
+2245,San Diego,"En vigencia",2245
+2246,San Diego,"En vigencia",2246
+2247,La Ecuatoriana,"En vigencia",2247
+2248,San Roque,"En vigencia",2248
+2249,Iñaquito,"En vigencia",2249
+2250,San Diego,"En vigencia",2250
+2251,San Diego,"En vigencia",2251
+2252,San Diego,"En vigencia",2252
+2253,San Diego,"En vigencia",2253
+2254,San Diego,"En vigencia",2254
+2255,La Ferroviaria,"En vigencia",2255
+2256,San Diego,"En vigencia",2256
+2257,La Concepción,"En vigencia",2257
+2258,San Diego,"En vigencia",2258
+2259,San Diego,"En vigencia",2259
+2260,Kennedy,"En vigencia",2260
+2261,San Diego,"En vigencia",2261
+2262,San Diego,"En vigencia",2262
+2263,San Diego,"En vigencia",2263
+2264,San Diego,"En vigencia",2264
+2265,San Diego,"En vigencia",2265
+2266,San Diego,"En vigencia",2266
+2267,San Diego,"En vigencia",2267
+2268,San Diego,"En vigencia",2268
+2269,San Diego,"En vigencia",2269
+2270,San Juan,"En vigencia",2270
+2271,San Juan,"En vigencia",2271
+2272,San Diego,"En vigencia",2272
+2273,La Magdalena,"En vigencia",2273
+2274,San Diego,"En vigencia",2274
+2275,San Diego,"En vigencia",2275
+2276,San Diego,"En vigencia",2276
+2277,San Bartolo,"En vigencia",2277
+2278,La Ferroviaria,"En vigencia",2278
+2279,San Diego,"En vigencia",2279
+2280,San Bartolo,"En vigencia",2280
+2281,San Diego,"En vigencia",2281
+2282,Chillogallo,"En vigencia",2282
+2283,San Diego,"En vigencia",2283
+2284,San Diego,"En vigencia",2284
+2285,San Diego,"En vigencia",2285
+2286,Turubamba,"En vigencia",2286
+2287,San Diego,"En vigencia",2287
+2288,San Diego,"En vigencia",2288
+2289,San Diego,"En vigencia",2289
+2290,San Diego,"En vigencia",2290
+2291,Guamaní,"En vigencia",2291
+2292,San Diego,"En vigencia",2292
+2293,Guamaní,"En vigencia",2293
+2294,San Diego,"En vigencia",2294
+2295,San Diego,"En vigencia",2295
+2296,San Diego,"En vigencia",2296
+2297,San Diego,"En vigencia",2297
+2298,San Diego,"En vigencia",2298
+2299,San Diego,"En vigencia",2299
+2300,San Diego,"En vigencia",2300
+2301,San Diego,"En vigencia",2301
+2302,San Diego,"En vigencia",2302
+2303,San Roque,"En vigencia",2303
+2304,San Diego,"En vigencia",2304
+2305,La Magdalena,"No existe",2305
+2306,San Diego,"En vigencia",2306
+2307,La Magdalena,"En vigencia",2307
+2308,San Diego,"En vigencia",2308
+2309,San Diego,"En vigencia",2309
+2310,San Diego,"En vigencia",2310
+2311,San Diego,"En vigencia",2311
+2312,Cochapamba,"En vigencia",2312
+2313,San Diego,"En vigencia",2313
+2314,San Diego,"No existe",2314
+2315,San Diego,"En vigencia",2315
+2316,La Argelia,"En vigencia",2316
+2317,San Diego,"En vigencia",2317
+2318,San Diego,"En vigencia",2318
+2319,Quitumbe,"En vigencia",2319
+2320,Cotocollao,"En vigencia",2320
+2321,Solanda,"En vigencia",2321
+2322,San Diego,"En vigencia",2322
+2323,Mariscal Sucre,"En vigencia",2323
+2324,San Diego,"En vigencia",2324
+2325,La Argelia,"En vigencia",2325
+2326,San Bartolo,"En vigencia",2326
+2327,San Diego,"En vigencia",2327
+2328,Mariscal Sucre,"En vigencia",2328
+2329,San Diego,"En vigencia",2329
+2330,San Diego,"En vigencia",2330
+2331,San Diego,"En vigencia",2331
+2332,San Roque,"En vigencia",2332
+2333,San Diego,"En vigencia",2333
+2334,San Diego,"En vigencia",2334
+2335,San Diego,"En vigencia",2335
+2336,Quitumbe,"En vigencia",2336
+2337,Quitumbe,"En vigencia",2337
+2338,Quitumbe,"En vigencia",2338
+2339,San Diego,"En vigencia",2339
+2340,San Diego,"En vigencia",2340
+2341,San Juan,"En vigencia",2341
+2342,San Diego,"En vigencia",2342
+2343,San Diego,"En vigencia",2343
+2344,San Diego,"En vigencia",2344
+2345,San Diego,"En vigencia",2345
+2346,San Diego,"En vigencia",2346
+2347,San Diego,"En vigencia",2347
+2348,San Diego,"No existe",2348
+2349,Cochapamba,"En vigencia",2349
+2350,San Diego,"En vigencia",2350
+2351,San Diego,"En vigencia",2351
+2352,Comité del Pueblo,"En vigencia",2352
+2353,San Diego,"En vigencia",2353
+2354,San Diego,"En vigencia",2354
+2355,San Diego,"En vigencia",2355
+2356,San Diego,"En vigencia",2356
+2357,San Diego,"En vigencia",2357
+2358,San Diego,"En vigencia",2358
+2359,San Diego,"En vigencia",2359
+2360,San Diego,"En vigencia",2360
+2361,San Diego,"En vigencia",2361
+2362,San Diego,"En vigencia",2362
+2363,San Diego,"No existe",2363
+2364,La Magdalena,"En vigencia",2364
+2365,San Diego,"En vigencia",2365
+2366,Cochapamba,"En vigencia",2366
+2367,San Diego,"En vigencia",2367
+2368,Itchimbía,"En vigencia",2368
+2369,San Roque,"En vigencia",2369
+2370,San Diego,"En vigencia",2370
+2371,Iñaquito,"En vigencia",2371
+2372,Mariscal Sucre,"En vigencia",2372
+2373,Calderón,"En vigencia",2373
+2374,San Diego,"En vigencia",2374
+2375,San Diego,"En vigencia",2375
+2376,San Bartolo,"En vigencia",2376
+2377,San Diego,"En vigencia",2377
+2378,San Diego,"En vigencia",2378
+2379,San Diego,"En vigencia",2379
+2380,Ponceano,"En vigencia",2380
+2381,San Diego,"En vigencia",2381
+2382,San Diego,"En vigencia",2382
+2383,Rumipamba,"En vigencia",2383
+2384,San Diego,"En vigencia",2384
+2385,San Diego,"En vigencia",2385
+2386,San Diego,"En vigencia",2386
+2387,San Diego,"En vigencia",2387
+2388,Cochapamba,"En vigencia",2388
+2389,San Diego,"En vigencia",2389
+2390,San Juan,"En vigencia",2390
+2391,San Diego,"No existe",2391
+2392,San Diego,"En vigencia",2392
+2393,San Diego,"En vigencia",2393
+2394,San Diego,"No existe",2394
+2395,Turubamba,"En vigencia",2395
+2396,San Diego,"En vigencia",2396
+2397,San Diego,"En vigencia",2397
+2398,San Diego,"En vigencia",2398
+2399,San Bartolo,"En vigencia",2399
+2400,San Roque,"En vigencia",2400
+2401,San Bartolo,"En vigencia",2401
+2402,Carcelén,"En vigencia",2402
+2403,San Roque,"En vigencia",2403
+2404,San Diego,"En vigencia",2404
+2405,Solanda,"En vigencia",2405
+2406,San Diego,"En vigencia",2406
+2407,San Diego,"En vigencia",2407
+2408,San Diego,"En vigencia",2408
+2409,Puengasí,"En vigencia",2409
+2410,Kennedy,"En vigencia",2410
+2411,San Diego,"En vigencia",2411
+2412,Turubamba,"En vigencia",2412
+2413,San Diego,"En vigencia",2413
+2414,San Diego,"En vigencia",2414
+2415,San Diego,"En vigencia",2415
+2416,San Roque,"En vigencia",2416
+2417,Solanda,"En vigencia",2417
+2418,Cochapamba,"En vigencia",2418
+2419,San Roque,"En vigencia",2419
+2420,San Diego,"En vigencia",2420
+2421,Chilibulo,"En vigencia",2421
+2422,San Diego,"En vigencia",2422
+2423,San Diego,"En vigencia",2423
+2424,Centro Histórico,"En vigencia",2424
+2425,San Diego,"En vigencia",2425
+2426,San Diego,"En vigencia",2426
+2427,San Diego,"En vigencia",2427
+2428,San Diego,"En vigencia",2428
+2429,Iñaquito,"En vigencia",2429
+2430,Puengasí,"En vigencia",2430
+2431,Cotocollao,"En vigencia",2431
+2432,San Diego,"En vigencia",2432
+2433,Solanda,"En vigencia",2433
+2434,San Diego,"En vigencia",2434
+2435,San Diego,"En vigencia",2435
+2436,San Roque,"No existe",2436
+2437,San Diego,"En vigencia",2437
+2438,Guamaní,"En vigencia",2438
+2439,San Diego,"En vigencia",2439
+2440,La Ecuatoriana,"En vigencia",2440
+2441,San Diego,"En vigencia",2441
+2442,San Diego,"En vigencia",2442
+2443,San Roque,"En vigencia",2443
+2444,Ponceano,"En vigencia",2444
+2445,Chillogallo,"En vigencia",2445
+2446,San Roque,"En vigencia",2446
+2447,San Roque,"En vigencia",2447
+2448,Quitumbe,"En vigencia",2448
+2449,San Roque,"En vigencia",2449
+2450,Rumipamba,"En vigencia",2450
+2451,Cochapamba,"En vigencia",2451
+2452,Carcelén,"En vigencia",2452
+2453,Calderón,"En vigencia",2453
+2454,San Diego,"No existe",2454
+2455,San Diego,"En vigencia",2455
+2456,Solanda,"En vigencia",2456
+2457,San Diego,"En vigencia",2457
+2458,Puengasí,"En vigencia",2458
+2459,San Roque,"En vigencia",2459
+2460,San Roque,"En vigencia",2460
+2461,San Diego,"En vigencia",2461
+2462,San Diego,"En vigencia",2462
+2463,Calderón,"En vigencia",2463
+2464,La Concepción,"No existe",2464
+2465,Chillogallo,"En vigencia",2465
+2466,San Diego,"En vigencia",2466
+2467,San Diego,"En vigencia",2467
+2468,Kennedy,"En vigencia",2468
+2469,Ponceano,"En vigencia",2469
+2470,Carcelén,"En vigencia",2470
+2471,San Diego,"En vigencia",2471
+2472,Quitumbe,"En vigencia",2472
+2473,Belisario Quevedo,"En vigencia",2473
+2474,San Diego,"En vigencia",2474
+2475,San Diego,"En vigencia",2475
+2476,Calderón,"En vigencia",2476
+2477,San Diego,"En vigencia",2477
+2478,San Roque,"En vigencia",2478
+2479,San Diego,"En vigencia",2479
+2480,San Diego,"En vigencia",2480
+2481,San Diego,"En vigencia",2481
+2482,Centro Histórico,"En vigencia",2482
+2483,La Ferroviaria,"En vigencia",2483
+2484,San Diego,"En vigencia",2484
+2485,San Diego,"En vigencia",2485
+2486,Ponceano,"En vigencia",2486
+2487,San Bartolo,"En vigencia",2487
+2488,San Diego,"En vigencia",2488
+2489,Rumipamba,"En vigencia",2489
+2490,San Diego,"En vigencia",2490
+2491,San Roque,"En vigencia",2491
+2492,San Diego,"En vigencia",2492
+2493,Turubamba,"En vigencia",2493
+2494,San Diego,"En vigencia",2494
+2495,Kennedy,"No existe",2495
+2496,San Roque,"En vigencia",2496
+2497,La Mena,"En vigencia",2497
+2498,San Diego,"En vigencia",2498
+2499,San Diego,"En vigencia",2499
+2500,San Diego,"En vigencia",2500
+2501,San Diego,"En vigencia",2501
+2502,San Diego,"En vigencia",2502
+2503,San Diego,"En vigencia",2503
+2504,Quitumbe,"En vigencia",2504
+2505,Kennedy,"En vigencia",2505
+2506,San Diego,"En vigencia",2506
+2507,San Diego,"En vigencia",2507
+2508,San Diego,"En vigencia",2508
+2509,San Juan,"En vigencia",2509
+2510,San Diego,"En vigencia",2510
+2511,San Roque,"En vigencia",2511
+2512,Quitumbe,"No existe",2512
+2513,San Diego,"En vigencia",2513
+2514,La Magdalena,"En vigencia",2514
+2515,Iñaquito,"En vigencia",2515
+2516,San Diego,"En vigencia",2516
+2517,Itchimbía,"En vigencia",2517
+2518,Iñaquito,"En vigencia",2518
+2519,Cochapamba,"En vigencia",2519
+2520,San Roque,"En vigencia",2520
+2521,San Roque,"En vigencia",2521
+2522,San Diego,"En vigencia",2522
+2523,San Diego,"En vigencia",2523
+2524,San Diego,"En vigencia",2524
+2525,Belisario Quevedo,"En vigencia",2525
+2526,Turubamba,"En vigencia",2526
+2527,Puengasí,"En vigencia",2527
+2528,San Diego,"En vigencia",2528
+2529,La Mena,"En vigencia",2529
+2530,Guamaní,"En vigencia",2530
+2531,San Diego,"En vigencia",2531
+2532,San Roque,"En vigencia",2532
+2533,Iñaquito,"En vigencia",2533
+2534,San Diego,"En vigencia",2534
+2535,Cochapamba,"En vigencia",2535
+2536,San Diego,"En vigencia",2536
+2537,San Roque,"En vigencia",2537
+2538,San Roque,"En vigencia",2538
+2539,San Diego,"En vigencia",2539
+2540,San Diego,"En vigencia",2540
+2541,San Diego,"En vigencia",2541
+2542,San Roque,"En vigencia",2542
+2543,La Ecuatoriana,"En vigencia",2543
+2544,San Diego,"En vigencia",2544
+2545,San Diego,"En vigencia",2545
+2546,San Diego,"En vigencia",2546
+2547,Kennedy,"En vigencia",2547
+2548,San Diego,"En vigencia",2548
+2549,San Diego,"En vigencia",2549
+2550,San Roque,"En vigencia",2550
+2551,San Diego,"En vigencia",2551
+2552,San Diego,"En vigencia",2552
+2553,Calderón,"En vigencia",2553
+2554,San Diego,"En vigencia",2554
+2555,San Diego,"En vigencia",2555
+2556,San Roque,"En vigencia",2556
+2557,San Diego,"En vigencia",2557
+2558,San Diego,"En vigencia",2558
+2559,San Diego,"En vigencia",2559
+2560,Chilibulo,"En vigencia",2560
+2561,San Diego,"En vigencia",2561
+2562,San Diego,"En vigencia",2562
+2563,San Diego,"En vigencia",2563
+2564,Puengasí,"En vigencia",2564
+2565,San Roque,"En vigencia",2565
+2566,Jipijapa,"En vigencia",2566
+2567,San Diego,"En vigencia",2567
+2568,Jipijapa,"En vigencia",2568
+2569,Centro Histórico,"En vigencia",2569
+2570,San Diego,"En vigencia",2570
+2571,San Diego,"En vigencia",2571
+2572,San Diego,"En vigencia",2572
+2573,Itchimbía,"En vigencia",2573
+2574,Solanda,"En vigencia",2574
+2575,Solanda,"En vigencia",2575
+2576,Cochapamba,"En vigencia",2576
+2577,Centro Histórico,"En vigencia",2577
+2578,La Libertad,"En vigencia",2578
+2579,Chilibulo,"En vigencia",2579
+2580,San Diego,"En vigencia",2580
+2581,San Diego,"En vigencia",2581
+2582,San Diego,"En vigencia",2582
+2583,Cochapamba,"En vigencia",2583
+2584,Ponceano,"En vigencia",2584
+2585,San Diego,"En vigencia",2585
+2586,San Diego,"En vigencia",2586
+2587,La Ecuatoriana,"En vigencia",2587
+2588,La Concepción,"En vigencia",2588
+2589,San Diego,"En vigencia",2589
+2590,San Roque,"En vigencia",2590
+2591,Chilibulo,"En vigencia",2591
+2592,Itchimbía,"En vigencia",2592
+2593,San Diego,"En vigencia",2593
+2594,Rumipamba,"En vigencia",2594
+2595,San Diego,"En vigencia",2595
+2596,La Mena,"En vigencia",2596
+2597,Centro Histórico,"En vigencia",2597
+2598,San Diego,"En vigencia",2598
+2599,San Diego,"En vigencia",2599
+2600,Calderón,"En vigencia",2600
+2601,Comité del Pueblo,"En vigencia",2601
+2602,San Diego,"En vigencia",2602
+2603,Belisario Quevedo,"En vigencia",2603
+2604,San Diego,"En vigencia",2604
+2605,Itchimbía,"En vigencia",2605
+2606,San Diego,"En vigencia",2606
+2607,Chilibulo,"En vigencia",2607
+2608,Puengasí,"En vigencia",2608
+2609,San Diego,"En vigencia",2609
+2610,La Mena,"No existe",2610
+2611,San Diego,"En vigencia",2611
+2612,San Diego,"En vigencia",2612
+2613,San Diego,"En vigencia",2613
+2614,Chimbacalle,"En vigencia",2614
+2615,San Roque,"En vigencia",2615
+2616,San Diego,"En vigencia",2616
+2617,San Bartolo,"En vigencia",2617
+2618,San Diego,"En vigencia",2618
+2619,San Diego,"En vigencia",2619
+2620,San Diego,"En vigencia",2620
+2621,Quitumbe,"En vigencia",2621
+2622,Itchimbía,"En vigencia",2622
+2623,Centro Histórico,"En vigencia",2623
+2624,La Argelia,"En vigencia",2624
+2625,San Roque,"En vigencia",2625
+2626,San Roque,"En vigencia",2626
+2627,Belisario Quevedo,"En vigencia",2627
+2628,San Diego,"En vigencia",2628
+2629,San Diego,"En vigencia",2629
+2630,San Roque,"En vigencia",2630
+2631,San Diego,"En vigencia",2631
+2632,La Argelia,"En vigencia",2632
+2633,Quitumbe,"En vigencia",2633
+2634,San Diego,"En vigencia",2634
+2635,La Ecuatoriana,"En vigencia",2635
+2636,La Ecuatoriana,"En vigencia",2636
+2637,Belisario Quevedo,"En vigencia",2637
+2638,San Diego,"En vigencia",2638
+2639,San Roque,"En vigencia",2639
+2640,Calderón,"No existe",2640
+2641,San Diego,"En vigencia",2641
+2642,San Diego,"En vigencia",2642
+2643,San Diego,"En vigencia",2643
+2644,San Diego,"En vigencia",2644
+2645,San Diego,"En vigencia",2645
+2646,San Diego,"En vigencia",2646
+2647,San Diego,"En vigencia",2647
+2648,San Diego,"En vigencia",2648
+2649,San Diego,"En vigencia",2649
+2650,San Diego,"No existe",2650
+2651,San Diego,"En vigencia",2651
+2652,La Libertad,"En vigencia",2652
+2653,Cotocollao,"En vigencia",2653
+2654,San Diego,"En vigencia",2654
+2655,San Diego,"En vigencia",2655
+2656,San Roque,"En vigencia",2656
+2657,San Roque,"En vigencia",2657
+2658,San Roque,"En vigencia",2658
+2659,San Diego,"En vigencia",2659
+2660,San Diego,"En vigencia",2660
+2661,San Diego,"En vigencia",2661
+2662,San Diego,"En vigencia",2662
+2663,Chimbacalle,"En vigencia",2663
+2664,San Diego,"En vigencia",2664
+2665,San Diego,"En vigencia",2665
+2666,San Diego,"En vigencia",2666
+2667,San Diego,"En vigencia",2667
+2668,San Diego,"En vigencia",2668
+2669,San Diego,"En vigencia",2669
+2670,San Diego,"En vigencia",2670
+2671,San Diego,"En vigencia",2671
+2672,Cotocollao,"En vigencia",2672
+2673,San Diego,"En vigencia",2673
+2674,San Diego,"En vigencia",2674
+2675,San Diego,"No existe",2675
+2676,San Diego,"En vigencia",2676
+2677,San Roque,"En vigencia",2677
+2678,San Diego,"En vigencia",2678
+2679,San Roque,"En vigencia",2679
+2680,San Diego,"En vigencia",2680
+2681,San Diego,"En vigencia",2681
+2682,San Diego,"En vigencia",2682
+2683,San Diego,"En vigencia",2683
+2684,San Roque,"En vigencia",2684
+2685,San Diego,"En vigencia",2685
+2686,San Bartolo,"En vigencia",2686
+2687,San Diego,"En vigencia",2687
+2688,San Diego,"En vigencia",2688
+2689,San Diego,"En vigencia",2689
+2690,San Diego,"En vigencia",2690
+2691,San Diego,"En vigencia",2691
+2692,San Diego,"En vigencia",2692
+2693,San Diego,"En vigencia",2693
+2694,San Diego,"En vigencia",2694
+2695,La Ferroviaria,"En vigencia",2695
+2696,San Diego,"En vigencia",2696
+2697,San Diego,"En vigencia",2697
+2698,San Roque,"En vigencia",2698
+2699,San Diego,"En vigencia",2699
+2700,Cotocollao,"En vigencia",2700
+2701,San Diego,"En vigencia",2701
+2702,San Diego,"En vigencia",2702
+2703,La Ecuatoriana,"En vigencia",2703
+2704,Chimbacalle,"En vigencia",2704
+2705,San Diego,"En vigencia",2705
+2706,San Diego,"En vigencia",2706
+2707,Chillogallo,"En vigencia",2707
+2708,Iñaquito,"En vigencia",2708
+2709,Carcelén,"En vigencia",2709
+2710,San Diego,"En vigencia",2710
+2711,San Diego,"En vigencia",2711
+2712,La Ferroviaria,"En vigencia",2712
+2713,San Diego,"En vigencia",2713
+2714,San Diego,"En vigencia",2714
+2715,Solanda,"En vigencia",2715
+2716,Iñaquito,"En vigencia",2716
+2717,San Diego,"En vigencia",2717
+2718,Quitumbe,"En vigencia",2718
+2719,San Roque,"En vigencia",2719
+2720,San Diego,"No existe",2720
+2721,Kennedy,"En vigencia",2721
+2722,San Diego,"No existe",2722
+2723,La Ferroviaria,"En vigencia",2723
+2724,San Diego,"En vigencia",2724
+2725,San Diego,"En vigencia",2725
+2726,Itchimbía,"En vigencia",2726
+2727,Jipijapa,"En vigencia",2727
+2728,San Diego,"En vigencia",2728
+2729,San Diego,"En vigencia",2729
+2730,San Juan,"En vigencia",2730
+2731,La Argelia,"En vigencia",2731
+2732,San Diego,"En vigencia",2732
+2733,Cochapamba,"En vigencia",2733
+2734,San Roque,"En vigencia",2734
+2735,Ponceano,"En vigencia",2735
+2736,San Diego,"En vigencia",2736
+2737,San Bartolo,"En vigencia",2737
+2738,San Diego,"En vigencia",2738
+2739,San Diego,"En vigencia",2739
+2740,Chillogallo,"En vigencia",2740
+2741,San Diego,"En vigencia",2741
+2742,San Roque,"En vigencia",2742
+2743,San Diego,"En vigencia",2743
+2744,San Diego,"En vigencia",2744
+2745,San Diego,"En vigencia",2745
+2746,San Diego,"En vigencia",2746
+2747,Kennedy,"En vigencia",2747
+2748,San Roque,"En vigencia",2748
+2749,San Diego,"En vigencia",2749
+2750,San Diego,"En vigencia",2750
+2751,San Diego,"En vigencia",2751
+2752,San Roque,"En vigencia",2752
+2753,San Roque,"En vigencia",2753
+2754,San Diego,"En vigencia",2754
+2755,San Diego,"En vigencia",2755
+2756,San Diego,"En vigencia",2756
+2757,San Diego,"En vigencia",2757
+2758,Itchimbía,"En vigencia",2758
+2759,San Diego,"En vigencia",2759
+2760,San Roque,"En vigencia",2760
+2761,San Diego,"En vigencia",2761
+2762,San Roque,"En vigencia",2762
+2763,Comité del Pueblo,"En vigencia",2763
+2764,San Diego,"En vigencia",2764
+2765,San Diego,"En vigencia",2765
+2766,San Roque,"En vigencia",2766
+2767,Turubamba,"En vigencia",2767
+2768,San Roque,"En vigencia",2768
+2769,La Magdalena,"En vigencia",2769
+2770,San Diego,"En vigencia",2770
+2771,La Concepción,"En vigencia",2771
+2772,San Diego,"En vigencia",2772
+2773,Mariscal Sucre,"En vigencia",2773
+2774,La Ecuatoriana,"En vigencia",2774
+2775,San Diego,"En vigencia",2775
+2776,Cotocollao,"En vigencia",2776
+2777,San Diego,"En vigencia",2777
+2778,Ponceano,"En vigencia",2778
+2779,San Diego,"En vigencia",2779
+2780,San Diego,"En vigencia",2780
+2781,San Diego,"En vigencia",2781
+2782,San Diego,"En vigencia",2782
+2783,San Diego,"En vigencia",2783
+2784,San Diego,"En vigencia",2784
+2785,San Roque,"En vigencia",2785
+2786,San Diego,"En vigencia",2786
+2787,San Diego,"En vigencia",2787
+2788,Chillogallo,"En vigencia",2788
+2789,San Diego,"En vigencia",2789
+2790,San Diego,"En vigencia",2790
+2791,San Diego,"En vigencia",2791
+2792,Ponceano,"En vigencia",2792
+2793,San Diego,"En vigencia",2793
+2794,San Diego,"En vigencia",2794
+2795,Chillogallo,"En vigencia",2795
+2796,Cochapamba,"En vigencia",2796
+2797,San Diego,"En vigencia",2797
+2798,Rumipamba,"En vigencia",2798
+2799,El Condado,"En vigencia",2799
+2800,San Diego,"No existe",2800
+2801,Itchimbía,"En vigencia",2801
+2802,Quitumbe,"En vigencia",2802
+2803,San Diego,"En vigencia",2803
+2804,San Diego,"En vigencia",2804
+2805,San Diego,"En vigencia",2805
+2806,San Diego,"En vigencia",2806
+2807,San Diego,"En vigencia",2807
+2808,Chimbacalle,"En vigencia",2808
+2809,San Diego,"En vigencia",2809
+2810,San Diego,"En vigencia",2810
+2811,San Diego,"En vigencia",2811
+2812,San Diego,"En vigencia",2812
+2813,Belisario Quevedo,"En vigencia",2813
+2814,San Roque,"En vigencia",2814
+2815,San Diego,"En vigencia",2815
+2816,San Diego,"En vigencia",2816
+2817,San Diego,"En vigencia",2817
+2818,San Diego,"En vigencia",2818
+2819,San Diego,"En vigencia",2819
+2820,San Diego,"En vigencia",2820
+2821,Kennedy,"En vigencia",2821
+2822,San Diego,"En vigencia",2822
+2823,Chilibulo,"En vigencia",2823
+2824,San Diego,"En vigencia",2824
+2825,San Diego,"En vigencia",2825
+2826,San Diego,"En vigencia",2826
+2827,San Diego,"En vigencia",2827
+2828,San Diego,"En vigencia",2828
+2829,San Diego,"En vigencia",2829
+2830,San Diego,"En vigencia",2830
+2831,La Concepción,"En vigencia",2831
+2832,San Diego,"En vigencia",2832
+2833,Kennedy,"En vigencia",2833
+2834,San Diego,"En vigencia",2834
+2835,San Juan,"En vigencia",2835
+2836,San Diego,"En vigencia",2836
+2837,San Diego,"En vigencia",2837
+2838,San Diego,"En vigencia",2838
+2839,San Diego,"En vigencia",2839
+2840,San Diego,"En vigencia",2840
+2841,Chimbacalle,"No existe",2841
+2842,San Diego,"En vigencia",2842
+2843,San Diego,"En vigencia",2843
+2844,Jipijapa,"En vigencia",2844
+2845,Chimbacalle,"En vigencia",2845
+2846,San Diego,"En vigencia",2846
+2847,San Roque,"En vigencia",2847
+2848,San Diego,"En vigencia",2848
+2849,La Argelia,"En vigencia",2849
+2850,San Juan,"En vigencia",2850
+2851,San Diego,"En vigencia",2851
+2852,San Diego,"En vigencia",2852
+2853,San Diego,"En vigencia",2853
+2854,San Diego,"En vigencia",2854
+2855,San Diego,"En vigencia",2855
+2856,San Juan,"En vigencia",2856
+2857,San Diego,"En vigencia",2857
+2858,San Diego,"En vigencia",2858
+2859,San Bartolo,"En vigencia",2859
+2860,San Diego,"En vigencia",2860
+2861,San Roque,"En vigencia",2861
+2862,San Diego,"No existe",2862
+2863,Carcelén,"En vigencia",2863
+2864,San Diego,"En vigencia",2864
+2865,Cotocollao,"En vigencia",2865
+2866,La Mena,"En vigencia",2866
+2867,Cotocollao,"En vigencia",2867
+2868,Puengasí,"En vigencia",2868
+2869,San Diego,"En vigencia",2869
+2870,San Diego,"En vigencia",2870
+2871,San Diego,"En vigencia",2871
+2872,Jipijapa,"En vigencia",2872
+2873,San Diego,"En vigencia",2873
+2874,San Diego,"En vigencia",2874
+2875,San Diego,"En vigencia",2875
+2876,San Diego,"En vigencia",2876
+2877,San Diego,"En vigencia",2877
+2878,San Diego,"En vigencia",2878
+2879,San Diego,"En vigencia",2879
+2880,San Diego,"En vigencia",2880
+2881,Chilibulo,"En vigencia",2881
+2882,San Diego,"En vigencia",2882
+2883,Guamaní,"En vigencia",2883
+2884,Kennedy,"En vigencia",2884
+2885,El Condado,"En vigencia",2885
+2886,San Diego,"No existe",2886
+2887,San Diego,"No existe",2887
+2888,Centro Histórico,"En vigencia",2888
+2889,San Diego,"En vigencia",2889
+2890,La Magdalena,"En vigencia",2890
+2891,San Diego,"En vigencia",2891
+2892,La Libertad,"En vigencia",2892
+2893,San Diego,"En vigencia",2893
+2894,La Argelia,"En vigencia",2894
+2895,San Diego,"En vigencia",2895
+2896,San Diego,"En vigencia",2896
+2897,San Diego,"En vigencia",2897
+2898,San Diego,"En vigencia",2898
+2899,San Diego,"En vigencia",2899
+2900,El Condado,"En vigencia",2900
+2901,San Diego,"En vigencia",2901
+2902,San Roque,"En vigencia",2902
+2903,San Diego,"En vigencia",2903
+2904,Mariscal Sucre,"En vigencia",2904
+2905,San Diego,"En vigencia",2905
+2906,San Roque,"No existe",2906
+2907,San Diego,"En vigencia",2907
+2908,La Ecuatoriana,"En vigencia",2908
+2909,San Diego,"En vigencia",2909
+2910,Calderón,"En vigencia",2910
+2911,San Diego,"En vigencia",2911
+2912,Centro Histórico,"En vigencia",2912
+2913,Iñaquito,"En vigencia",2913
+2914,Rumipamba,"En vigencia",2914
+2915,San Diego,"En vigencia",2915
+2916,San Diego,"En vigencia",2916
+2917,Comité del Pueblo,"En vigencia",2917
+2918,San Bartolo,"No existe",2918
+2919,San Diego,"En vigencia",2919
+2920,San Diego,"En vigencia",2920
+2921,Belisario Quevedo,"En vigencia",2921
+2922,San Diego,"En vigencia",2922
+2923,San Diego,"En vigencia",2923
+2924,San Diego,"En vigencia",2924
+2925,San Diego,"En vigencia",2925
+2926,San Roque,"En vigencia",2926
+2927,San Diego,"En vigencia",2927
+2928,Chimbacalle,"En vigencia",2928
+2929,San Roque,"En vigencia",2929
+2930,San Diego,"En vigencia",2930
+2931,San Diego,"En vigencia",2931
+2932,San Diego,"En vigencia",2932
+2933,Carcelén,"En vigencia",2933
+2934,San Diego,"En vigencia",2934
+2935,San Diego,"En vigencia",2935
+2936,San Diego,"En vigencia",2936
+2937,San Diego,"En vigencia",2937
+2938,San Diego,"En vigencia",2938
+2939,San Diego,"En vigencia",2939
+2940,San Diego,"En vigencia",2940
+2941,Rumipamba,"En vigencia",2941
+2942,San Diego,"En vigencia",2942
+2943,San Diego,"En vigencia",2943
+2944,San Diego,"En vigencia",2944
+2945,Calderón,"En vigencia",2945
+2946,San Diego,"En vigencia",2946
+2947,San Diego,"En vigencia",2947
+2948,Guamaní,"En vigencia",2948
+2949,Jipijapa,"En vigencia",2949
+2950,San Diego,"En vigencia",2950
+2951,Cochapamba,"En vigencia",2951
+2952,San Diego,"En vigencia",2952
+2953,Ponceano,"En vigencia",2953
+2954,La Ferroviaria,"En vigencia",2954
+2955,San Diego,"En vigencia",2955
+2956,San Diego,"En vigencia",2956
+2957,San Diego,"En vigencia",2957
+2958,San Juan,"En vigencia",2958
+2959,San Diego,"En vigencia",2959
+2960,Jipijapa,"En vigencia",2960
+2961,San Diego,"En vigencia",2961
+2962,San Diego,"En vigencia",2962
+2963,La Magdalena,"En vigencia",2963
+2964,San Roque,"En vigencia",2964
+2965,San Diego,"En vigencia",2965
+2966,San Diego,"En vigencia",2966
+2967,Cotocollao,"En vigencia",2967
+2968,San Diego,"En vigencia",2968
+2969,San Diego,"En vigencia",2969
+2970,San Diego,"En vigencia",2970
+2971,San Diego,"En vigencia",2971
+2972,San Diego,"En vigencia",2972
+2973,Quitumbe,"En vigencia",2973
+2974,Quitumbe,"En vigencia",2974
+2975,Kennedy,"En vigencia",2975
+2976,San Diego,"En vigencia",2976
+2977,Calderón,"En vigencia",2977
+2978,San Diego,"En vigencia",2978
+2979,San Roque,"En vigencia",2979
+2980,San Diego,"En vigencia",2980
+2981,San Diego,"En vigencia",2981
+2982,San Diego,"En vigencia",2982
+2983,Mariscal Sucre,"En vigencia",2983
+2984,La Libertad,"En vigencia",2984
+2985,San Diego,"En vigencia",2985
+2986,San Roque,"En vigencia",2986
+2987,San Diego,"En vigencia",2987
+2988,San Diego,"En vigencia",2988
+2989,San Diego,"En vigencia",2989
+2990,San Diego,"En vigencia",2990
+2991,San Diego,"En vigencia",2991
+2992,San Diego,"En vigencia",2992
+2993,San Diego,"En vigencia",2993
+2994,San Diego,"En vigencia",2994
+2995,San Diego,"En vigencia",2995
+2996,Centro Histórico,"En vigencia",2996
+2997,Chimbacalle,"En vigencia",2997
+2998,San Diego,"En vigencia",2998
+2999,San Diego,"En vigencia",2999
+3000,Chimbacalle,"En vigencia",3000
+3001,Puengasí,"En vigencia",3001
+3002,San Diego,"En vigencia",3002
+3003,Chilibulo,"En vigencia",3003
+3004,Comité del Pueblo,"En vigencia",3004
+3005,San Diego,"En vigencia",3005
+3006,San Diego,"En vigencia",3006
+3007,San Diego,"No existe",3007
+3008,San Roque,"En vigencia",3008
+3009,San Diego,"En vigencia",3009
+3010,Belisario Quevedo,"En vigencia",3010
+3011,San Diego,"En vigencia",3011
+3012,San Diego,"En vigencia",3012
+3013,San Diego,"En vigencia",3013
+3014,Cotocollao,"En vigencia",3014
+3015,San Diego,"En vigencia",3015
+3016,San Diego,"En vigencia",3016
+3017,San Diego,"En vigencia",3017
+3018,San Juan,"En vigencia",3018
+3019,Rumipamba,"En vigencia",3019
+3020,San Diego,"No existe",3020
+3021,San Diego,"En vigencia",3021
+3022,San Diego,"En vigencia",3022
+3023,San Bartolo,"En vigencia",3023
+3024,San Diego,"En vigencia",3024
+3025,Carcelén,"En vigencia",3025
+3026,San Diego,"En vigencia",3026
+3027,Chimbacalle,"En vigencia",3027
+3028,San Diego,"En vigencia",3028
+3029,San Roque,"En vigencia",3029
+3030,San Diego,"En vigencia",3030
+3031,San Diego,"En vigencia",3031
+3032,San Diego,"En vigencia",3032
+3033,Itchimbía,"En vigencia",3033
+3034,San Roque,"En vigencia",3034
+3035,San Diego,"En vigencia",3035
+3036,La Ecuatoriana,"En vigencia",3036
+3037,La Ecuatoriana,"En vigencia",3037
+3038,San Diego,"En vigencia",3038
+3039,San Roque,"En vigencia",3039
+3040,La Ferroviaria,"En vigencia",3040
+3041,Jipijapa,"En vigencia",3041
+3042,San Diego,"En vigencia",3042
+3043,San Roque,"En vigencia",3043
+3044,San Diego,"En vigencia",3044
+3045,Guamaní,"En vigencia",3045
+3046,San Diego,"En vigencia",3046
+3047,San Diego,"En vigencia",3047
+3048,San Diego,"En vigencia",3048
+3049,San Roque,"En vigencia",3049
+3050,San Diego,"En vigencia",3050
+3051,La Magdalena,"En vigencia",3051
+3052,San Diego,"En vigencia",3052
+3053,Chimbacalle,"En vigencia",3053
+3054,San Diego,"En vigencia",3054
+3055,Turubamba,"En vigencia",3055
+3056,San Diego,"En vigencia",3056
+3057,San Diego,"En vigencia",3057
+3058,Comité del Pueblo,"En vigencia",3058
+3059,Belisario Quevedo,"En vigencia",3059
+3060,San Roque,"En vigencia",3060
+3061,La Ferroviaria,"En vigencia",3061
+3062,San Diego,"En vigencia",3062
+3063,Rumipamba,"En vigencia",3063
+3064,Solanda,"En vigencia",3064
+3065,Turubamba,"En vigencia",3065
+3066,Comité del Pueblo,"En vigencia",3066
+3067,San Diego,"En vigencia",3067
+3068,San Diego,"En vigencia",3068
+3069,San Bartolo,"En vigencia",3069
+3070,San Diego,"En vigencia",3070
+3071,Puengasí,"En vigencia",3071
+3072,San Diego,"En vigencia",3072
+3073,San Diego,"En vigencia",3073
+3074,San Bartolo,"En vigencia",3074
+3075,La Argelia,"En vigencia",3075
+3076,San Diego,"En vigencia",3076
+3077,San Diego,"En vigencia",3077
+3078,Carcelén,"En vigencia",3078
+3079,Chilibulo,"En vigencia",3079
+3080,San Diego,"En vigencia",3080
+3081,Guamaní,"En vigencia",3081
+3082,Quitumbe,"En vigencia",3082
+3083,San Diego,"En vigencia",3083
+3084,San Diego,"En vigencia",3084
+3085,San Diego,"En vigencia",3085
+3086,San Diego,"En vigencia",3086
+3087,San Roque,"En vigencia",3087
+3088,Mariscal Sucre,"En vigencia",3088
+3089,San Diego,"En vigencia",3089
+3090,San Diego,"En vigencia",3090
+3091,San Diego,"En vigencia",3091
+3092,San Diego,"En vigencia",3092
+3093,San Diego,"En vigencia",3093
+3094,Calderón,"En vigencia",3094
+3095,San Bartolo,"En vigencia",3095
+3096,San Diego,"En vigencia",3096
+3097,San Diego,"En vigencia",3097
+3098,Carcelén,"En vigencia",3098
+3099,San Diego,"En vigencia",3099
+3100,La Mena,"En vigencia",3100
+3101,San Roque,"En vigencia",3101
+3102,San Diego,"En vigencia",3102
+3103,La Mena,"En vigencia",3103
+3104,San Diego,"En vigencia",3104
+3105,San Roque,"En vigencia",3105
+3106,Chillogallo,"En vigencia",3106
+3107,San Juan,"En vigencia",3107
+3108,San Diego,"No existe",3108
+3109,San Roque,"En vigencia",3109
+3110,San Diego,"En vigencia",3110
+3111,Jipijapa,"En vigencia",3111
+3112,San Diego,"En vigencia",3112
+3113,La Libertad,"En vigencia",3113
+3114,San Diego,"En vigencia",3114
+3115,Quitumbe,"En vigencia",3115
+3116,Chillogallo,"En vigencia",3116
+3117,Jipijapa,"En vigencia",3117
+3118,San Diego,"En vigencia",3118
+3119,San Diego,"En vigencia",3119
+3120,San Diego,"En vigencia",3120
+3121,La Magdalena,"En vigencia",3121
+3122,La Libertad,"En vigencia",3122
+3123,San Diego,"En vigencia",3123
+3124,San Diego,"En vigencia",3124
+3125,Chimbacalle,"En vigencia",3125
+3126,San Diego,"En vigencia",3126
+3127,San Diego,"En vigencia",3127
+3128,San Diego,"En vigencia",3128
+3129,San Diego,"En vigencia",3129
+3130,San Diego,"En vigencia",3130
+3131,San Roque,"En vigencia",3131
+3132,San Diego,"En vigencia",3132
+3133,San Diego,"En vigencia",3133
+3134,San Diego,"En vigencia",3134
+3135,San Diego,"En vigencia",3135
+3136,San Diego,"En vigencia",3136
+3137,San Diego,"En vigencia",3137
+3138,San Roque,"En vigencia",3138
+3139,San Diego,"En vigencia",3139
+3140,San Diego,"En vigencia",3140
+3141,San Diego,"En vigencia",3141
+3142,San Diego,"En vigencia",3142
+3143,San Diego,"En vigencia",3143
+3144,Calderón,"En vigencia",3144
+3145,Centro Histórico,"En vigencia",3145
+3146,Turubamba,"En vigencia",3146
+3147,San Diego,"En vigencia",3147
+3148,San Diego,"En vigencia",3148
+3149,Quitumbe,"En vigencia",3149
+3150,San Diego,"En vigencia",3150
+3151,San Diego,"En vigencia",3151
+3152,San Diego,"En vigencia",3152
+3153,La Ecuatoriana,"En vigencia",3153
+3154,San Diego,"En vigencia",3154
+3155,La Magdalena,"En vigencia",3155
+3156,Turubamba,"En vigencia",3156
+3157,San Roque,"En vigencia",3157
+3158,Puengasí,"En vigencia",3158
+3159,Mariscal Sucre,"En vigencia",3159
+3160,Quitumbe,"En vigencia",3160
+3161,San Diego,"En vigencia",3161
+3162,San Roque,"En vigencia",3162
+3163,San Diego,"En vigencia",3163
+3164,San Diego,"En vigencia",3164
+3165,San Juan,"En vigencia",3165
+3166,San Juan,"En vigencia",3166
+3167,San Diego,"En vigencia",3167
+3168,San Diego,"En vigencia",3168
+3169,San Diego,"En vigencia",3169
+3170,Itchimbía,"En vigencia",3170
+3171,San Diego,"En vigencia",3171
+3172,San Diego,"En vigencia",3172
+3173,San Diego,"En vigencia",3173
+3174,San Juan,"En vigencia",3174
+3175,El Condado,"En vigencia",3175
+3176,San Diego,"En vigencia",3176
+3177,Jipijapa,"No existe",3177
+3178,Iñaquito,"En vigencia",3178
+3179,Cochapamba,"En vigencia",3179
+3180,San Diego,"En vigencia",3180
+3181,San Diego,"En vigencia",3181
+3182,San Diego,"En vigencia",3182
+3183,San Diego,"En vigencia",3183
+3184,San Diego,"En vigencia",3184
+3185,La Ferroviaria,"En vigencia",3185
+3186,La Concepción,"No existe",3186
+3187,La Magdalena,"En vigencia",3187
+3188,La Argelia,"En vigencia",3188
+3189,Jipijapa,"En vigencia",3189
+3190,San Diego,"En vigencia",3190
+3191,Chilibulo,"En vigencia",3191
+3192,San Diego,"En vigencia",3192
+3193,San Diego,"En vigencia",3193
+3194,Solanda,"En vigencia",3194
+3195,Itchimbía,"En vigencia",3195
+3196,Kennedy,"En vigencia",3196
+3197,San Diego,"En vigencia",3197
+3198,Comité del Pueblo,"En vigencia",3198
+3199,Solanda,"En vigencia",3199
+3200,San Diego,"En vigencia",3200
+3201,Calderón,"En vigencia",3201
+3202,San Diego,"En vigencia",3202
+3203,San Diego,"En vigencia",3203
+3204,La Libertad,"En vigencia",3204
+3205,San Diego,"En vigencia",3205
+3206,Chilibulo,"En vigencia",3206
+3207,Rumipamba,"En vigencia",3207
+3208,Rumipamba,"En vigencia",3208
+3209,San Diego,"En vigencia",3209
+3210,San Roque,"En vigencia",3210
+3211,San Diego,"En vigencia",3211
+3212,San Diego,"En vigencia",3212
+3213,La Mena,"En vigencia",3213
+3214,Calderón,"En vigencia",3214
+3215,San Bartolo,"En vigencia",3215
+3216,San Diego,"En vigencia",3216
+3217,San Diego,"En vigencia",3217
+3218,San Diego,"En vigencia",3218
+3219,San Roque,"No existe",3219
+3220,Kennedy,"En vigencia",3220
+3221,San Diego,"En vigencia",3221
+3222,San Diego,"En vigencia",3222
+3223,San Bartolo,"En vigencia",3223
+3224,San Diego,"En vigencia",3224
+3225,San Diego,"En vigencia",3225
+3226,San Diego,"En vigencia",3226
+3227,San Diego,"En vigencia",3227
+3228,Iñaquito,"En vigencia",3228
+3229,San Diego,"En vigencia",3229
+3230,San Diego,"En vigencia",3230
+3231,San Diego,"En vigencia",3231
+3232,San Diego,"En vigencia",3232
+3233,San Diego,"En vigencia",3233
+3234,Itchimbía,"En vigencia",3234
+3235,San Diego,"En vigencia",3235
+3236,San Diego,"En vigencia",3236
+3237,Itchimbía,"En vigencia",3237
+3238,San Diego,"En vigencia",3238
+3239,San Diego,"En vigencia",3239
+3240,San Roque,"En vigencia",3240
+3241,Quitumbe,"En vigencia",3241
+3242,Cochapamba,"En vigencia",3242
+3243,San Diego,"En vigencia",3243
+3244,Ponceano,"En vigencia",3244
+3245,Guamaní,"En vigencia",3245
+3246,San Roque,"En vigencia",3246
+3247,San Diego,"En vigencia",3247
+3248,San Diego,"En vigencia",3248
+3249,San Diego,"En vigencia",3249
+3250,San Diego,"En vigencia",3250
+3251,San Diego,"En vigencia",3251
+3252,San Diego,"En vigencia",3252
+3253,San Diego,"En vigencia",3253
+3254,Belisario Quevedo,"En vigencia",3254
+3255,San Diego,"En vigencia",3255
+3256,San Diego,"En vigencia",3256
+3257,San Diego,"En vigencia",3257
+3258,Chimbacalle,"En vigencia",3258
+3259,San Diego,"En vigencia",3259
+3260,San Diego,"En vigencia",3260
+3261,San Roque,"En vigencia",3261
+3262,San Diego,"En vigencia",3262
+3263,San Diego,"En vigencia",3263
+3264,Centro Histórico,"En vigencia",3264
+3265,San Roque,"En vigencia",3265
+3266,San Roque,"En vigencia",3266
+3267,Chilibulo,"En vigencia",3267
+3268,San Diego,"En vigencia",3268
+3269,San Diego,"En vigencia",3269
+3270,San Diego,"En vigencia",3270
+3271,Turubamba,"En vigencia",3271
+3272,San Roque,"En vigencia",3272
+3273,San Diego,"En vigencia",3273
+3274,San Diego,"En vigencia",3274
+3275,San Roque,"En vigencia",3275
+3276,San Diego,"En vigencia",3276
+3277,San Diego,"En vigencia",3277
+3278,San Diego,"En vigencia",3278
+3279,San Roque,"En vigencia",3279
+3280,San Diego,"En vigencia",3280
+3281,San Juan,"En vigencia",3281
+3282,Cotocollao,"En vigencia",3282
+3283,San Roque,"En vigencia",3283
+3284,Calderón,"En vigencia",3284
+3285,San Diego,"En vigencia",3285
+3286,Chillogallo,"En vigencia",3286
+3287,San Diego,"No existe",3287
+3288,San Roque,"En vigencia",3288
+3289,Turubamba,"En vigencia",3289
+3290,Chillogallo,"En vigencia",3290
+3291,San Diego,"En vigencia",3291
+3292,San Roque,"En vigencia",3292
+3293,San Diego,"En vigencia",3293
+3294,Chimbacalle,"En vigencia",3294
+3295,San Roque,"En vigencia",3295
+3296,San Diego,"En vigencia",3296
+3297,San Diego,"En vigencia",3297
+3298,Chilibulo,"En vigencia",3298
+3299,San Roque,"En vigencia",3299
+3300,San Diego,"En vigencia",3300
+3301,Cotocollao,"No existe",3301
+3302,San Diego,"En vigencia",3302
+3303,San Diego,"En vigencia",3303
+3304,San Diego,"En vigencia",3304
+3305,San Diego,"En vigencia",3305
+3306,San Diego,"En vigencia",3306
+3307,Comité del Pueblo,"En vigencia",3307
+3308,San Diego,"No existe",3308
+3309,San Diego,"En vigencia",3309
+3310,San Diego,"En vigencia",3310
+3311,San Diego,"En vigencia",3311
+3312,La Ecuatoriana,"En vigencia",3312
+3313,Chilibulo,"En vigencia",3313
+3314,San Roque,"En vigencia",3314
+3315,San Diego,"En vigencia",3315
+3316,San Diego,"En vigencia",3316
+3317,San Diego,"En vigencia",3317
+3318,San Diego,"En vigencia",3318
+3319,San Roque,"En vigencia",3319
+3320,Belisario Quevedo,"En vigencia",3320
+3321,San Diego,"En vigencia",3321
+3322,San Diego,"En vigencia",3322
+3323,San Diego,"No existe",3323
+3324,San Roque,"En vigencia",3324
+3325,San Diego,"En vigencia",3325
+3326,San Diego,"En vigencia",3326
+3327,San Diego,"En vigencia",3327
+3328,San Bartolo,"En vigencia",3328
+3329,Iñaquito,"En vigencia",3329
+3330,La Argelia,"En vigencia",3330
+3331,La Ecuatoriana,"En vigencia",3331
+3332,San Diego,"En vigencia",3332
+3333,San Diego,"En vigencia",3333
+3334,Itchimbía,"En vigencia",3334
+3335,Itchimbía,"En vigencia",3335
+3336,Quitumbe,"En vigencia",3336
+3337,San Roque,"En vigencia",3337
+3338,San Diego,"En vigencia",3338
+3339,San Roque,"En vigencia",3339
+3340,San Diego,"En vigencia",3340
+3341,San Diego,"En vigencia",3341
+3342,San Diego,"En vigencia",3342
+3343,San Diego,"En vigencia",3343
+3344,San Diego,"En vigencia",3344
+3345,San Diego,"En vigencia",3345
+3346,Cochapamba,"En vigencia",3346
+3347,San Diego,"En vigencia",3347
+3348,San Juan,"En vigencia",3348
+3349,San Diego,"En vigencia",3349
+3350,San Diego,"En vigencia",3350
+3351,San Diego,"En vigencia",3351
+3352,San Bartolo,"En vigencia",3352
+3353,San Roque,"En vigencia",3353
+3354,San Diego,"En vigencia",3354
+3355,San Diego,"En vigencia",3355
+3356,San Diego,"En vigencia",3356
+3357,La Argelia,"No existe",3357
+3358,San Diego,"En vigencia",3358
+3359,San Roque,"En vigencia",3359
+3360,San Diego,"En vigencia",3360
+3361,San Diego,"En vigencia",3361
+3362,La Magdalena,"En vigencia",3362
+3363,San Diego,"En vigencia",3363
+3364,San Diego,"En vigencia",3364
+3365,San Diego,"En vigencia",3365
+3366,Jipijapa,"En vigencia",3366
+3367,San Diego,"En vigencia",3367
+3368,Chillogallo,"En vigencia",3368
+3369,San Diego,"En vigencia",3369
+3370,La Ferroviaria,"En vigencia",3370
+3371,San Diego,"En vigencia",3371
+3372,Cochapamba,"En vigencia",3372
+3373,San Diego,"En vigencia",3373
+3374,San Diego,"En vigencia",3374
+3375,San Diego,"En vigencia",3375
+3376,San Diego,"En vigencia",3376
+3377,San Diego,"En vigencia",3377
+3378,San Diego,"En vigencia",3378
+3379,La Concepción,"En vigencia",3379
+3380,La Concepción,"En vigencia",3380
+3381,San Diego,"En vigencia",3381
+3382,San Diego,"En vigencia",3382
+3383,San Diego,"En vigencia",3383
+3384,San Diego,"En vigencia",3384
+3385,San Diego,"En vigencia",3385
+3386,San Diego,"En vigencia",3386
+3387,San Diego,"En vigencia",3387
+3388,San Diego,"En vigencia",3388
+3389,San Diego,"En vigencia",3389
+3390,San Diego,"En vigencia",3390
+3391,San Diego,"En vigencia",3391
+3392,Mariscal Sucre,"En vigencia",3392
+3393,San Diego,"En vigencia",3393
+3394,San Roque,"En vigencia",3394
+3395,San Diego,"En vigencia",3395
+3396,San Diego,"No existe",3396
+3397,San Diego,"En vigencia",3397
+3398,San Roque,"En vigencia",3398
+3399,San Diego,"En vigencia",3399
+3400,La Ecuatoriana,"En vigencia",3400
+3401,San Diego,"En vigencia",3401
+3402,Chilibulo,"En vigencia",3402
+3403,San Diego,"En vigencia",3403
+3404,San Diego,"En vigencia",3404
+3405,San Diego,"En vigencia",3405
+3406,San Diego,"En vigencia",3406
+3407,San Diego,"En vigencia",3407
+3408,San Diego,"En vigencia",3408
+3409,San Diego,"En vigencia",3409
+3410,San Diego,"En vigencia",3410
+3411,Rumipamba,"No existe",3411
+3412,San Diego,"En vigencia",3412
+3413,San Diego,"En vigencia",3413
+3414,San Diego,"En vigencia",3414
+3415,Carcelén,"En vigencia",3415
+3416,San Diego,"En vigencia",3416
+3417,San Diego,"En vigencia",3417
+3418,Jipijapa,"En vigencia",3418
+3419,San Diego,"En vigencia",3419
+3420,La Argelia,"En vigencia",3420
+3421,San Diego,"En vigencia",3421
+3422,Mariscal Sucre,"En vigencia",3422
+3423,San Diego,"En vigencia",3423
+3424,Chilibulo,"En vigencia",3424
+3425,San Diego,"En vigencia",3425
+3426,San Diego,"En vigencia",3426
+3427,San Diego,"En vigencia",3427
+3428,San Diego,"En vigencia",3428
+3429,Turubamba,"En vigencia",3429
+3430,Mariscal Sucre,"En vigencia",3430
+3431,San Diego,"En vigencia",3431
+3432,San Diego,"En vigencia",3432
+3433,San Diego,"En vigencia",3433
+3434,Centro Histórico,"En vigencia",3434
+3435,San Diego,"En vigencia",3435
+3436,San Diego,"En vigencia",3436
+3437,San Diego,"En vigencia",3437
+3438,San Diego,"En vigencia",3438
+3439,San Diego,"En vigencia",3439
+3440,San Diego,"En vigencia",3440
+3441,San Diego,"En vigencia",3441
+3442,La Libertad,"En vigencia",3442
+3443,Belisario Quevedo,"En vigencia",3443
+3444,La Ecuatoriana,"En vigencia",3444
+3445,San Diego,"En vigencia",3445
+3446,San Diego,"En vigencia",3446
+3447,San Roque,"En vigencia",3447
+3448,San Diego,"En vigencia",3448
+3449,Ponceano,"En vigencia",3449
+3450,La Magdalena,"No existe",3450
+3451,San Diego,"En vigencia",3451
+3452,San Diego,"En vigencia",3452
+3453,San Diego,"En vigencia",3453
+3454,San Diego,"En vigencia",3454
+3455,San Diego,"En vigencia",3455
+3456,La Magdalena,"En vigencia",3456
+3457,Solanda,"En vigencia",3457
+3458,Chillogallo,"En vigencia",3458
+3459,San Diego,"En vigencia",3459
+3460,San Diego,"En vigencia",3460
+3461,Iñaquito,"En vigencia",3461
+3462,Ponceano,"En vigencia",3462
+3463,San Diego,"En vigencia",3463
+3464,San Diego,"En vigencia",3464
+3465,La Ferroviaria,"En vigencia",3465
+3466,San Diego,"En vigencia",3466
+3467,San Diego,"En vigencia",3467
+3468,San Diego,"En vigencia",3468
+3469,Chilibulo,"En vigencia",3469
+3470,San Diego,"En vigencia",3470
+3471,San Diego,"En vigencia",3471
+3472,San Juan,"En vigencia",3472
+3473,San Diego,"No existe",3473
+3474,Kennedy,"En vigencia",3474
+3475,San Diego,"En vigencia",3475
+3476,San Diego,"En vigencia",3476
+3477,San Diego,"No existe",3477
+3478,San Diego,"En vigencia",3478
+3479,San Diego,"En vigencia",3479
+3480,San Diego,"En vigencia",3480
+3481,San Diego,"En vigencia",3481
+3482,San Diego,"En vigencia",3482
+3483,La Mena,"En vigencia",3483
+3484,San Diego,"En vigencia",3484
+3485,La Magdalena,"En vigencia",3485
+3486,San Diego,"En vigencia",3486
+3487,San Diego,"En vigencia",3487
+3488,Cotocollao,"En vigencia",3488
+3489,Chillogallo,"En vigencia",3489
+3490,San Diego,"En vigencia",3490
+3491,San Diego,"En vigencia",3491
+3492,Centro Histórico,"En vigencia",3492
+3493,Guamaní,"En vigencia",3493
+3494,San Bartolo,"En vigencia",3494
+3495,San Diego,"En vigencia",3495
+3496,San Diego,"En vigencia",3496
+3497,San Diego,"En vigencia",3497
+3498,San Diego,"En vigencia",3498
+3499,Carcelén,"En vigencia",3499
+3500,San Diego,"En vigencia",3500
+3501,Cochapamba,"No existe",3501
+3502,San Diego,"En vigencia",3502
+3503,San Diego,"En vigencia",3503
+3504,San Diego,"En vigencia",3504
+3505,Turubamba,"En vigencia",3505
+3506,Iñaquito,"En vigencia",3506
+3507,San Diego,"En vigencia",3507
+3508,San Diego,"En vigencia",3508
+3509,Chimbacalle,"En vigencia",3509
+3510,San Diego,"En vigencia",3510
+3511,Calderón,"En vigencia",3511
+3512,San Diego,"En vigencia",3512
+3513,San Diego,"En vigencia",3513
+3514,Chillogallo,"En vigencia",3514
+3515,San Diego,"En vigencia",3515
+3516,San Diego,"En vigencia",3516
+3517,Rumipamba,"En vigencia",3517
+3518,San Diego,"En vigencia",3518
+3519,San Diego,"En vigencia",3519
+3520,La Concepción,"En vigencia",3520
+3521,San Diego,"En vigencia",3521
+3522,Puengasí,"En vigencia",3522
+3523,San Diego,"En vigencia",3523
+3524,San Diego,"En vigencia",3524
+3525,San Diego,"En vigencia",3525
+3526,San Diego,"En vigencia",3526
+3527,Carcelén,"En vigencia",3527
+3528,San Diego,"En vigencia",3528
+3529,San Diego,"En vigencia",3529
+3530,Chilibulo,"En vigencia",3530
+3531,San Diego,"En vigencia",3531
+3532,Iñaquito,"En vigencia",3532
+3533,San Diego,"En vigencia",3533
+3534,San Diego,"En vigencia",3534
+3535,San Diego,"En vigencia",3535
+3536,San Diego,"En vigencia",3536
+3537,San Diego,"En vigencia",3537
+3538,Iñaquito,"En vigencia",3538
+3539,San Diego,"En vigencia",3539
+3540,San Diego,"En vigencia",3540
+3541,La Ferroviaria,"En vigencia",3541
+3542,San Diego,"En vigencia",3542
+3543,La Mena,"En vigencia",3543
+3544,La Ferroviaria,"En vigencia",3544
+3545,La Argelia,"En vigencia",3545
+3546,San Roque,"En vigencia",3546
+3547,San Diego,"En vigencia",3547
+3548,San Diego,"En vigencia",3548
+3549,San Diego,"En vigencia",3549
+3550,San Diego,"En vigencia",3550
+3551,Chimbacalle,"En vigencia",3551
+3552,San Diego,"En vigencia",3552
+3553,Guamaní,"En vigencia",3553
+3554,Iñaquito,"En vigencia",3554
+3555,San Diego,"En vigencia",3555
+3556,La Ferroviaria,"En vigencia",3556
+3557,San Juan,"En vigencia",3557
+3558,San Diego,"En vigencia",3558
+3559,San Diego,"En vigencia",3559
+3560,San Diego,"En vigencia",3560
+3561,Itchimbía,"En vigencia",3561
+3562,San Roque,"En vigencia",3562
+3563,Chimbacalle,"En vigencia",3563
+3564,San Diego,"En vigencia",3564
+3565,San Diego,"En vigencia",3565
+3566,San Diego,"En vigencia",3566
+3567,San Diego,"En vigencia",3567
+3568,San Diego,"No existe",3568
+3569,Cotocollao,"En vigencia",3569
+3570,San Diego,"En vigencia",3570
+3571,San Diego,"En vigencia",3571
+3572,San Diego,"En vigencia",3572
+3573,San Diego,"En vigencia",3573
+3574,San Diego,"En vigencia",3574
+3575,La Magdalena,"En vigencia",3575
+3576,San Diego,"No existe",3576
+3577,San Roque,"En vigencia",3577
+3578,San Diego,"En vigencia",3578
+3579,San Diego,"En vigencia",3579
+3580,San Diego,"En vigencia",3580
+3581,San Diego,"En vigencia",3581
+3582,San Diego,"En vigencia",3582
+3583,San Diego,"No existe",3583
+3584,San Diego,"En vigencia",3584
+3585,San Diego,"En vigencia",3585
+3586,San Diego,"En vigencia",3586
+3587,Itchimbía,"En vigencia",3587
+3588,San Diego,"En vigencia",3588
+3589,San Diego,"En vigencia",3589
+3590,San Diego,"En vigencia",3590
+3591,San Diego,"En vigencia",3591
+3592,San Diego,"En vigencia",3592
+3593,San Diego,"En vigencia",3593
+3594,San Diego,"En vigencia",3594
+3595,San Diego,"En vigencia",3595
+3596,San Diego,"En vigencia",3596
+3597,San Roque,"En vigencia",3597
+3598,San Diego,"En vigencia",3598
+3599,San Diego,"En vigencia",3599
+3600,San Diego,"En vigencia",3600
+3601,San Diego,"En vigencia",3601
+3602,San Diego,"En vigencia",3602
+3603,Solanda,"En vigencia",3603
+3604,San Diego,"En vigencia",3604
+3605,San Diego,"En vigencia",3605
+3606,Itchimbía,"En vigencia",3606
+3607,San Juan,"En vigencia",3607
+3608,El Condado,"En vigencia",3608
+3609,San Diego,"En vigencia",3609
+3610,San Diego,"En vigencia",3610
+3611,San Diego,"En vigencia",3611
+3612,San Roque,"En vigencia",3612
+3613,La Mena,"En vigencia",3613
+3614,Mariscal Sucre,"En vigencia",3614
+3615,San Diego,"En vigencia",3615
+3616,San Diego,"En vigencia",3616
+3617,San Diego,"En vigencia",3617
+3618,San Diego,"En vigencia",3618
+3619,Carcelén,"En vigencia",3619
+3620,San Diego,"En vigencia",3620
+3621,San Diego,"En vigencia",3621
+3622,San Diego,"En vigencia",3622
+3623,San Diego,"En vigencia",3623
+3624,San Diego,"En vigencia",3624
+3625,San Juan,"En vigencia",3625
+3626,San Diego,"En vigencia",3626
+3627,San Diego,"En vigencia",3627
+3628,San Diego,"En vigencia",3628
+3629,San Diego,"En vigencia",3629
+3630,San Diego,"En vigencia",3630
+3631,San Roque,"En vigencia",3631
+3632,San Diego,"En vigencia",3632
+3633,San Diego,"En vigencia",3633
+3634,San Roque,"En vigencia",3634
+3635,San Diego,"En vigencia",3635
+3636,Ponceano,"En vigencia",3636
+3637,San Diego,"En vigencia",3637
+3638,San Diego,"En vigencia",3638
+3639,San Diego,"En vigencia",3639
+3640,San Diego,"En vigencia",3640
+3641,Jipijapa,"En vigencia",3641
+3642,San Diego,"En vigencia",3642
+3643,San Diego,"En vigencia",3643
+3644,San Diego,"En vigencia",3644
+3645,San Diego,"En vigencia",3645
+3646,Cotocollao,"En vigencia",3646
+3647,Turubamba,"En vigencia",3647
+3648,San Diego,"En vigencia",3648
+3649,San Diego,"En vigencia",3649
+3650,San Diego,"En vigencia",3650
+3651,San Diego,"En vigencia",3651
+3652,San Diego,"En vigencia",3652
+3653,Iñaquito,"En vigencia",3653
+3654,San Diego,"En vigencia",3654
+3655,Chimbacalle,"En vigencia",3655
+3656,San Diego,"En vigencia",3656
+3657,Jipijapa,"En vigencia",3657
+3658,San Diego,"En vigencia",3658
+3659,San Roque,"En vigencia",3659
+3660,San Diego,"En vigencia",3660
+3661,Centro Histórico,"En vigencia",3661
+3662,Cochapamba,"En vigencia",3662
+3663,Chimbacalle,"En vigencia",3663
+3664,San Diego,"En vigencia",3664
+3665,San Diego,"En vigencia",3665
+3666,San Diego,"En vigencia",3666
+3667,San Diego,"En vigencia",3667
+3668,Mariscal Sucre,"En vigencia",3668
+3669,San Diego,"En vigencia",3669
+3670,Jipijapa,"En vigencia",3670
+3671,Mariscal Sucre,"No existe",3671
+3672,Comité del Pueblo,"En vigencia",3672
+3673,San Diego,"En vigencia",3673
+3674,San Diego,"En vigencia",3674
+3675,San Diego,"En vigencia",3675
+3676,San Diego,"En vigencia",3676
+3677,San Diego,"En vigencia",3677
+3678,Chillogallo,"En vigencia",3678
+3679,San Diego,"En vigencia",3679
+3680,La Ferroviaria,"En vigencia",3680
+3681,Carcelén,"En vigencia",3681
+3682,Iñaquito,"En vigencia",3682
+3683,San Diego,"En vigencia",3683
+3684,Rumipamba,"En vigencia",3684
+3685,San Diego,"En vigencia",3685
+3686,Itchimbía,"En vigencia",3686
+3687,San Diego,"En vigencia",3687
+3688,La Magdalena,"En vigencia",3688
+3689,San Diego,"En vigencia",3689
+3690,Chillogallo,"En vigencia",3690
+3691,La Concepción,"En vigencia",3691
+3692,San Diego,"En vigencia",3692
+3693,Chilibulo,"En vigencia",3693
+3694,San Diego,"En vigencia",3694
+3695,La Argelia,"En vigencia",3695
+3696,San Diego,"No existe",3696
+3697,San Juan,"En vigencia",3697
+3698,San Roque,"En vigencia",3698
+3699,San Diego,"En vigencia",3699
+3700,San Diego,"En vigencia",3700
+3701,San Diego,"En vigencia",3701
+3702,San Diego,"En vigencia",3702
+3703,San Diego,"En vigencia",3703
+3704,Mariscal Sucre,"En vigencia",3704
+3705,La Ferroviaria,"En vigencia",3705
+3706,San Diego,"En vigencia",3706
+3707,San Diego,"En vigencia",3707
+3708,San Diego,"En vigencia",3708
+3709,San Diego,"En vigencia",3709
+3710,Cochapamba,"En vigencia",3710
+3711,La Libertad,"En vigencia",3711
+3712,San Diego,"En vigencia",3712
+3713,San Diego,"En vigencia",3713
+3714,San Diego,"En vigencia",3714
+3715,Belisario Quevedo,"En vigencia",3715
+3716,Mariscal Sucre,"En vigencia",3716
+3717,San Diego,"En vigencia",3717
+3718,San Diego,"En vigencia",3718
+3719,Mariscal Sucre,"En vigencia",3719
+3720,Kennedy,"No existe",3720
+3721,San Diego,"En vigencia",3721
+3722,San Diego,"En vigencia",3722
+3723,Puengasí,"En vigencia",3723
+3724,Chimbacalle,"En vigencia",3724
+3725,San Diego,"En vigencia",3725
+3726,San Diego,"En vigencia",3726
+3727,San Diego,"En vigencia",3727
+3728,San Diego,"No existe",3728
+3729,San Diego,"En vigencia",3729
+3730,San Diego,"En vigencia",3730
+3731,Calderón,"En vigencia",3731
+3732,San Roque,"En vigencia",3732
+3733,San Diego,"En vigencia",3733
+3734,La Ecuatoriana,"En vigencia",3734
+3735,La Mena,"En vigencia",3735
+3736,San Diego,"En vigencia",3736
+3737,San Diego,"En vigencia",3737
+3738,San Diego,"En vigencia",3738
+3739,San Roque,"En vigencia",3739
+3740,San Diego,"En vigencia",3740
+3741,San Diego,"En vigencia",3741
+3742,San Diego,"En vigencia",3742
+3743,La Ferroviaria,"En vigencia",3743
+3744,San Diego,"En vigencia",3744
+3745,El Condado,"En vigencia",3745
+3746,San Diego,"En vigencia",3746
+3747,Kennedy,"En vigencia",3747
+3748,Mariscal Sucre,"En vigencia",3748
+3749,San Diego,"En vigencia",3749
+3750,San Diego,"En vigencia",3750
+3751,San Diego,"En vigencia",3751
+3752,Chillogallo,"En vigencia",3752
+3753,San Diego,"En vigencia",3753
+3754,San Diego,"En vigencia",3754
+3755,Chilibulo,"En vigencia",3755
+3756,San Diego,"En vigencia",3756
+3757,San Diego,"En vigencia",3757
+3758,San Diego,"En vigencia",3758
+3759,San Bartolo,"En vigencia",3759
+3760,San Diego,"En vigencia",3760
+3761,Cotocollao,"En vigencia",3761
+3762,San Diego,"En vigencia",3762
+3763,San Diego,"En vigencia",3763
+3764,San Diego,"En vigencia",3764
+3765,San Diego,"En vigencia",3765
+3766,San Diego,"No existe",3766
+3767,San Diego,"En vigencia",3767
+3768,San Diego,"En vigencia",3768
+3769,San Diego,"En vigencia",3769
+3770,San Diego,"En vigencia",3770
+3771,La Mena,"En vigencia",3771
+3772,San Diego,"En vigencia",3772
+3773,San Diego,"En vigencia",3773
+3774,San Diego,"En vigencia",3774
+3775,La Magdalena,"En vigencia",3775
+3776,San Diego,"En vigencia",3776
+3777,San Diego,"En vigencia",3777
+3778,San Diego,"En vigencia",3778
+3779,San Diego,"En vigencia",3779
+3780,San Diego,"En vigencia",3780
+3781,Kennedy,"En vigencia",3781
+3782,San Diego,"En vigencia",3782
+3783,San Diego,"En vigencia",3783
+3784,Kennedy,"En vigencia",3784
+3785,San Diego,"En vigencia",3785
+3786,San Diego,"En vigencia",3786
+3787,San Diego,"En vigencia",3787
+3788,San Diego,"En vigencia",3788
+3789,Itchimbía,"En vigencia",3789
+3790,Belisario Quevedo,"En vigencia",3790
+3791,Rumipamba,"En vigencia",3791
+3792,Chimbacalle,"En vigencia",3792
+3793,Puengasí,"En vigencia",3793
+3794,San Diego,"En vigencia",3794
+3795,San Diego,"En vigencia",3795
+3796,San Diego,"En vigencia",3796
+3797,San Diego,"En vigencia",3797
+3798,Quitumbe,"En vigencia",3798
+3799,San Diego,"En vigencia",3799
+3800,San Diego,"No existe",3800
+3801,San Roque,"En vigencia",3801
+3802,San Diego,"En vigencia",3802
+3803,Turubamba,"En vigencia",3803
+3804,San Diego,"En vigencia",3804
+3805,San Diego,"En vigencia",3805
+3806,San Diego,"En vigencia",3806
+3807,San Diego,"En vigencia",3807
+3808,San Diego,"En vigencia",3808
+3809,Comité del Pueblo,"En vigencia",3809
+3810,San Diego,"En vigencia",3810
+3811,San Diego,"En vigencia",3811
+3812,La Argelia,"En vigencia",3812
+3813,San Diego,"En vigencia",3813
+3814,San Diego,"En vigencia",3814
+3815,San Diego,"En vigencia",3815
+3816,La Concepción,"En vigencia",3816
+3817,Guamaní,"En vigencia",3817
+3818,San Juan,"En vigencia",3818
+3819,San Diego,"En vigencia",3819
+3820,San Diego,"No existe",3820
+3821,La Libertad,"En vigencia",3821
+3822,San Roque,"En vigencia",3822
+3823,San Diego,"En vigencia",3823
+3824,San Diego,"En vigencia",3824
+3825,San Diego,"En vigencia",3825
+3826,Solanda,"En vigencia",3826
+3827,San Diego,"En vigencia",3827
+3828,San Diego,"En vigencia",3828
+3829,San Diego,"En vigencia",3829
+3830,San Diego,"En vigencia",3830
+3831,San Diego,"En vigencia",3831
+3832,Ponceano,"En vigencia",3832
+3833,San Diego,"En vigencia",3833
+3834,San Diego,"En vigencia",3834
+3835,La Ecuatoriana,"En vigencia",3835
+3836,San Diego,"En vigencia",3836
+3837,San Diego,"En vigencia",3837
+3838,San Juan,"En vigencia",3838
+3839,San Diego,"En vigencia",3839
+3840,San Diego,"En vigencia",3840
+3841,San Diego,"En vigencia",3841
+3842,Solanda,"En vigencia",3842
+3843,San Diego,"En vigencia",3843
+3844,Belisario Quevedo,"En vigencia",3844
+3845,San Diego,"En vigencia",3845
+3846,Comité del Pueblo,"En vigencia",3846
+3847,San Diego,"En vigencia",3847
+3848,San Diego,"En vigencia",3848
+3849,San Diego,"En vigencia",3849
+3850,La Libertad,"En vigencia",3850
+3851,San Diego,"No existe",3851
+3852,San Diego,"En vigencia",3852
+3853,San Diego,"En vigencia",3853
+3854,Comité del Pueblo,"En vigencia",3854
+3855,San Diego,"En vigencia",3855
+3856,San Diego,"En vigencia",3856
+3857,San Diego,"En vigencia",3857
+3858,San Diego,"En vigencia",3858
+3859,San Diego,"En vigencia",3859
+3860,San Diego,"En vigencia",3860
+3861,La Magdalena,"En vigencia",3861
+3862,San Diego,"En vigencia",3862
+3863,La Concepción,"En vigencia",3863
+3864,San Diego,"En vigencia",3864
+3865,San Diego,"En vigencia",3865
+3866,Guamaní,"En vigencia",3866
+3867,Turubamba,"En vigencia",3867
+3868,San Diego,"En vigencia",3868
+3869,San Diego,"En vigencia",3869
+3870,Calderón,"En vigencia",3870
+3871,San Diego,"En vigencia",3871
+3872,San Roque,"En vigencia",3872
+3873,Guamaní,"En vigencia",3873
+3874,San Diego,"En vigencia",3874
+3875,San Roque,"En vigencia",3875
+3876,Carcelén,"En vigencia",3876
+3877,San Diego,"En vigencia",3877
+3878,San Diego,"En vigencia",3878
+3879,Cochapamba,"En vigencia",3879
+3880,San Diego,"En vigencia",3880
+3881,San Diego,"En vigencia",3881
+3882,San Roque,"En vigencia",3882
+3883,San Diego,"En vigencia",3883
+3884,San Diego,"En vigencia",3884
+3885,San Diego,"En vigencia",3885
+3886,San Diego,"En vigencia",3886
+3887,San Diego,"En vigencia",3887
+3888,San Diego,"En vigencia",3888
+3889,San Diego,"En vigencia",3889
+3890,San Diego,"En vigencia",3890
+3891,San Roque,"En vigencia",3891
+3892,San Roque,"En vigencia",3892
+3893,San Diego,"En vigencia",3893
+3894,San Diego,"En vigencia",3894
+3895,San Diego,"En vigencia",3895
+3896,Solanda,"En vigencia",3896
+3897,San Bartolo,"En vigencia",3897
+3898,Chilibulo,"En vigencia",3898
+3899,San Diego,"En vigencia",3899
+3900,San Diego,"En vigencia",3900
+3901,San Diego,"No existe",3901
+3902,Carcelén,"En vigencia",3902
+3903,San Diego,"En vigencia",3903
+3904,La Mena,"En vigencia",3904
+3905,La Mena,"En vigencia",3905
+3906,Ponceano,"No existe",3906
+3907,San Diego,"No existe",3907
+3908,San Diego,"En vigencia",3908
+3909,San Diego,"En vigencia",3909
+3910,Quitumbe,"En vigencia",3910
+3911,Kennedy,"En vigencia",3911
+3912,Chilibulo,"En vigencia",3912
+3913,San Diego,"En vigencia",3913
+3914,La Concepción,"En vigencia",3914
+3915,Itchimbía,"En vigencia",3915
+3916,San Diego,"En vigencia",3916
+3917,San Diego,"No existe",3917
+3918,San Diego,"En vigencia",3918
+3919,Iñaquito,"En vigencia",3919
+3920,San Diego,"En vigencia",3920
+3921,San Diego,"En vigencia",3921
+3922,San Diego,"En vigencia",3922
+3923,San Diego,"En vigencia",3923
+3924,San Diego,"En vigencia",3924
+3925,San Diego,"En vigencia",3925
+3926,San Diego,"En vigencia",3926
+3927,San Diego,"No existe",3927
+3928,Chillogallo,"En vigencia",3928
+3929,La Libertad,"En vigencia",3929
+3930,San Diego,"En vigencia",3930
+3931,San Diego,"En vigencia",3931
+3932,Chimbacalle,"En vigencia",3932
+3933,San Diego,"En vigencia",3933
+3934,San Diego,"En vigencia",3934
+3935,San Diego,"En vigencia",3935
+3936,Jipijapa,"En vigencia",3936
+3937,Chilibulo,"En vigencia",3937
+3938,San Diego,"En vigencia",3938
+3939,Belisario Quevedo,"En vigencia",3939
+3940,San Diego,"En vigencia",3940
+3941,San Diego,"En vigencia",3941
+3942,San Diego,"No existe",3942
+3943,San Diego,"En vigencia",3943
+3944,La Concepción,"En vigencia",3944
+3945,San Diego,"En vigencia",3945
+3946,San Diego,"En vigencia",3946
+3947,Carcelén,"En vigencia",3947
+3948,La Magdalena,"En vigencia",3948
+3949,Calderón,"En vigencia",3949
+3950,San Diego,"En vigencia",3950
+3951,Iñaquito,"En vigencia",3951
+3952,La Concepción,"En vigencia",3952
+3953,Kennedy,"En vigencia",3953
+3954,San Diego,"En vigencia",3954
+3955,San Diego,"En vigencia",3955
+3956,San Diego,"En vigencia",3956
+3957,Chilibulo,"En vigencia",3957
+3958,San Diego,"En vigencia",3958
+3959,San Diego,"En vigencia",3959
+3960,San Diego,"En vigencia",3960
+3961,San Diego,"En vigencia",3961
+3962,San Diego,"En vigencia",3962
+3963,Mariscal Sucre,"En vigencia",3963
+3964,La Magdalena,"En vigencia",3964
+3965,El Condado,"En vigencia",3965
+3966,San Diego,"En vigencia",3966
+3967,La Libertad,"En vigencia",3967
+3968,Ponceano,"En vigencia",3968
+3969,San Roque,"No existe",3969
+3970,San Diego,"En vigencia",3970
+3971,San Diego,"En vigencia",3971
+3972,Quitumbe,"En vigencia",3972
+3973,La Magdalena,"En vigencia",3973
+3974,San Diego,"En vigencia",3974
+3975,San Roque,"En vigencia",3975
+3976,Solanda,"En vigencia",3976
+3977,San Diego,"En vigencia",3977
+3978,San Diego,"En vigencia",3978
+3979,La Libertad,"En vigencia",3979
+3980,San Diego,"En vigencia",3980
+3981,San Diego,"En vigencia",3981
+3982,San Diego,"En vigencia",3982
+3983,Ponceano,"En vigencia",3983
+3984,San Diego,"En vigencia",3984
+3985,San Diego,"En vigencia",3985
+3986,San Diego,"En vigencia",3986
+3987,San Diego,"En vigencia",3987
+3988,La Magdalena,"En vigencia",3988
+3989,San Diego,"En vigencia",3989
+3990,San Diego,"En vigencia",3990
+3991,La Argelia,"En vigencia",3991
+3992,Chimbacalle,"En vigencia",3992
+3993,San Diego,"En vigencia",3993
+3994,San Roque,"En vigencia",3994
+3995,San Diego,"En vigencia",3995
+3996,San Roque,"En vigencia",3996
+3997,San Diego,"En vigencia",3997
+3998,Calderón,"En vigencia",3998
+3999,Puengasí,"En vigencia",3999
+4000,San Diego,"En vigencia",4000
+4001,Puengasí,"En vigencia",4001
+4002,San Roque,"En vigencia",4002
+4003,San Diego,"En vigencia",4003
+4004,San Diego,"En vigencia",4004
+4005,San Diego,"En vigencia",4005
+4006,San Diego,"En vigencia",4006
+4007,San Diego,"En vigencia",4007
+4008,La Concepción,"En vigencia",4008
+4009,Puengasí,"En vigencia",4009
+4010,Cotocollao,"En vigencia",4010
+4011,La Ecuatoriana,"En vigencia",4011
+4012,Carcelén,"No existe",4012
+4013,San Diego,"En vigencia",4013
+4014,San Diego,"En vigencia",4014
+4015,San Diego,"En vigencia",4015
+4016,San Diego,"En vigencia",4016
+4017,San Diego,"En vigencia",4017
+4018,San Diego,"En vigencia",4018
+4019,San Roque,"En vigencia",4019
+4020,San Diego,"En vigencia",4020
+4021,Centro Histórico,"En vigencia",4021
+4022,San Diego,"No existe",4022
+4023,San Diego,"En vigencia",4023
+4024,Kennedy,"En vigencia",4024
+4025,San Diego,"En vigencia",4025
+4026,San Roque,"En vigencia",4026
+4027,San Diego,"En vigencia",4027
+4028,San Roque,"En vigencia",4028
+4029,San Diego,"En vigencia",4029
+4030,La Libertad,"En vigencia",4030
+4031,San Diego,"En vigencia",4031
+4032,San Diego,"En vigencia",4032
+4033,San Diego,"En vigencia",4033
+4034,Belisario Quevedo,"En vigencia",4034
+4035,San Diego,"En vigencia",4035
+4036,San Diego,"En vigencia",4036
+4037,Carcelén,"En vigencia",4037
+4038,San Roque,"En vigencia",4038
+4039,Belisario Quevedo,"No existe",4039
+4040,San Diego,"En vigencia",4040
+4041,Centro Histórico,"En vigencia",4041
+4042,San Diego,"En vigencia",4042
+4043,Comité del Pueblo,"En vigencia",4043
+4044,Chilibulo,"En vigencia",4044
+4045,San Diego,"En vigencia",4045
+4046,Puengasí,"En vigencia",4046
+4047,San Diego,"En vigencia",4047
+4048,Turubamba,"En vigencia",4048
+4049,La Ecuatoriana,"En vigencia",4049
+4050,San Diego,"En vigencia",4050
+4051,San Diego,"En vigencia",4051
+4052,San Diego,"En vigencia",4052
+4053,San Diego,"En vigencia",4053
+4054,Chilibulo,"En vigencia",4054
+4055,San Diego,"En vigencia",4055
+4056,San Diego,"En vigencia",4056
+4057,Jipijapa,"En vigencia",4057
+4058,San Diego,"En vigencia",4058
+4059,Chimbacalle,"En vigencia",4059
+4060,Mariscal Sucre,"En vigencia",4060
+4061,Guamaní,"En vigencia",4061
+4062,San Roque,"En vigencia",4062
+4063,San Diego,"En vigencia",4063
+4064,San Diego,"En vigencia",4064
+4065,San Diego,"En vigencia",4065
+4066,Chillogallo,"En vigencia",4066
+4067,San Diego,"En vigencia",4067
+4068,San Diego,"En vigencia",4068
+4069,El Condado,"En vigencia",4069
+4070,San Roque,"En vigencia",4070
+4071,Cochapamba,"En vigencia",4071
+4072,La Magdalena,"En vigencia",4072
+4073,San Diego,"En vigencia",4073
+4074,Centro Histórico,"En vigencia",4074
+4075,San Roque,"En vigencia",4075
+4076,San Diego,"En vigencia",4076
+4077,San Diego,"En vigencia",4077
+4078,Guamaní,"En vigencia",4078
+4079,Ponceano,"En vigencia",4079
+4080,San Roque,"En vigencia",4080
+4081,San Diego,"En vigencia",4081
+4082,San Diego,"En vigencia",4082
+4083,San Diego,"En vigencia",4083
+4084,La Magdalena,"En vigencia",4084
+4085,San Diego,"En vigencia",4085
+4086,San Diego,"En vigencia",4086
+4087,San Diego,"En vigencia",4087
+4088,San Diego,"En vigencia",4088
+4089,San Roque,"En vigencia",4089
+4090,San Diego,"En vigencia",4090
+4091,Comité del Pueblo,"En vigencia",4091
+4092,Centro Histórico,"En vigencia",4092
+4093,San Diego,"En vigencia",4093
+4094,San Diego,"En vigencia",4094
+4095,San Juan,"En vigencia",4095
+4096,San Diego,"En vigencia",4096
+4097,Cotocollao,"En vigencia",4097
+4098,San Diego,"En vigencia",4098
+4099,Comité del Pueblo,"En vigencia",4099
+4100,San Diego,"En vigencia",4100
+4101,San Diego,"En vigencia",4101
+4102,Puengasí,"En vigencia",4102
+4103,La Mena,"En vigencia",4103
+4104,San Diego,"En vigencia",4104
+4105,San Roque,"En vigencia",4105
+4106,San Diego,"En vigencia",4106
+4107,La Ecuatoriana,"No existe",4107
+4108,Kennedy,"En vigencia",4108
+4109,San Diego,"En vigencia",4109
+4110,San Juan,"En vigencia",4110
+4111,Rumipamba,"En vigencia",4111
+4112,San Diego,"En vigencia",4112
+4113,San Diego,"En vigencia",4113
+4114,San Diego,"En vigencia",4114
+4115,San Diego,"En vigencia",4115
+4116,La Ferroviaria,"En vigencia",4116
+4117,Kennedy,"En vigencia",4117
+4118,San Roque,"En vigencia",4118
+4119,San Diego,"En vigencia",4119
+4120,San Diego,"En vigencia",4120
+4121,La Mena,"En vigencia",4121
+4122,San Diego,"En vigencia",4122
+4123,San Diego,"En vigencia",4123
+4124,Carcelén,"En vigencia",4124
+4125,Belisario Quevedo,"En vigencia",4125
+4126,San Diego,"En vigencia",4126
+4127,San Diego,"En vigencia",4127
+4128,La Libertad,"En vigencia",4128
+4129,San Diego,"No existe",4129
+4130,San Diego,"En vigencia",4130
+4131,San Diego,"En vigencia",4131
+4132,San Diego,"En vigencia",4132
+4133,San Diego,"En vigencia",4133
+4134,Rumipamba,"En vigencia",4134
+4135,San Diego,"En vigencia",4135
+4136,San Diego,"En vigencia",4136
+4137,Comité del Pueblo,"En vigencia",4137
+4138,San Diego,"En vigencia",4138
+4139,San Roque,"En vigencia",4139
+4140,San Diego,"En vigencia",4140
+4141,San Diego,"En vigencia",4141
+4142,San Diego,"En vigencia",4142
+4143,Cochapamba,"En vigencia",4143
+4144,La Libertad,"En vigencia",4144
+4145,San Roque,"En vigencia",4145
+4146,San Diego,"En vigencia",4146
+4147,La Ecuatoriana,"En vigencia",4147
+4148,La Magdalena,"En vigencia",4148
+4149,Chilibulo,"En vigencia",4149
+4150,La Ferroviaria,"En vigencia",4150
+4151,San Diego,"En vigencia",4151
+4152,San Diego,"En vigencia",4152
+4153,La Mena,"En vigencia",4153
+4154,El Condado,"En vigencia",4154
+4155,San Diego,"En vigencia",4155
+4156,San Diego,"En vigencia",4156
+4157,Chimbacalle,"En vigencia",4157
+4158,Turubamba,"En vigencia",4158
+4159,San Diego,"En vigencia",4159
+4160,San Diego,"En vigencia",4160
+4161,Puengasí,"En vigencia",4161
+4162,San Diego,"En vigencia",4162
+4163,Calderón,"En vigencia",4163
+4164,San Diego,"En vigencia",4164
+4165,San Diego,"En vigencia",4165
+4166,San Diego,"En vigencia",4166
+4167,San Diego,"En vigencia",4167
+4168,Belisario Quevedo,"En vigencia",4168
+4169,San Diego,"En vigencia",4169
+4170,La Magdalena,"En vigencia",4170
+4171,El Condado,"En vigencia",4171
+4172,San Diego,"En vigencia",4172
+4173,Cotocollao,"En vigencia",4173
+4174,San Diego,"En vigencia",4174
+4175,San Roque,"En vigencia",4175
+4176,San Diego,"No existe",4176
+4177,San Diego,"En vigencia",4177
+4178,La Argelia,"En vigencia",4178
+4179,San Diego,"En vigencia",4179
+4180,San Diego,"En vigencia",4180
+4181,Jipijapa,"En vigencia",4181
+4182,Rumipamba,"En vigencia",4182
+4183,Turubamba,"En vigencia",4183
+4184,Turubamba,"En vigencia",4184
+4185,San Diego,"En vigencia",4185
+4186,La Libertad,"En vigencia",4186
+4187,San Diego,"En vigencia",4187
+4188,Itchimbía,"En vigencia",4188
+4189,Solanda,"En vigencia",4189
+4190,San Diego,"En vigencia",4190
+4191,San Diego,"En vigencia",4191
+4192,San Diego,"En vigencia",4192
+4193,San Diego,"En vigencia",4193
+4194,San Diego,"En vigencia",4194
+4195,San Diego,"En vigencia",4195
+4196,Centro Histórico,"En vigencia",4196
+4197,San Diego,"En vigencia",4197
+4198,San Roque,"En vigencia",4198
+4199,San Diego,"En vigencia",4199
+4200,San Diego,"En vigencia",4200
+4201,El Condado,"En vigencia",4201
+4202,San Diego,"No existe",4202
+4203,Belisario Quevedo,"En vigencia",4203
+4204,San Roque,"En vigencia",4204
+4205,Chilibulo,"En vigencia",4205
+4206,San Diego,"No existe",4206
+4207,Chilibulo,"En vigencia",4207
+4208,San Diego,"En vigencia",4208
+4209,San Diego,"En vigencia",4209
+4210,San Diego,"En vigencia",4210
+4211,San Roque,"En vigencia",4211
+4212,San Roque,"En vigencia",4212
+4213,San Roque,"En vigencia",4213
+4214,San Diego,"En vigencia",4214
+4215,San Diego,"En vigencia",4215
+4216,Carcelén,"En vigencia",4216
+4217,San Diego,"En vigencia",4217
+4218,San Diego,"En vigencia",4218
+4219,San Diego,"En vigencia",4219
+4220,San Diego,"En vigencia",4220
+4221,Cochapamba,"En vigencia",4221
+4222,La Ecuatoriana,"En vigencia",4222
+4223,San Roque,"En vigencia",4223
+4224,San Diego,"En vigencia",4224
+4225,La Mena,"En vigencia",4225
+4226,Carcelén,"En vigencia",4226
+4227,San Diego,"En vigencia",4227
+4228,Chilibulo,"En vigencia",4228
+4229,Solanda,"En vigencia",4229
+4230,San Diego,"En vigencia",4230
+4231,Solanda,"En vigencia",4231
+4232,San Diego,"En vigencia",4232
+4233,La Concepción,"En vigencia",4233
+4234,San Diego,"En vigencia",4234
+4235,San Diego,"En vigencia",4235
+4236,San Diego,"En vigencia",4236
+4237,San Diego,"En vigencia",4237
+4238,San Diego,"En vigencia",4238
+4239,San Diego,"En vigencia",4239
+4240,San Diego,"En vigencia",4240
+4241,Guamaní,"En vigencia",4241
+4242,La Libertad,"En vigencia",4242
+4243,Turubamba,"En vigencia",4243
+4244,San Diego,"En vigencia",4244
+4245,El Condado,"En vigencia",4245
+4246,San Diego,"En vigencia",4246
+4247,Cotocollao,"En vigencia",4247
+4248,San Diego,"En vigencia",4248
+4249,San Diego,"En vigencia",4249
+4250,San Roque,"En vigencia",4250
+4251,San Roque,"En vigencia",4251
+4252,Puengasí,"En vigencia",4252
+4253,El Condado,"En vigencia",4253
+4254,San Diego,"En vigencia",4254
+4255,Solanda,"No existe",4255
+4256,San Diego,"En vigencia",4256
+4257,San Diego,"En vigencia",4257
+4258,San Diego,"En vigencia",4258
+4259,San Diego,"En vigencia",4259
+4260,San Diego,"En vigencia",4260
+4261,San Diego,"En vigencia",4261
+4262,San Diego,"En vigencia",4262
+4263,San Diego,"En vigencia",4263
+4264,Solanda,"En vigencia",4264
+4265,San Roque,"En vigencia",4265
+4266,San Diego,"En vigencia",4266
+4267,San Diego,"En vigencia",4267
+4268,Solanda,"En vigencia",4268
+4269,Comité del Pueblo,"En vigencia",4269
+4270,San Diego,"En vigencia",4270
+4271,San Diego,"En vigencia",4271
+4272,La Argelia,"En vigencia",4272
+4273,San Diego,"En vigencia",4273
+4274,San Diego,"En vigencia",4274
+4275,San Diego,"En vigencia",4275
+4276,San Diego,"No existe",4276
+4277,San Diego,"En vigencia",4277
+4278,San Diego,"En vigencia",4278
+4279,Rumipamba,"En vigencia",4279
+4280,San Diego,"En vigencia",4280
+4281,Cochapamba,"En vigencia",4281
+4282,San Diego,"En vigencia",4282
+4283,San Diego,"En vigencia",4283
+4284,San Diego,"En vigencia",4284
+4285,San Juan,"En vigencia",4285
+4286,San Diego,"En vigencia",4286
+4287,San Roque,"En vigencia",4287
+4288,San Diego,"En vigencia",4288
+4289,San Diego,"En vigencia",4289
+4290,San Diego,"En vigencia",4290
+4291,San Diego,"En vigencia",4291
+4292,San Roque,"En vigencia",4292
+4293,San Diego,"En vigencia",4293
+4294,San Diego,"En vigencia",4294
+4295,San Diego,"En vigencia",4295
+4296,San Diego,"En vigencia",4296
+4297,Quitumbe,"En vigencia",4297
+4298,San Diego,"En vigencia",4298
+4299,San Diego,"En vigencia",4299
+4300,San Diego,"En vigencia",4300
+4301,San Diego,"En vigencia",4301
+4302,San Diego,"En vigencia",4302
+4303,San Diego,"En vigencia",4303
+4304,El Condado,"En vigencia",4304
+4305,San Diego,"En vigencia",4305
+4306,Rumipamba,"En vigencia",4306
+4307,San Diego,"En vigencia",4307
+4308,La Mena,"En vigencia",4308
+4309,San Diego,"En vigencia",4309
+4310,Ponceano,"En vigencia",4310
+4311,San Diego,"En vigencia",4311
+4312,Ponceano,"En vigencia",4312
+4313,San Juan,"En vigencia",4313
+4314,La Argelia,"En vigencia",4314
+4315,San Diego,"En vigencia",4315
+4316,La Magdalena,"En vigencia",4316
+4317,San Diego,"No existe",4317
+4318,San Diego,"En vigencia",4318
+4319,San Diego,"En vigencia",4319
+4320,La Libertad,"En vigencia",4320
+4321,San Diego,"En vigencia",4321
+4322,Cochapamba,"En vigencia",4322
+4323,San Diego,"En vigencia",4323
+4324,San Diego,"En vigencia",4324
+4325,San Diego,"En vigencia",4325
+4326,La Argelia,"En vigencia",4326
+4327,San Diego,"En vigencia",4327
+4328,San Diego,"En vigencia",4328
+4329,Carcelén,"En vigencia",4329
+4330,Comité del Pueblo,"En vigencia",4330
+4331,San Diego,"En vigencia",4331
+4332,San Diego,"En vigencia",4332
+4333,Mariscal Sucre,"En vigencia",4333
+4334,Comité del Pueblo,"En vigencia",4334
+4335,San Diego,"En vigencia",4335
+4336,San Diego,"No existe",4336
+4337,San Diego,"En vigencia",4337
+4338,San Diego,"En vigencia",4338
+4339,San Diego,"En vigencia",4339
+4340,San Diego,"En vigencia",4340
+4341,San Diego,"En vigencia",4341
+4342,La Concepción,"En vigencia",4342
+4343,Cotocollao,"En vigencia",4343
+4344,San Diego,"En vigencia",4344
+4345,San Diego,"En vigencia",4345
+4346,San Diego,"En vigencia",4346
+4347,San Diego,"En vigencia",4347
+4348,San Roque,"En vigencia",4348
+4349,San Diego,"En vigencia",4349
+4350,Chimbacalle,"En vigencia",4350
+4351,San Diego,"En vigencia",4351
+4352,Carcelén,"En vigencia",4352
+4353,San Diego,"En vigencia",4353
+4354,San Diego,"En vigencia",4354
+4355,San Diego,"En vigencia",4355
+4356,Centro Histórico,"En vigencia",4356
+4357,San Diego,"En vigencia",4357
+4358,San Roque,"En vigencia",4358
+4359,San Diego,"En vigencia",4359
+4360,San Diego,"En vigencia",4360
+4361,Belisario Quevedo,"En vigencia",4361
+4362,San Roque,"En vigencia",4362
+4363,San Diego,"En vigencia",4363
+4364,Jipijapa,"En vigencia",4364
+4365,San Diego,"En vigencia",4365
+4366,San Diego,"En vigencia",4366
+4367,La Ecuatoriana,"En vigencia",4367
+4368,San Diego,"En vigencia",4368
+4369,San Diego,"En vigencia",4369
+4370,Jipijapa,"En vigencia",4370
+4371,San Diego,"En vigencia",4371
+4372,San Diego,"En vigencia",4372
+4373,San Diego,"En vigencia",4373
+4374,San Diego,"En vigencia",4374
+4375,Carcelén,"En vigencia",4375
+4376,San Diego,"En vigencia",4376
+4377,San Diego,"En vigencia",4377
+4378,San Diego,"En vigencia",4378
+4379,San Diego,"En vigencia",4379
+4380,San Diego,"En vigencia",4380
+4381,San Diego,"En vigencia",4381
+4382,Mariscal Sucre,"En vigencia",4382
+4383,San Diego,"En vigencia",4383
+4384,San Roque,"En vigencia",4384
+4385,Carcelén,"En vigencia",4385
+4386,San Diego,"En vigencia",4386
+4387,Puengasí,"No existe",4387
+4388,San Diego,"En vigencia",4388
+4389,San Diego,"En vigencia",4389
+4390,San Diego,"En vigencia",4390
+4391,San Diego,"En vigencia",4391
+4392,San Diego,"En vigencia",4392
+4393,Mariscal Sucre,"En vigencia",4393
+4394,San Bartolo,"En vigencia",4394
+4395,San Roque,"En vigencia",4395
+4396,San Diego,"En vigencia",4396
+4397,San Diego,"En vigencia",4397
+4398,San Diego,"En vigencia",4398
+4399,San Juan,"En vigencia",4399
+4400,San Diego,"En vigencia",4400
+4401,San Diego,"En vigencia",4401
+4402,San Diego,"En vigencia",4402
+4403,San Diego,"En vigencia",4403
+4404,San Diego,"En vigencia",4404
+4405,San Diego,"En vigencia",4405
+4406,Cotocollao,"En vigencia",4406
+4407,San Diego,"En vigencia",4407
+4408,Chimbacalle,"En vigencia",4408
+4409,San Diego,"En vigencia",4409
+4410,San Diego,"En vigencia",4410
+4411,San Diego,"En vigencia",4411
+4412,La Libertad,"En vigencia",4412
+4413,San Diego,"En vigencia",4413
+4414,San Diego,"En vigencia",4414
+4415,Turubamba,"En vigencia",4415
+4416,San Diego,"En vigencia",4416
+4417,San Diego,"En vigencia",4417
+4418,La Ferroviaria,"En vigencia",4418
+4419,San Roque,"En vigencia",4419
+4420,San Diego,"En vigencia",4420
+4421,Rumipamba,"En vigencia",4421
+4422,La Argelia,"En vigencia",4422
+4423,San Diego,"En vigencia",4423
+4424,San Diego,"En vigencia",4424
+4425,Centro Histórico,"En vigencia",4425
+4426,San Diego,"En vigencia",4426
+4427,San Roque,"En vigencia",4427
+4428,San Diego,"En vigencia",4428
+4429,San Roque,"En vigencia",4429
+4430,San Roque,"En vigencia",4430
+4431,San Roque,"En vigencia",4431
+4432,San Diego,"En vigencia",4432
+4433,San Diego,"En vigencia",4433
+4434,Puengasí,"En vigencia",4434
+4435,San Diego,"En vigencia",4435
+4436,San Diego,"En vigencia",4436
+4437,La Ferroviaria,"En vigencia",4437
+4438,San Diego,"En vigencia",4438
+4439,San Diego,"En vigencia",4439
+4440,Centro Histórico,"En vigencia",4440
+4441,San Diego,"En vigencia",4441
+4442,San Diego,"En vigencia",4442
+4443,Puengasí,"En vigencia",4443
+4444,San Roque,"En vigencia",4444
+4445,San Diego,"En vigencia",4445
+4446,San Diego,"En vigencia",4446
+4447,San Diego,"En vigencia",4447
+4448,San Diego,"En vigencia",4448
+4449,San Roque,"En vigencia",4449
+4450,El Condado,"No existe",4450
+4451,La Argelia,"En vigencia",4451
+4452,Cochapamba,"En vigencia",4452
+4453,San Diego,"En vigencia",4453
+4454,San Diego,"En vigencia",4454
+4455,San Diego,"En vigencia",4455
+4456,San Diego,"En vigencia",4456
+4457,San Diego,"En vigencia",4457
+4458,San Diego,"En vigencia",4458
+4459,Jipijapa,"En vigencia",4459
+4460,San Diego,"En vigencia",4460
+4461,San Diego,"En vigencia",4461
+4462,San Diego,"En vigencia",4462
+4463,San Diego,"En vigencia",4463
+4464,San Roque,"En vigencia",4464
+4465,San Diego,"En vigencia",4465
+4466,San Roque,"En vigencia",4466
+4467,La Ecuatoriana,"En vigencia",4467
+4468,San Roque,"En vigencia",4468
+4469,San Diego,"En vigencia",4469
+4470,San Diego,"En vigencia",4470
+4471,San Roque,"En vigencia",4471
+4472,San Diego,"En vigencia",4472
+4473,San Roque,"En vigencia",4473
+4474,El Condado,"En vigencia",4474
+4475,Mariscal Sucre,"En vigencia",4475
+4476,San Diego,"En vigencia",4476
+4477,El Condado,"No existe",4477
+4478,La Argelia,"En vigencia",4478
+4479,San Diego,"En vigencia",4479
+4480,San Diego,"En vigencia",4480
+4481,San Diego,"En vigencia",4481
+4482,San Diego,"En vigencia",4482
+4483,Belisario Quevedo,"En vigencia",4483
+4484,Kennedy,"En vigencia",4484
+4485,La Ferroviaria,"En vigencia",4485
+4486,San Diego,"En vigencia",4486
+4487,Centro Histórico,"En vigencia",4487
+4488,San Roque,"En vigencia",4488
+4489,Puengasí,"En vigencia",4489
+4490,San Diego,"En vigencia",4490
+4491,San Roque,"En vigencia",4491
+4492,San Diego,"En vigencia",4492
+4493,Cochapamba,"En vigencia",4493
+4494,Chimbacalle,"En vigencia",4494
+4495,Chillogallo,"En vigencia",4495
+4496,San Diego,"En vigencia",4496
+4497,San Diego,"En vigencia",4497
+4498,La Magdalena,"En vigencia",4498
+4499,San Roque,"En vigencia",4499
+4500,Puengasí,"En vigencia",4500
+4501,San Roque,"En vigencia",4501
+4502,El Condado,"En vigencia",4502
+4503,San Diego,"En vigencia",4503
+4504,Centro Histórico,"En vigencia",4504
+4505,Calderón,"En vigencia",4505
+4506,Cochapamba,"En vigencia",4506
+4507,San Diego,"En vigencia",4507
+4508,San Diego,"En vigencia",4508
+4509,San Diego,"En vigencia",4509
+4510,Centro Histórico,"En vigencia",4510
+4511,Solanda,"En vigencia",4511
+4512,Ponceano,"En vigencia",4512
+4513,El Condado,"En vigencia",4513
+4514,San Diego,"En vigencia",4514
+4515,Cochapamba,"En vigencia",4515
+4516,Guamaní,"En vigencia",4516
+4517,San Diego,"En vigencia",4517
+4518,Itchimbía,"En vigencia",4518
+4519,San Roque,"En vigencia",4519
+4520,San Diego,"No existe",4520
+4521,San Diego,"En vigencia",4521
+4522,La Concepción,"En vigencia",4522
+4523,San Diego,"En vigencia",4523
+4524,Mariscal Sucre,"En vigencia",4524
+4525,San Diego,"En vigencia",4525
+4526,San Diego,"En vigencia",4526
+4527,San Diego,"En vigencia",4527
+4528,San Roque,"En vigencia",4528
+4529,San Diego,"En vigencia",4529
+4530,San Diego,"En vigencia",4530
+4531,San Diego,"En vigencia",4531
+4532,Solanda,"En vigencia",4532
+4533,Centro Histórico,"En vigencia",4533
+4534,San Diego,"En vigencia",4534
+4535,San Diego,"En vigencia",4535
+4536,Belisario Quevedo,"En vigencia",4536
+4537,San Diego,"En vigencia",4537
+4538,San Diego,"En vigencia",4538
+4539,San Diego,"En vigencia",4539
+4540,San Roque,"En vigencia",4540
+4541,Mariscal Sucre,"En vigencia",4541
+4542,Itchimbía,"En vigencia",4542
+4543,San Diego,"En vigencia",4543
+4544,San Diego,"En vigencia",4544
+4545,El Condado,"En vigencia",4545
+4546,San Diego,"En vigencia",4546
+4547,San Diego,"En vigencia",4547
+4548,Belisario Quevedo,"En vigencia",4548
+4549,San Diego,"En vigencia",4549
+4550,San Diego,"En vigencia",4550
+4551,San Diego,"En vigencia",4551
+4552,San Diego,"En vigencia",4552
+4553,Quitumbe,"En vigencia",4553
+4554,Mariscal Sucre,"En vigencia",4554
+4555,San Diego,"En vigencia",4555
+4556,Comité del Pueblo,"En vigencia",4556
+4557,San Diego,"En vigencia",4557
+4558,San Diego,"En vigencia",4558
+4559,Kennedy,"En vigencia",4559
+4560,San Diego,"En vigencia",4560
+4561,San Diego,"No existe",4561
+4562,San Roque,"En vigencia",4562
+4563,Cochapamba,"En vigencia",4563
+4564,San Diego,"En vigencia",4564
+4565,Comité del Pueblo,"En vigencia",4565
+4566,San Diego,"En vigencia",4566
+4567,San Diego,"En vigencia",4567
+4568,San Diego,"En vigencia",4568
+4569,San Diego,"En vigencia",4569
+4570,Ponceano,"En vigencia",4570
+4571,San Roque,"En vigencia",4571
+4572,San Diego,"En vigencia",4572
+4573,San Diego,"En vigencia",4573
+4574,San Diego,"En vigencia",4574
+4575,San Roque,"En vigencia",4575
+4576,La Mena,"En vigencia",4576
+4577,San Diego,"En vigencia",4577
+4578,San Diego,"En vigencia",4578
+4579,San Diego,"En vigencia",4579
+4580,El Condado,"En vigencia",4580
+4581,La Ecuatoriana,"En vigencia",4581
+4582,Kennedy,"En vigencia",4582
+4583,San Diego,"En vigencia",4583
+4584,San Roque,"En vigencia",4584
+4585,La Mena,"No existe",4585
+4586,San Diego,"En vigencia",4586
+4587,Iñaquito,"En vigencia",4587
+4588,La Ecuatoriana,"En vigencia",4588
+4589,San Diego,"En vigencia",4589
+4590,San Bartolo,"En vigencia",4590
+4591,San Diego,"En vigencia",4591
+4592,San Diego,"En vigencia",4592
+4593,Rumipamba,"En vigencia",4593
+4594,San Diego,"En vigencia",4594
+4595,La Magdalena,"En vigencia",4595
+4596,Chilibulo,"En vigencia",4596
+4597,San Diego,"En vigencia",4597
+4598,Guamaní,"En vigencia",4598
+4599,San Diego,"En vigencia",4599
+4600,San Diego,"En vigencia",4600
+4601,San Diego,"En vigencia",4601
+4602,Ponceano,"En vigencia",4602
+4603,Iñaquito,"En vigencia",4603
+4604,Rumipamba,"En vigencia",4604
+4605,San Diego,"En vigencia",4605
+4606,San Diego,"En vigencia",4606
+4607,San Diego,"En vigencia",4607
+4608,San Diego,"En vigencia",4608
+4609,San Diego,"En vigencia",4609
+4610,San Diego,"En vigencia",4610
+4611,San Diego,"En vigencia",4611
+4612,Quitumbe,"En vigencia",4612
+4613,La Concepción,"En vigencia",4613
+4614,San Diego,"En vigencia",4614
+4615,San Diego,"En vigencia",4615
+4616,Cotocollao,"En vigencia",4616
+4617,San Diego,"En vigencia",4617
+4618,Itchimbía,"En vigencia",4618
+4619,Iñaquito,"En vigencia",4619
+4620,San Diego,"En vigencia",4620
+4621,San Diego,"En vigencia",4621
+4622,San Diego,"En vigencia",4622
+4623,San Diego,"En vigencia",4623
+4624,San Diego,"En vigencia",4624
+4625,San Juan,"En vigencia",4625
+4626,Guamaní,"En vigencia",4626
+4627,San Roque,"En vigencia",4627
+4628,San Diego,"En vigencia",4628
+4629,San Roque,"En vigencia",4629
+4630,San Diego,"En vigencia",4630
+4631,La Mena,"En vigencia",4631
+4632,San Roque,"En vigencia",4632
+4633,San Diego,"En vigencia",4633
+4634,San Diego,"En vigencia",4634
+4635,Centro Histórico,"En vigencia",4635
+4636,San Roque,"En vigencia",4636
+4637,Guamaní,"En vigencia",4637
+4638,Cochapamba,"En vigencia",4638
+4639,Quitumbe,"En vigencia",4639
+4640,San Roque,"En vigencia",4640
+4641,San Diego,"En vigencia",4641
+4642,San Diego,"En vigencia",4642
+4643,La Argelia,"En vigencia",4643
+4644,San Diego,"En vigencia",4644
+4645,San Roque,"En vigencia",4645
+4646,San Diego,"En vigencia",4646
+4647,Jipijapa,"En vigencia",4647
+4648,San Roque,"En vigencia",4648
+4649,San Diego,"En vigencia",4649
+4650,San Diego,"En vigencia",4650
+4651,La Magdalena,"En vigencia",4651
+4652,San Diego,"En vigencia",4652
+4653,San Diego,"En vigencia",4653
+4654,San Diego,"En vigencia",4654
+4655,San Diego,"En vigencia",4655
+4656,San Diego,"En vigencia",4656
+4657,San Diego,"En vigencia",4657
+4658,San Diego,"En vigencia",4658
+4659,San Diego,"En vigencia",4659
+4660,Jipijapa,"En vigencia",4660
+4661,San Diego,"En vigencia",4661
+4662,San Diego,"En vigencia",4662
+4663,San Diego,"En vigencia",4663
+4664,San Diego,"En vigencia",4664
+4665,La Ecuatoriana,"En vigencia",4665
+4666,San Diego,"En vigencia",4666
+4667,Comité del Pueblo,"En vigencia",4667
+4668,San Diego,"En vigencia",4668
+4669,San Diego,"En vigencia",4669
+4670,San Diego,"En vigencia",4670
+4671,San Diego,"En vigencia",4671
+4672,San Diego,"En vigencia",4672
+4673,La Libertad,"En vigencia",4673
+4674,Quitumbe,"En vigencia",4674
+4675,San Diego,"En vigencia",4675
+4676,San Diego,"En vigencia",4676
+4677,San Diego,"En vigencia",4677
+4678,Solanda,"En vigencia",4678
+4679,San Diego,"En vigencia",4679
+4680,Chillogallo,"En vigencia",4680
+4681,San Diego,"En vigencia",4681
+4682,Calderón,"En vigencia",4682
+4683,Cotocollao,"En vigencia",4683
+4684,San Diego,"En vigencia",4684
+4685,San Diego,"En vigencia",4685
+4686,San Diego,"En vigencia",4686
+4687,San Diego,"No existe",4687
+4688,San Diego,"En vigencia",4688
+4689,San Roque,"En vigencia",4689
+4690,San Diego,"En vigencia",4690
+4691,Cotocollao,"En vigencia",4691
+4692,San Roque,"En vigencia",4692
+4693,San Diego,"En vigencia",4693
+4694,San Diego,"En vigencia",4694
+4695,San Diego,"En vigencia",4695
+4696,Ponceano,"En vigencia",4696
+4697,San Diego,"En vigencia",4697
+4698,San Diego,"En vigencia",4698
+4699,San Diego,"En vigencia",4699
+4700,Jipijapa,"En vigencia",4700
+4701,San Diego,"En vigencia",4701
+4702,Centro Histórico,"En vigencia",4702
+4703,El Condado,"En vigencia",4703
+4704,San Diego,"En vigencia",4704
+4705,La Magdalena,"En vigencia",4705
+4706,San Diego,"En vigencia",4706
+4707,Iñaquito,"En vigencia",4707
+4708,San Diego,"En vigencia",4708
+4709,Mariscal Sucre,"En vigencia",4709
+4710,La Magdalena,"En vigencia",4710
+4711,Chilibulo,"En vigencia",4711
+4712,La Concepción,"En vigencia",4712
+4713,San Diego,"En vigencia",4713
+4714,San Diego,"En vigencia",4714
+4715,San Diego,"En vigencia",4715
+4716,San Diego,"En vigencia",4716
+4717,San Diego,"En vigencia",4717
+4718,San Diego,"En vigencia",4718
+4719,San Diego,"En vigencia",4719
+4720,Mariscal Sucre,"En vigencia",4720
+4721,San Diego,"En vigencia",4721
+4722,La Mena,"En vigencia",4722
+4723,San Diego,"En vigencia",4723
+4724,Itchimbía,"En vigencia",4724
+4725,San Diego,"En vigencia",4725
+4726,San Diego,"En vigencia",4726
+4727,San Diego,"En vigencia",4727
+4728,San Diego,"En vigencia",4728
+4729,Carcelén,"En vigencia",4729
+4730,San Diego,"En vigencia",4730
+4731,Guamaní,"En vigencia",4731
+4732,Iñaquito,"En vigencia",4732
+4733,San Diego,"En vigencia",4733
+4734,San Diego,"En vigencia",4734
+4735,Solanda,"En vigencia",4735
+4736,San Diego,"En vigencia",4736
+4737,Chilibulo,"En vigencia",4737
+4738,San Diego,"En vigencia",4738
+4739,San Diego,"En vigencia",4739
+4740,San Diego,"En vigencia",4740
+4741,San Diego,"En vigencia",4741
+4742,San Diego,"En vigencia",4742
+4743,San Diego,"En vigencia",4743
+4744,San Roque,"En vigencia",4744
+4745,San Diego,"En vigencia",4745
+4746,San Diego,"En vigencia",4746
+4747,La Mena,"En vigencia",4747
+4748,Guamaní,"En vigencia",4748
+4749,San Diego,"En vigencia",4749
+4750,San Diego,"En vigencia",4750
+4751,Turubamba,"En vigencia",4751
+4752,San Roque,"En vigencia",4752
+4753,San Diego,"En vigencia",4753
+4754,San Diego,"En vigencia",4754
+4755,Comité del Pueblo,"En vigencia",4755
+4756,San Diego,"En vigencia",4756
+4757,San Diego,"En vigencia",4757
+4758,Jipijapa,"En vigencia",4758
+4759,San Diego,"En vigencia",4759
+4760,San Diego,"En vigencia",4760
+4761,San Roque,"En vigencia",4761
+4762,San Roque,"En vigencia",4762
+4763,San Diego,"En vigencia",4763
+4764,San Diego,"En vigencia",4764
+4765,Mariscal Sucre,"En vigencia",4765
+4766,San Roque,"En vigencia",4766
+4767,San Diego,"En vigencia",4767
+4768,San Roque,"En vigencia",4768
+4769,Puengasí,"No existe",4769
+4770,San Diego,"En vigencia",4770
+4771,San Diego,"En vigencia",4771
+4772,La Libertad,"En vigencia",4772
+4773,San Diego,"En vigencia",4773
+4774,San Diego,"En vigencia",4774
+4775,San Diego,"En vigencia",4775
+4776,San Diego,"En vigencia",4776
+4777,San Diego,"En vigencia",4777
+4778,Kennedy,"En vigencia",4778
+4779,La Ecuatoriana,"En vigencia",4779
+4780,Guamaní,"No existe",4780
+4781,La Ferroviaria,"En vigencia",4781
+4782,San Diego,"En vigencia",4782
+4783,Itchimbía,"En vigencia",4783
+4784,San Roque,"En vigencia",4784
+4785,San Roque,"En vigencia",4785
+4786,La Magdalena,"En vigencia",4786
+4787,San Roque,"En vigencia",4787
+4788,Quitumbe,"En vigencia",4788
+4789,Iñaquito,"No existe",4789
+4790,Guamaní,"En vigencia",4790
+4791,Mariscal Sucre,"En vigencia",4791
+4792,Quitumbe,"En vigencia",4792
+4793,San Diego,"En vigencia",4793
+4794,San Diego,"En vigencia",4794
+4795,San Diego,"En vigencia",4795
+4796,Solanda,"En vigencia",4796
+4797,Guamaní,"En vigencia",4797
+4798,Belisario Quevedo,"En vigencia",4798
+4799,San Diego,"En vigencia",4799
+4800,La Magdalena,"En vigencia",4800
+4801,San Diego,"En vigencia",4801
+4802,San Diego,"En vigencia",4802
+4803,Cotocollao,"En vigencia",4803
+4804,San Diego,"En vigencia",4804
+4805,San Diego,"En vigencia",4805
+4806,San Diego,"En vigencia",4806
+4807,San Diego,"En vigencia",4807
+4808,San Diego,"En vigencia",4808
+4809,San Diego,"En vigencia",4809
+4810,San Diego,"En vigencia",4810
+4811,San Diego,"En vigencia",4811
+4812,San Diego,"En vigencia",4812
+4813,San Diego,"En vigencia",4813
+4814,Turubamba,"En vigencia",4814
+4815,Ponceano,"En vigencia",4815
+4816,San Diego,"En vigencia",4816
+4817,San Diego,"En vigencia",4817
+4818,San Roque,"En vigencia",4818
+4819,Cotocollao,"En vigencia",4819
+4820,San Diego,"En vigencia",4820
+4821,San Diego,"En vigencia",4821
+4822,San Diego,"En vigencia",4822
+4823,San Diego,"En vigencia",4823
+4824,Centro Histórico,"En vigencia",4824
+4825,Centro Histórico,"En vigencia",4825
+4826,San Roque,"En vigencia",4826
+4827,San Diego,"En vigencia",4827
+4828,San Diego,"En vigencia",4828
+4829,Puengasí,"En vigencia",4829
+4830,Mariscal Sucre,"En vigencia",4830
+4831,San Roque,"En vigencia",4831
+4832,San Diego,"En vigencia",4832
+4833,Jipijapa,"En vigencia",4833
+4834,San Diego,"En vigencia",4834
+4835,San Diego,"En vigencia",4835
+4836,San Diego,"En vigencia",4836
+4837,San Diego,"En vigencia",4837
+4838,San Diego,"En vigencia",4838
+4839,San Diego,"En vigencia",4839
+4840,Puengasí,"En vigencia",4840
+4841,San Diego,"En vigencia",4841
+4842,Belisario Quevedo,"En vigencia",4842
+4843,Chillogallo,"En vigencia",4843
+4844,San Roque,"En vigencia",4844
+4845,Turubamba,"En vigencia",4845
+4846,San Diego,"En vigencia",4846
+4847,San Diego,"En vigencia",4847
+4848,San Diego,"En vigencia",4848
+4849,San Bartolo,"En vigencia",4849
+4850,San Diego,"En vigencia",4850
+4851,Chimbacalle,"En vigencia",4851
+4852,San Diego,"En vigencia",4852
+4853,San Diego,"En vigencia",4853
+4854,Comité del Pueblo,"En vigencia",4854
+4855,San Diego,"En vigencia",4855
+4856,Mariscal Sucre,"En vigencia",4856
+4857,Turubamba,"En vigencia",4857
+4858,Comité del Pueblo,"En vigencia",4858
+4859,San Diego,"En vigencia",4859
+4860,San Diego,"En vigencia",4860
+4861,San Diego,"En vigencia",4861
+4862,San Diego,"En vigencia",4862
+4863,La Ferroviaria,"En vigencia",4863
+4864,Ponceano,"En vigencia",4864
+4865,San Diego,"En vigencia",4865
+4866,San Roque,"En vigencia",4866
+4867,San Diego,"En vigencia",4867
+4868,San Juan,"En vigencia",4868
+4869,San Juan,"En vigencia",4869
+4870,San Roque,"En vigencia",4870
+4871,San Diego,"En vigencia",4871
+4872,San Diego,"En vigencia",4872
+4873,San Diego,"En vigencia",4873
+4874,Jipijapa,"En vigencia",4874
+4875,Cochapamba,"No existe",4875
+4876,San Diego,"En vigencia",4876
+4877,San Diego,"En vigencia",4877
+4878,San Roque,"En vigencia",4878
+4879,Mariscal Sucre,"En vigencia",4879
+4880,San Roque,"En vigencia",4880
+4881,San Diego,"En vigencia",4881
+4882,San Diego,"En vigencia",4882
+4883,Quitumbe,"En vigencia",4883
+4884,San Diego,"En vigencia",4884
+4885,Puengasí,"En vigencia",4885
+4886,Puengasí,"En vigencia",4886
+4887,San Diego,"En vigencia",4887
+4888,La Ecuatoriana,"En vigencia",4888
+4889,San Diego,"En vigencia",4889
+4890,San Diego,"En vigencia",4890
+4891,San Diego,"En vigencia",4891
+4892,El Condado,"En vigencia",4892
+4893,La Ferroviaria,"En vigencia",4893
+4894,El Condado,"En vigencia",4894
+4895,La Magdalena,"En vigencia",4895
+4896,San Diego,"En vigencia",4896
+4897,San Diego,"En vigencia",4897
+4898,San Diego,"En vigencia",4898
+4899,Kennedy,"En vigencia",4899
+4900,San Diego,"En vigencia",4900
+4901,San Diego,"En vigencia",4901
+4902,San Bartolo,"En vigencia",4902
+4903,San Diego,"En vigencia",4903
+4904,San Diego,"En vigencia",4904
+4905,Rumipamba,"En vigencia",4905
+4906,Quitumbe,"En vigencia",4906
+4907,San Diego,"En vigencia",4907
+4908,San Diego,"En vigencia",4908
+4909,Cotocollao,"En vigencia",4909
+4910,San Diego,"En vigencia",4910
+4911,San Diego,"En vigencia",4911
+4912,Carcelén,"En vigencia",4912
+4913,San Diego,"En vigencia",4913
+4914,La Ecuatoriana,"En vigencia",4914
+4915,San Diego,"En vigencia",4915
+4916,La Concepción,"En vigencia",4916
+4917,Turubamba,"En vigencia",4917
+4918,San Diego,"En vigencia",4918
+4919,San Diego,"En vigencia",4919
+4920,Rumipamba,"En vigencia",4920
+4921,Guamaní,"En vigencia",4921
+4922,San Diego,"En vigencia",4922
+4923,La Magdalena,"En vigencia",4923
+4924,San Diego,"En vigencia",4924
+4925,San Juan,"En vigencia",4925
+4926,San Diego,"En vigencia",4926
+4927,San Diego,"En vigencia",4927
+4928,Guamaní,"En vigencia",4928
+4929,San Diego,"En vigencia",4929
+4930,San Diego,"En vigencia",4930
+4931,San Diego,"En vigencia",4931
+4932,Rumipamba,"En vigencia",4932
+4933,San Diego,"En vigencia",4933
+4934,Guamaní,"En vigencia",4934
+4935,San Diego,"En vigencia",4935
+4936,La Libertad,"En vigencia",4936
+4937,Guamaní,"En vigencia",4937
+4938,San Diego,"En vigencia",4938
+4939,San Diego,"En vigencia",4939
+4940,Itchimbía,"En vigencia",4940
+4941,Chillogallo,"En vigencia",4941
+4942,San Diego,"En vigencia",4942
+4943,San Diego,"En vigencia",4943
+4944,San Diego,"No existe",4944
+4945,San Diego,"En vigencia",4945
+4946,San Roque,"No existe",4946
+4947,San Diego,"En vigencia",4947
+4948,Iñaquito,"En vigencia",4948
+4949,San Diego,"En vigencia",4949
+4950,San Diego,"En vigencia",4950
+4951,San Diego,"En vigencia",4951
+4952,San Diego,"En vigencia",4952
+4953,San Diego,"En vigencia",4953
+4954,El Condado,"En vigencia",4954
+4955,San Diego,"En vigencia",4955
+4956,San Diego,"En vigencia",4956
+4957,San Diego,"En vigencia",4957
+4958,San Diego,"En vigencia",4958
+4959,San Diego,"En vigencia",4959
+4960,La Ecuatoriana,"En vigencia",4960
+4961,San Diego,"En vigencia",4961
+4962,San Diego,"En vigencia",4962
+4963,San Diego,"En vigencia",4963
+4964,Calderón,"En vigencia",4964
+4965,Chilibulo,"En vigencia",4965
+4966,San Diego,"En vigencia",4966
+4967,San Diego,"En vigencia",4967
+4968,Calderón,"En vigencia",4968
+4969,San Roque,"En vigencia",4969
+4970,San Diego,"En vigencia",4970
+4971,San Diego,"En vigencia",4971
+4972,Mariscal Sucre,"En vigencia",4972
+4973,Belisario Quevedo,"En vigencia",4973
+4974,Itchimbía,"En vigencia",4974
+4975,San Diego,"En vigencia",4975
+4976,San Diego,"En vigencia",4976
+4977,Guamaní,"En vigencia",4977
+4978,San Diego,"En vigencia",4978
+4979,San Diego,"En vigencia",4979
+4980,San Diego,"En vigencia",4980
+4981,San Bartolo,"En vigencia",4981
+4982,La Ecuatoriana,"En vigencia",4982
+4983,Iñaquito,"En vigencia",4983
+4984,San Diego,"En vigencia",4984
+4985,Centro Histórico,"En vigencia",4985
+4986,San Diego,"En vigencia",4986
+4987,San Roque,"En vigencia",4987
+4988,San Diego,"En vigencia",4988
+4989,La Libertad,"En vigencia",4989
+4990,San Diego,"En vigencia",4990
+4991,Ponceano,"En vigencia",4991
+4992,El Condado,"En vigencia",4992
+4993,San Diego,"En vigencia",4993
+4994,San Diego,"En vigencia",4994
+4995,Belisario Quevedo,"En vigencia",4995
+4996,San Diego,"En vigencia",4996
+4997,Iñaquito,"En vigencia",4997
+4998,San Diego,"En vigencia",4998
+4999,La Ferroviaria,"En vigencia",4999
+5000,Cotocollao,"En vigencia",5000
