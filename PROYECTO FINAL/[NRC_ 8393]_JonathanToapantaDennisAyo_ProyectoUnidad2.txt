@@ -1,0 +1,217 @@
+----------------------------------------------------------------------------
+                                      Vistas
+----------------------------------------------------------------------------
+1) Crear una Vista que muestra todas las UPC con sus respectivas 
+ciudades, parroquias, cantones y provincias asociadas:
+
+CREATE VIEW vw_upc AS
+SELECT u.nbr_upc_id, u.var_upc_nombre, 
+ci.var_ciu_nombre, pa.var_parro_nombre, ca.var_can_nombre, p.var_pro_nombre
+FROM tb_upc u
+JOIN tb_ciudad ci ON u.nbr_ciu_id = ci.nbr_ciu_id
+JOIN tb_parroquia pa ON ci.nbr_parro_id = pa.nbr_parro_id
+JOIN tb_canton ca ON pa.nbr_can_id = ca.nbr_can_id
+JOIN tb_provincia p ON ca.nbr_pro_id = p.nbr_pro_id;
+
+COLUMN nbr_upc_id FORMAT 9999
+COLUMN var_upc_nombre FORMAT A20
+COLUMN var_ciu_nombre FORMAT A20
+COLUMN var_parro_nombre FORMAT A20 
+COLUMN var_can_nombre FORMAT A20
+COLUMN var_pro_nombre FORMAT A20
+
+SELECT * FROM vw_upc;
+----------------------------------------------------------------------------
+2) Crear una vista que muestre de delincuentes con sus pandillas y asaltos:
+
+CREATE VIEW vw_delincuente AS
+SELECT d.nbr_delin_id, d.var_delin_nombre, d.var_delin_apodo, d.var_delin_pandilla,
+    a.nbr_asl_id AS asalto_id, a.var_asl_forma_asaltar AS asalto_forma
+FROM tb_delincuente d
+LEFT JOIN tb_asalto a ON d.nbr_delin_id = a.nbr_delin_id;
+
+
+COLUMN NBR_DELIN_ID FORMAT 9999
+COLUMN VAR_DELIN_NOMBRE FORMAT A20
+COLUMN VAR_DELIN_APODO FORMAT A20
+COLUMN VAR_DELIN_PANDILLA FORMAT A20 
+COLUMN NBR_ASL_ID FORMAT 9999
+COLUMN VAR_ASL_FORMA_ASALTAR FORMAT A20
+
+SELECT * FROM vw_delincuente;
+----------------------------------------------------------------------------
+3) Crear una vista que muestre de los policías con sus habitad 
+en el que trabajan y los barrios de cada uno:
+
+CREATE VIEW vw_policia_info AS
+SELECT p.nbr_pol_id as ID_POL, p.var_pol_nombre as POL_NOMBRE, p.var_pol_cargo as CARGO_POL, 
+p.var_pol_salario as SALARIO, h.var_hab_descripcion AS Habitad, b.var_ba_nombre AS Barrio
+FROM tb_policia p
+LEFT JOIN tb_habitad h ON p.nbr_pol_id = h.nbr_pol_id
+LEFT JOIN tb_barrio b ON p.nbr_pol_id = b.nbr_pol_id;
+
+COLUMN ID_POL FORMAT 9999
+COLUMN POL_NOMBRE FORMAT A20
+COLUMN CARGO_POL FORMAT A20
+COLUMN SALARIO FORMAT 9999
+COLUMN HABITAD FORMAT A20
+COLUMN BARRIO FORMAT A20
+
+SELECT * FROM vw_policia_info;
+----------------------------------------------------------------------------
+4) Crear una vista que muestra el número de incidentes reportados en cada barrio:
+
+CREATE VIEW vw_num_incidentes_barrio AS
+SELECT b.var_ba_nombre as nombre_barrio, COUNT(i.nbr_inc_id) AS num_incidentes
+FROM tb_barrio b
+JOIN tb_civil c ON b.nbr_ba_id = c.nbr_ba_id
+JOIN tb_incidente i ON c.nbr_ci_id = i.nbr_ci_id
+GROUP BY b.var_ba_nombre;
+
+
+COLUMN NOMBRE_BARRIO FORMAT A20
+COLUMN NUM_INCIDENTES FORMAT 9999
+
+SELECT * FROM vw_num_incidentes_barrio;
+----------------------------------------------------------------------------
+                                   Triggers
+----------------------------------------------------------------------------
+
+CREATE OR REPLACE TRIGGER tg_validar_status_delincuente
+BEFORE INSERT OR UPDATE ON tb_delincuente
+FOR EACH ROW
+BEGIN
+    IF :NEW.var_delin_status NOT IN ('activo', 'inactivo', 'capturado') THEN
+        RAISE_APPLICATION_ERROR(-20001, 'El estado del delincuente debe ser "activo", "inactivo" o "capturado"');
+    END IF;
+END;
+/
+
+________________________________________________________________________________________________________________________________________________________
+
+CREATE OR REPLACE TRIGGER tg_validar_barrio_asalto
+BEFORE INSERT OR UPDATE ON tb_asalto
+FOR EACH ROW
+DECLARE
+    v_count NUMBER;
+BEGIN
+    SELECT COUNT(*) INTO v_count FROM tb_barrio WHERE nbr_ba_id = :NEW.nbr_ba_id;
+    IF v_count = 0 THEN
+        RAISE_APPLICATION_ERROR(-20001, 'El barrio especificado no existe en la tabla tb_barrio');
+    END IF;
+END;
+/
+
+________________________________________________________________________________________________________________________________________________________
+
+
+CREATE OR REPLACE TRIGGER tg_registrar_date_incidente
+BEFORE INSERT ON tb_incidente
+FOR EACH ROW
+BEGIN
+    :NEW.var_inc_fecha := TO_CHAR(SYSDATE, 'DD-MON-YYYY HH24:MI:SS');
+END;
+/
+
+________________________________________________________________________________________________________________________________________________________
+
+CREATE OR REPLACE TRIGGER tg_validar_ciu_upc
+BEFORE INSERT OR UPDATE ON tb_upc
+FOR EACH ROW
+DECLARE
+    v_count NUMBER;
+BEGIN
+    SELECT COUNT(*) INTO v_count FROM tb_ciudad WHERE nbr_ciu_id = :NEW.nbr_ciu_id;
+    IF v_count = 0 THEN
+        RAISE_APPLICATION_ERROR(-20001, 'La ciudad especificada no existe en la tabla tb_ciudad');
+    END IF;
+END;
+/
+
+________________________________________________________________________________________________________________________________________________________
+
+
+CREATE OR REPLACE TRIGGER tg_validar_ba_id
+BEFORE INSERT OR UPDATE ON tb_civil
+FOR EACH ROW
+DECLARE
+    v_count NUMBER;
+BEGIN
+    SELECT COUNT(*) INTO v_count FROM tb_barrio WHERE nbr_ba_id = :NEW.nbr_ba_id;
+    IF v_count = 0 THEN
+        RAISE_APPLICATION_ERROR(-20001, 'El barrio especificado no existe en la tabla tb_barrio');
+    END IF;
+END;
+/
+________________________________________________________________________________________________________________________________________________________
+
+
+----------------------------------------------------------------------------
+                                   FUNCIONES
+----------------------------------------------------------------------------
+
+_____________________________________________________________________________________________________________________________________________________
+			 															    |
+FUNCION 1																	    |
+____________________________________________________________________________________________________________________________________________________|
+
+
+CREATE OR REPLACE FUNCTION fn_contar_upc(nombre_ciudad IN VARCHAR2, nombre_barrio IN VARCHAR2)
+RETURN NUMBER
+IS
+    nbr_total NUMBER;
+BEGIN
+    SELECT COUNT(tb_upc.nbr_upc_id)
+    INTO nbr_total
+    FROM tb_ciudad
+    INNER JOIN tb_upc ON tb_upc.nbr_ciu_id = tb_ciudad.nbr_ciu_id
+    INNER JOIN tb_habitad ON tb_habitad.nbr_upc_id = tb_upc.nbr_upc_id
+    INNER JOIN tb_policia ON tb_policia.nbr_pol_id = tb_habitad.nbr_pol_id
+    INNER JOIN tb_barrio ON tb_barrio.nbr_pol_id = tb_policia.nbr_pol_id
+    WHERE tb_ciudad.var_ciu_nombre = nombre_ciudad
+      AND tb_barrio.var_ba_nombre = nombre_barrio;
+
+    RETURN nbr_total;
+END;
+/
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SET SERVEROUTPUT ON
+DECLARE
+    v_total_upc NUMBER;
+BEGIN
+    v_total_upc := fn_contar_upc('Quito', 'San Roque');
+
+    DBMS_OUTPUT.PUT_LINE('En la ciudad '|| 'Quito' || ' el barrio ' || 'San Roque' || ' tiene un total de ' || v_total_upc || ' UPCs.');
+END;
+/
+
+____________________________________________________________
+			 				    |
+FUNCION 2					            |
+____________________________________________________________|
+
+CREATE OR REPLACE FUNCTION fn_contar_pandillas(
+    nombre_barrio IN VARCHAR2
+)
+RETURN NUMBER
+IS
+    v_total NUMBER;
+BEGIN
+    SELECT COUNT(DISTINCT tb_delincuente.var_delin_pandilla)
+    INTO v_total
+    FROM tb_ciudad
+    INNER JOIN tb_upc ON tb_upc.nbr_ciu_id = tb_ciudad.nbr_ciu_id
+    INNER JOIN tb_habitad ON tb_habitad.nbr_upc_id = tb_upc.nbr_upc_id
+    INNER JOIN tb_policia ON tb_policia.nbr_pol_id = tb_habitad.nbr_pol_id
+    INNER JOIN tb_barrio ON tb_barrio.nbr_pol_id = tb_policia.nbr_pol_id
+    INNER JOIN tb_asalto ON tb_asalto.nbr_ba_id = tb_barrio.nbr_ba_id
+    INNER JOIN tb_delincuente ON tb_delincuente.nbr_delin_id = tb_asalto.nbr_delin_id
+    WHERE tb_barrio.var_ba_nombre = nombre_barrio
+      AND tb_ciudad.var_ciu_nombre = 'Quito';
+
+    RETURN v_total;
+END;
+/
+
+
